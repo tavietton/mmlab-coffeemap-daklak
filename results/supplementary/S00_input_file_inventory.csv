@@ -1,0 +1,7 @@
+file,exists,size_mb,role
+Table_TrainSamples_FullFeatureSpace_2024.csv,True,2.132,USED_FOR_SPATIAL_BLOCK_CV
+Table_ValSamples_FullFeatureSpace_2024.csv,True,0.914,USED_FOR_SPATIAL_BLOCK_CV
+Table_TrainSamples_RF_Final_2024.csv,True,0.734,IGNORED_TO_AVOID_DUPLICATION
+Table_ValSamples_RF_Final_2024.csv,True,0.315,IGNORED_TO_AVOID_DUPLICATION
+Table_ValPredictions_RF_Final_2024.csv,True,0.316,IGNORED_TO_AVOID_DUPLICATION
+Table_ValPredictions_RF_FullFeatures_2024.csv,True,0.916,IGNORED_TO_AVOID_DUPLICATION

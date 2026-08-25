@@ -1,0 +1,80 @@
+\begin{tabular}{lrrll}
+\toprule
+Strategy & Target feature count & Rank & Predictor & Source group \\
+\midrule
+RF_Pearson & 25 & 1 & S2_dry_CVI & Sentinel-2 \\
+RF_Pearson & 25 & 2 & DEM_elevation & DEM \\
+RF_Pearson & 25 & 3 & S2_dry_MNDWI & Sentinel-2 \\
+RF_Pearson & 25 & 4 & S1_VHasc_p50 & Sentinel-1 \\
+RF_Pearson & 25 & 5 & S2_dry_B11 & Sentinel-2 \\
+RF_Pearson & 25 & 6 & L89_dry_Red & Landsat 8/9 \\
+RF_Pearson & 25 & 7 & S2_wet_NBR2 & Sentinel-2 \\
+RF_Pearson & 25 & 8 & L89_dry_SWIR2_p75 & Landsat 8/9 \\
+RF_Pearson & 25 & 9 & S2_dry_B2 & Sentinel-2 \\
+RF_Pearson & 25 & 10 & L89_dry_NBR2 & Landsat 8/9 \\
+RF_Pearson & 25 & 11 & S1_VVasc_p50 & Sentinel-1 \\
+RF_Pearson & 25 & 12 & S2_wet_GNDVI & Sentinel-2 \\
+RF_Pearson & 25 & 13 & S2_dry_MTCI & Sentinel-2 \\
+RF_Pearson & 25 & 14 & S2_dry_B8 & Sentinel-2 \\
+RF_Pearson & 25 & 15 & S2_dry_NDI & Sentinel-2 \\
+RF_Pearson & 25 & 16 & L89_dry_BSI & Landsat 8/9 \\
+RF_Pearson & 25 & 17 & S2_dry_NDWI & Sentinel-2 \\
+RF_Pearson & 25 & 18 & L89_dry_MSI & Landsat 8/9 \\
+RF_Pearson & 25 & 19 & L89_dry_NDVI & Landsat 8/9 \\
+RF_Pearson & 25 & 20 & S2_dry_SR & Sentinel-2 \\
+RF_Pearson & 25 & 21 & S2_wet_B12 & Sentinel-2 \\
+RF_Pearson & 25 & 22 & L89_wet_NBR2 & Landsat 8/9 \\
+RF_Pearson & 25 & 23 & S2_wet_CVI & Sentinel-2 \\
+RF_Pearson & 25 & 24 & S2_wet_B11 & Sentinel-2 \\
+RF_Pearson & 25 & 25 & S2_dry_B5 & Sentinel-2 \\
+RF_VIF10 & 25 & 1 & S2_dry_CVI & Sentinel-2 \\
+RF_VIF10 & 25 & 2 & DEM_elevation & DEM \\
+RF_VIF10 & 25 & 3 & S2_dry_MNDWI & Sentinel-2 \\
+RF_VIF10 & 25 & 4 & S1_VHasc_p50 & Sentinel-1 \\
+RF_VIF10 & 25 & 5 & S2_dry_B11 & Sentinel-2 \\
+RF_VIF10 & 25 & 6 & L89_dry_Red & Landsat 8/9 \\
+RF_VIF10 & 25 & 7 & S2_wet_NBR2 & Sentinel-2 \\
+RF_VIF10 & 25 & 8 & L89_dry_NBR2 & Landsat 8/9 \\
+RF_VIF10 & 25 & 9 & S1_VVasc_p50 & Sentinel-1 \\
+RF_VIF10 & 25 & 10 & S2_dry_MTCI & Sentinel-2 \\
+RF_VIF10 & 25 & 11 & S2_dry_B6 & Sentinel-2 \\
+RF_VIF10 & 25 & 12 & S2_dry_SR & Sentinel-2 \\
+RF_VIF10 & 25 & 13 & S2_wet_SR & Sentinel-2 \\
+RF_VIF10 & 25 & 14 & L89_wet_NBR & Landsat 8/9 \\
+RF_VIF10 & 25 & 15 & S2_wet_B4 & Sentinel-2 \\
+VIF10_only & 34 & 1 & DEM_aspect & DEM \\
+VIF10_only & 34 & 2 & DEM_elevation & DEM \\
+VIF10_only & 34 & 3 & DEM_hillshade & DEM \\
+VIF10_only & 34 & 4 & DEM_slope & DEM \\
+VIF10_only & 34 & 5 & L89_dry_Blue & Landsat 8/9 \\
+VIF10_only & 34 & 6 & L89_dry_NIR & Landsat 8/9 \\
+VIF10_only & 34 & 7 & L89_wet_Blue & Landsat 8/9 \\
+VIF10_only & 34 & 8 & L89_wet_MSI & Landsat 8/9 \\
+VIF10_only & 34 & 9 & L89_wet_NDMI & Landsat 8/9 \\
+VIF10_only & 34 & 10 & L89_wet_NIR & Landsat 8/9 \\
+VIF10_only & 34 & 11 & L89_wet_SWIR2_p75 & Landsat 8/9 \\
+VIF10_only & 34 & 12 & S1_VH_glcm_asm_5x5 & Sentinel-1 \\
+VIF10_only & 34 & 13 & S1_VH_glcm_contrast_5x5 & Sentinel-1 \\
+VIF10_only & 34 & 14 & S1_VHdesc_p50 & Sentinel-1 \\
+VIF10_only & 34 & 15 & S1_VHdesc_p75 & Sentinel-1 \\
+VIF10_only & 34 & 16 & S1_VHdesc_std & Sentinel-1 \\
+VIF10_only & 34 & 17 & S1_VVasc_p50 & Sentinel-1 \\
+VIF10_only & 34 & 18 & S1_VVdesc_p50 & Sentinel-1 \\
+VIF10_only & 34 & 19 & S1_VVdesc_std & Sentinel-1 \\
+VIF10_only & 34 & 20 & S1_VVminusVH_asc_p50 & Sentinel-1 \\
+VIF10_only & 34 & 21 & S2_dry_B2 & Sentinel-2 \\
+VIF10_only & 34 & 22 & S2_dry_CVI & Sentinel-2 \\
+VIF10_only & 34 & 23 & S2_dry_MTCI & Sentinel-2 \\
+VIF10_only & 34 & 24 & S2_dry_NDMI & Sentinel-2 \\
+VIF10_only & 34 & 25 & S2_dry_PSRI & Sentinel-2 \\
+VIF10_only & 34 & 26 & S2_dry_SR & Sentinel-2 \\
+VIF10_only & 34 & 27 & S2_wet_B2 & Sentinel-2 \\
+VIF10_only & 34 & 28 & S2_wet_B5 & Sentinel-2 \\
+VIF10_only & 34 & 29 & S2_wet_B6 & Sentinel-2 \\
+VIF10_only & 34 & 30 & S2_wet_CVI & Sentinel-2 \\
+VIF10_only & 34 & 31 & S2_wet_MTCI & Sentinel-2 \\
+VIF10_only & 34 & 32 & S2_wet_NDMI & Sentinel-2 \\
+VIF10_only & 34 & 33 & S2_wet_PSRI & Sentinel-2 \\
+VIF10_only & 34 & 34 & S2_wet_SR & Sentinel-2 \\
+\bottomrule
+\end{tabular}

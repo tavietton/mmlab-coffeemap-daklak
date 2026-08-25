@@ -1,0 +1,26 @@
+feature,sensor,group,mean_abs_shap
+S2_dry_CVI,Sentinel-2,Vegetation,0.0637753971632863
+S2_dry_MNDWI,Sentinel-2,Moisture,0.0562668175441969
+S2_dry_NBR2,Sentinel-2,Burn / soil,0.0500256463562155
+S2_wet_NBR2,Sentinel-2,Burn / soil,0.0495833009282938
+L89_dry_BSI,Landsat 8/9,Burn / soil,0.0412656691393255
+S2_dry_B2,Sentinel-2,Raw spectral,0.0404853187857949
+DEM_elevation,DEM,Topography,0.0398112578476263
+S1_VHasc_p50,Sentinel-1,Radar backscatter,0.0389806772887744
+L89_dry_NIR,Landsat 8/9,Raw spectral,0.0349284411442556
+L89_dry_Green,Landsat 8/9,Raw spectral,0.0311618390764638
+L89_dry_MSI,Landsat 8/9,Moisture,0.0306633925511325
+L89_dry_SWIR1,Landsat 8/9,Raw spectral,0.0298794578764757
+S2_dry_NDI,Sentinel-2,Vegetation,0.029745221848767
+L89_wet_NBR2,Landsat 8/9,Burn / soil,0.0290325805859366
+S2_wet_B12,Sentinel-2,Raw spectral,0.0255294512120069
+S2_wet_CVI,Sentinel-2,Vegetation,0.0232946270281086
+S2_wet_B8,Sentinel-2,Raw spectral,0.0206495897043555
+S2_dry_B5,Sentinel-2,Red-edge,0.0183322890626484
+S2_dry_NDMI,Sentinel-2,Moisture,0.0178334053291579
+L89_wet_SWIR2,Landsat 8/9,Burn / soil,0.0152486735382806
+L89_wet_NIR,Landsat 8/9,Raw spectral,0.0119469295827452
+S2_wet_NDMI,Sentinel-2,Moisture,0.0100930452354529
+L89_wet_NDMI,Landsat 8/9,Moisture,0.0075494667102608
+L89_wet_Green,Landsat 8/9,Raw spectral,0.0071253409840402
+L89_wet_MSI,Landsat 8/9,Moisture,0.0065871162886734

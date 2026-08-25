@@ -1,0 +1,333 @@
+{
+  "pipeline": "Dak Lak Coffee Mapping Paper 1",
+  "runs": [
+    {
+      "notebook": "00_audit_inputs_and_reference_data.ipynb",
+      "run_at": "2026-07-14T16:57:31",
+      "python_version": "3.13.5",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "01_build_feature_catalog_and_area_inventory.ipynb",
+      "run_at": "2026-07-14T17:09:10",
+      "python_version": "3.13.5",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "01_build_feature_catalog_and_area_inventory.ipynb",
+      "run_at": "2026-07-14T17:14:34",
+      "python_version": "3.13.5",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "02_benchmark_models_and_accuracy.ipynb",
+      "run_at": "2026-07-14T17:23:47",
+      "python_version": "3.13.5",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "02_benchmark_models_and_accuracy.ipynb",
+      "run_at": "2026-07-14T17:30:41",
+      "python_version": "3.13.5",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "03_interpret_final_rf_with_shap.ipynb",
+      "run_at": "2026-07-14T17:45:20",
+      "python_version": "3.13.5",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "03_interpret_final_rf_with_shap.ipynb",
+      "run_at": "2026-07-14T17:54:19",
+      "python_version": "3.13.5",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "03_interpret_final_rf_with_shap.ipynb",
+      "run_at": "2026-07-14T18:14:24",
+      "python_version": "3.13.5",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "03_interpret_final_rf_with_shap.ipynb",
+      "run_at": "2026-07-14T18:15:15",
+      "python_version": "3.13.5",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "03_interpret_final_rf_with_shap.ipynb",
+      "run_at": "2026-07-14T18:29:08",
+      "python_version": "3.13.5",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "00_audit_inputs_and_reference_data.ipynb",
+      "run_at": "2026-07-14T18:50:51",
+      "python_version": "3.13.5",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "00_audit_inputs_and_reference_data.ipynb",
+      "run_at": "2026-07-14T18:52:27",
+      "python_version": "3.13.5",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "01_build_feature_catalog_and_area_inventory.ipynb",
+      "run_at": "2026-07-14T18:52:44",
+      "python_version": "3.13.5",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "02_benchmark_models_and_accuracy.ipynb",
+      "run_at": "2026-07-14T19:12:09",
+      "python_version": "3.13.5",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "03_interpret_final_rf_with_shap.ipynb",
+      "run_at": "2026-07-14T19:18:04",
+      "python_version": "3.13.5",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "04_estimate_error_adjusted_area.ipynb",
+      "run_at": "2026-07-14T19:38:33",
+      "python_version": "3.13.5",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "05_compare_district_area_with_official_stats.ipynb",
+      "run_at": "2026-07-14T19:38:34",
+      "python_version": "3.13.5",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "06_assemble_submission_package.ipynb",
+      "run_at": "2026-07-14T19:40:10",
+      "python_version": "3.13.5",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "04_estimate_error_adjusted_area.ipynb",
+      "run_at": "2026-07-14T19:46:36",
+      "python_version": "3.13.5",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "01_build_feature_catalog_and_area_inventory.ipynb",
+      "run_at": "2026-07-15T16:43:18",
+      "python_version": "3.13.5",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "04_estimate_error_adjusted_area.ipynb",
+      "run_at": "2026-07-15T16:50:32",
+      "python_version": "3.13.5",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "02_benchmark_models_and_accuracy.ipynb",
+      "run_at": "2026-08-09T00:25:52",
+      "python_version": "3.12.10",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "02_benchmark_models_and_accuracy.ipynb",
+      "run_at": "2026-08-09T02:26:01",
+      "python_version": "3.12.10",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "02_benchmark_models_and_accuracy.ipynb",
+      "run_at": "2026-08-09T02:30:29",
+      "python_version": "3.12.10",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "03_interpret_final_rf_with_shap.ipynb",
+      "run_at": "2026-08-09T02:33:44",
+      "python_version": "3.12.10",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "03_interpret_final_rf_with_shap.ipynb",
+      "run_at": "2026-08-09T02:35:22",
+      "python_version": "3.12.10",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "04_estimate_error_adjusted_area.ipynb",
+      "run_at": "2026-08-09T02:40:27",
+      "python_version": "3.12.10",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "05_compare_district_area_with_official_stats.ipynb",
+      "run_at": "2026-08-09T02:41:16",
+      "python_version": "3.12.10",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "05_compare_district_area_with_official_stats.ipynb",
+      "run_at": "2026-08-09T03:01:04",
+      "python_version": "3.12.10",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "05_compare_district_area_with_official_stats.ipynb",
+      "run_at": "2026-08-09T04:37:52",
+      "python_version": "3.12.10",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "00_audit_inputs_and_reference_data.ipynb",
+      "run_at": "2026-08-09T04:47:15",
+      "python_version": "3.12.10",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "04_estimate_error_adjusted_area.ipynb",
+      "run_at": "2026-08-12T16:34:09",
+      "python_version": "3.12.10",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "04_estimate_error_adjusted_area.ipynb",
+      "run_at": "2026-08-12T16:39:16",
+      "python_version": "3.12.10",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "04_estimate_error_adjusted_area.ipynb",
+      "run_at": "2026-08-12T16:42:48",
+      "python_version": "3.12.10",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "04_estimate_error_adjusted_area.ipynb",
+      "run_at": "2026-08-12T16:44:17",
+      "python_version": "3.12.10",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "05_compare_district_area_with_official_stats.ipynb",
+      "run_at": "2026-08-12T16:48:57",
+      "python_version": "3.12.10",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "05_compare_district_area_with_official_stats.ipynb",
+      "run_at": "2026-08-12T16:52:48",
+      "python_version": "3.12.10",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "05_compare_district_area_with_official_stats.ipynb",
+      "run_at": "2026-08-12T16:59:07",
+      "python_version": "3.12.10",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "05_compare_district_area_with_official_stats.ipynb",
+      "run_at": "2026-08-12T17:04:07",
+      "python_version": "3.12.10",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "03_interpret_final_rf_with_shap.ipynb",
+      "run_at": "2026-08-12T17:16:10",
+      "python_version": "3.12.10",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    },
+    {
+      "notebook": "02_benchmark_models_and_accuracy.ipynb",
+      "run_at": "2026-08-12T17:22:50",
+      "python_version": "3.12.10",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "random_seed": 2024,
+      "notes": []
+    }
+  ]
+}

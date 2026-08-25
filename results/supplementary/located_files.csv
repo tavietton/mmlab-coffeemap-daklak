@@ -1,0 +1,8 @@
+﻿file_role,filename,status,path
+training sample table,Table_TrainSamples_FullFeatureSpace_2024.csv,FOUND,data\raw\Table_TrainSamples_FullFeatureSpace_2024.csv
+validation sample table,Table_ValSamples_FullFeatureSpace_2024.csv,FOUND,data\raw\Table_ValSamples_FullFeatureSpace_2024.csv
+validation prediction file,Table_ValPredictions_RF_Final_2024.csv,FOUND,data\raw\Table_ValPredictions_RF_Final_2024.csv
+confusion matrix file,Table_ConfusionMatrix_Long_DakLak2024_corrTop25.csv,FOUND,data\raw\Table_ConfusionMatrix_Long_DakLak2024_corrTop25.csv
+official district statistics,daklak_coffee_mapping_validation_2024.csv,FOUND,data\raw\data_DakLak_Statistics\daklak_coffee_mapping_validation_2024.csv
+GEE district coffee area,GEE_DakLak_Coffee_Area_By_District_2024.csv,FOUND,data\raw\GEE_DakLak_Coffee_Area_By_District_2024.csv
+GEE class area statistics,Table_AreaStatistics_DakLak2024.csv,FOUND,data\raw\Table_AreaStatistics_DakLak2024.csv

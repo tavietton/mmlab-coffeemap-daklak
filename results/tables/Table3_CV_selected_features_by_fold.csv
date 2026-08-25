@@ -1,0 +1,1150 @@
+﻿config_no,config_name,fold,rank_after_filter,feature
+1,Sentinel-2 only,1,1,S2_dry_CVI
+1,Sentinel-2 only,1,2,S2_dry_MNDWI
+1,Sentinel-2 only,1,3,S2_wet_NBR2
+1,Sentinel-2 only,1,4,S2_dry_NBR2
+1,Sentinel-2 only,1,5,S2_dry_B2
+1,Sentinel-2 only,1,6,S2_dry_B11
+1,Sentinel-2 only,1,7,S2_wet_B12
+1,Sentinel-2 only,1,8,S2_dry_B8
+1,Sentinel-2 only,1,9,S2_dry_NDWI
+1,Sentinel-2 only,1,10,S2_dry_NDI
+1,Sentinel-2 only,1,11,S2_dry_NLI
+1,Sentinel-2 only,1,12,S2_dry_B5
+1,Sentinel-2 only,1,13,S2_dry_NDMI
+1,Sentinel-2 only,1,14,S2_dry_PSRI
+1,Sentinel-2 only,1,15,S2_wet_B11
+1,Sentinel-2 only,1,16,S2_dry_MTCI
+1,Sentinel-2 only,1,17,S2_wet_NLI
+1,Sentinel-2 only,1,18,S2_wet_CVI
+1,Sentinel-2 only,1,19,S2_wet_B6
+1,Sentinel-2 only,1,20,S2_wet_B2
+1,Sentinel-2 only,1,21,S2_wet_B5
+1,Sentinel-2 only,1,22,S2_wet_MTCI
+1,Sentinel-2 only,1,23,S2_wet_NDMI
+1,Sentinel-2 only,1,24,S2_wet_NDI
+1,Sentinel-2 only,1,25,S2_wet_B4
+1,Sentinel-2 only,2,1,S2_dry_CVI
+1,Sentinel-2 only,2,2,S2_dry_MNDWI
+1,Sentinel-2 only,2,3,S2_wet_NBR2
+1,Sentinel-2 only,2,4,S2_dry_B2
+1,Sentinel-2 only,2,5,S2_dry_B11
+1,Sentinel-2 only,2,6,S2_dry_NBR2
+1,Sentinel-2 only,2,7,S2_wet_B12
+1,Sentinel-2 only,2,8,S2_dry_B8
+1,Sentinel-2 only,2,9,S2_dry_NDI
+1,Sentinel-2 only,2,10,S2_dry_NDWI
+1,Sentinel-2 only,2,11,S2_dry_NLI
+1,Sentinel-2 only,2,12,S2_dry_B5
+1,Sentinel-2 only,2,13,S2_dry_MTCI
+1,Sentinel-2 only,2,14,S2_dry_NDMI
+1,Sentinel-2 only,2,15,S2_dry_PSRI
+1,Sentinel-2 only,2,16,S2_wet_B6
+1,Sentinel-2 only,2,17,S2_wet_CVI
+1,Sentinel-2 only,2,18,S2_wet_B11
+1,Sentinel-2 only,2,19,S2_wet_B3
+1,Sentinel-2 only,2,20,S2_wet_NLI
+1,Sentinel-2 only,2,21,S2_wet_NDMI
+1,Sentinel-2 only,2,22,S2_wet_MTCI
+1,Sentinel-2 only,2,23,S2_wet_SR
+1,Sentinel-2 only,2,24,S2_wet_B5
+1,Sentinel-2 only,2,25,S2_wet_NDI
+1,Sentinel-2 only,3,1,S2_dry_CVI
+1,Sentinel-2 only,3,2,S2_wet_NBR2
+1,Sentinel-2 only,3,3,S2_dry_MNDWI
+1,Sentinel-2 only,3,4,S2_dry_B2
+1,Sentinel-2 only,3,5,S2_dry_B11
+1,Sentinel-2 only,3,6,S2_dry_NBR2
+1,Sentinel-2 only,3,7,S2_wet_B12
+1,Sentinel-2 only,3,8,S2_dry_NLI
+1,Sentinel-2 only,3,9,S2_dry_NDI
+1,Sentinel-2 only,3,10,S2_dry_B8
+1,Sentinel-2 only,3,11,S2_dry_GNDVI
+1,Sentinel-2 only,3,12,S2_dry_NDMI
+1,Sentinel-2 only,3,13,S2_dry_B5
+1,Sentinel-2 only,3,14,S2_dry_MTCI
+1,Sentinel-2 only,3,15,S2_wet_B6
+1,Sentinel-2 only,3,16,S2_wet_CVI
+1,Sentinel-2 only,3,17,S2_wet_B11
+1,Sentinel-2 only,3,18,S2_dry_PSRI
+1,Sentinel-2 only,3,19,S2_wet_B3
+1,Sentinel-2 only,3,20,S2_wet_NLI
+1,Sentinel-2 only,3,21,S2_wet_MTCI
+1,Sentinel-2 only,3,22,S2_wet_NDI
+1,Sentinel-2 only,3,23,S2_wet_NDMI
+1,Sentinel-2 only,3,24,S2_wet_B5
+1,Sentinel-2 only,3,25,S2_wet_B4
+1,Sentinel-2 only,4,1,S2_dry_CVI
+1,Sentinel-2 only,4,2,S2_dry_MNDWI
+1,Sentinel-2 only,4,3,S2_wet_NBR2
+1,Sentinel-2 only,4,4,S2_dry_B2
+1,Sentinel-2 only,4,5,S2_dry_B12
+1,Sentinel-2 only,4,6,S2_dry_NBR2
+1,Sentinel-2 only,4,7,S2_dry_B8
+1,Sentinel-2 only,4,8,S2_dry_NDI
+1,Sentinel-2 only,4,9,S2_dry_NDWI
+1,Sentinel-2 only,4,10,S2_wet_B12
+1,Sentinel-2 only,4,11,S2_dry_B5
+1,Sentinel-2 only,4,12,S2_dry_SR
+1,Sentinel-2 only,4,13,S2_dry_NDMI
+1,Sentinel-2 only,4,14,S2_dry_PSRI
+1,Sentinel-2 only,4,15,S2_wet_B11
+1,Sentinel-2 only,4,16,S2_dry_MTCI
+1,Sentinel-2 only,4,17,S2_wet_CVI
+1,Sentinel-2 only,4,18,S2_wet_B8
+1,Sentinel-2 only,4,19,S2_wet_B3
+1,Sentinel-2 only,4,20,S2_wet_MTCI
+1,Sentinel-2 only,4,21,S2_wet_NDVI_RE
+1,Sentinel-2 only,4,22,S2_wet_B5
+1,Sentinel-2 only,4,23,S2_wet_NDI
+1,Sentinel-2 only,4,24,S2_wet_NDMI
+1,Sentinel-2 only,4,25,S2_wet_B4
+1,Sentinel-2 only,5,1,S2_dry_CVI
+1,Sentinel-2 only,5,2,S2_dry_MNDWI
+1,Sentinel-2 only,5,3,S2_wet_NBR2
+1,Sentinel-2 only,5,4,S2_dry_B12
+1,Sentinel-2 only,5,5,S2_dry_B2
+1,Sentinel-2 only,5,6,S2_dry_NBR2
+1,Sentinel-2 only,5,7,S2_dry_RDVI
+1,Sentinel-2 only,5,8,S2_dry_NDI
+1,Sentinel-2 only,5,9,S2_wet_B12
+1,Sentinel-2 only,5,10,S2_dry_B6
+1,Sentinel-2 only,5,11,S2_dry_B5
+1,Sentinel-2 only,5,12,S2_dry_NDMI
+1,Sentinel-2 only,5,13,S2_wet_NDWI
+1,Sentinel-2 only,5,14,S2_dry_SR
+1,Sentinel-2 only,5,15,S2_dry_PSRI
+1,Sentinel-2 only,5,16,S2_dry_MTCI
+1,Sentinel-2 only,5,17,S2_wet_B6
+1,Sentinel-2 only,5,18,S2_wet_B11
+1,Sentinel-2 only,5,19,S2_wet_B3
+1,Sentinel-2 only,5,20,S2_wet_CVI
+1,Sentinel-2 only,5,21,S2_wet_NLI
+1,Sentinel-2 only,5,22,S2_wet_MTCI
+1,Sentinel-2 only,5,23,S2_wet_NDMI
+1,Sentinel-2 only,5,24,S2_wet_B5
+1,Sentinel-2 only,5,25,S2_wet_B4
+2,Sentinel-1 only,1,1,S1_VHasc_p50
+2,Sentinel-1 only,1,2,S1_VVasc_p50
+2,Sentinel-1 only,1,3,S1_VH_glcm_contrast_5x5
+2,Sentinel-1 only,1,4,S1_VVminusVH_asc_p50
+2,Sentinel-1 only,1,5,S1_VVdesc_p50
+2,Sentinel-1 only,1,6,S1_VHdesc_p50
+2,Sentinel-1 only,1,7,S1_VVdesc_p25
+2,Sentinel-1 only,1,8,S1_VHdesc_p25
+2,Sentinel-1 only,1,9,S1_VH_glcm_ent_5x5
+2,Sentinel-1 only,1,10,S1_VHdesc_p75
+2,Sentinel-1 only,1,11,S1_VVdesc_std
+2,Sentinel-1 only,1,12,S1_VHdesc_std
+2,Sentinel-1 only,1,13,S1_VVminusVH_desc_p50
+2,Sentinel-1 only,2,1,S1_VHasc_p50
+2,Sentinel-1 only,2,2,S1_VVasc_p50
+2,Sentinel-1 only,2,3,S1_VVminusVH_asc_p50
+2,Sentinel-1 only,2,4,S1_VH_glcm_contrast_5x5
+2,Sentinel-1 only,2,5,S1_VHdesc_p50
+2,Sentinel-1 only,2,6,S1_VVdesc_p25
+2,Sentinel-1 only,2,7,S1_VHdesc_p25
+2,Sentinel-1 only,2,8,S1_VVdesc_p75
+2,Sentinel-1 only,2,9,S1_VHdesc_p75
+2,Sentinel-1 only,2,10,S1_VH_glcm_asm_5x5
+2,Sentinel-1 only,2,11,S1_VVminusVH_desc_p50
+2,Sentinel-1 only,2,12,S1_VVdesc_std
+2,Sentinel-1 only,2,13,S1_VHdesc_std
+2,Sentinel-1 only,3,1,S1_VHasc_p50
+2,Sentinel-1 only,3,2,S1_VVasc_p50
+2,Sentinel-1 only,3,3,S1_VH_glcm_contrast_5x5
+2,Sentinel-1 only,3,4,S1_VVminusVH_asc_p50
+2,Sentinel-1 only,3,5,S1_VVdesc_p25
+2,Sentinel-1 only,3,6,S1_VHdesc_p50
+2,Sentinel-1 only,3,7,S1_VVdesc_p50
+2,Sentinel-1 only,3,8,S1_VHdesc_p25
+2,Sentinel-1 only,3,9,S1_VH_glcm_asm_5x5
+2,Sentinel-1 only,3,10,S1_VHdesc_p75
+2,Sentinel-1 only,3,11,S1_VVminusVH_desc_p50
+2,Sentinel-1 only,3,12,S1_VVdesc_std
+2,Sentinel-1 only,3,13,S1_VHdesc_std
+2,Sentinel-1 only,4,1,S1_VHasc_p50
+2,Sentinel-1 only,4,2,S1_VVasc_p50
+2,Sentinel-1 only,4,3,S1_VVminusVH_asc_p50
+2,Sentinel-1 only,4,4,S1_VH_glcm_contrast_5x5
+2,Sentinel-1 only,4,5,S1_VHdesc_p50
+2,Sentinel-1 only,4,6,S1_VVdesc_p50
+2,Sentinel-1 only,4,7,S1_VVdesc_p25
+2,Sentinel-1 only,4,8,S1_VHdesc_p25
+2,Sentinel-1 only,4,9,S1_VHdesc_p75
+2,Sentinel-1 only,4,10,S1_VH_glcm_asm_5x5
+2,Sentinel-1 only,4,11,S1_VHdesc_std
+2,Sentinel-1 only,4,12,S1_VVminusVH_desc_p50
+2,Sentinel-1 only,4,13,S1_VVdesc_std
+2,Sentinel-1 only,5,1,S1_VHasc_p50
+2,Sentinel-1 only,5,2,S1_VVasc_p50
+2,Sentinel-1 only,5,3,S1_VVminusVH_asc_p50
+2,Sentinel-1 only,5,4,S1_VH_glcm_contrast_5x5
+2,Sentinel-1 only,5,5,S1_VHdesc_p50
+2,Sentinel-1 only,5,6,S1_VVdesc_p50
+2,Sentinel-1 only,5,7,S1_VVdesc_p25
+2,Sentinel-1 only,5,8,S1_VHdesc_p25
+2,Sentinel-1 only,5,9,S1_VHdesc_p75
+2,Sentinel-1 only,5,10,S1_VH_glcm_asm_5x5
+2,Sentinel-1 only,5,11,S1_VHdesc_std
+2,Sentinel-1 only,5,12,S1_VVminusVH_desc_p50
+2,Sentinel-1 only,5,13,S1_VVdesc_std
+3,Landsat only,1,1,L89_dry_SWIR1
+3,Landsat only,1,2,L89_dry_Green
+3,Landsat only,1,3,L89_dry_NIR
+3,Landsat only,1,4,L89_dry_NBR2
+3,Landsat only,1,5,L89_wet_NBR2
+3,Landsat only,1,6,L89_dry_NDVI
+3,Landsat only,1,7,L89_dry_MSI
+3,Landsat only,1,8,L89_dry_BSI
+3,Landsat only,1,9,L89_wet_NIR
+3,Landsat only,1,10,L89_wet_NDVI
+3,Landsat only,1,11,L89_wet_SWIR2
+3,Landsat only,1,12,L89_wet_SWIR1
+3,Landsat only,1,13,L89_wet_BSI
+3,Landsat only,1,14,L89_wet_Green
+3,Landsat only,1,15,L89_wet_MSI
+3,Landsat only,1,16,L89_wet_NDMI
+3,Landsat only,2,1,L89_dry_SWIR1
+3,Landsat only,2,2,L89_dry_Green
+3,Landsat only,2,3,L89_dry_NIR
+3,Landsat only,2,4,L89_wet_NBR2
+3,Landsat only,2,5,L89_dry_NBR2
+3,Landsat only,2,6,L89_dry_NDVI
+3,Landsat only,2,7,L89_dry_MSI
+3,Landsat only,2,8,L89_dry_BSI
+3,Landsat only,2,9,L89_wet_NIR
+3,Landsat only,2,10,L89_wet_NDVI
+3,Landsat only,2,11,L89_wet_SWIR2
+3,Landsat only,2,12,L89_wet_SWIR1
+3,Landsat only,2,13,L89_wet_Red
+3,Landsat only,2,14,L89_wet_BSI
+3,Landsat only,2,15,L89_wet_SWIR2_p75
+3,Landsat only,2,16,L89_wet_MSI
+3,Landsat only,2,17,L89_wet_NDMI
+3,Landsat only,2,18,L89_wet_Blue
+3,Landsat only,3,1,L89_dry_SWIR1
+3,Landsat only,3,2,L89_dry_Green
+3,Landsat only,3,3,L89_dry_NIR
+3,Landsat only,3,4,L89_wet_NBR2
+3,Landsat only,3,5,L89_dry_NBR2
+3,Landsat only,3,6,L89_dry_NDVI
+3,Landsat only,3,7,L89_dry_BSI
+3,Landsat only,3,8,L89_dry_MSI
+3,Landsat only,3,9,L89_wet_NIR
+3,Landsat only,3,10,L89_wet_NDVI
+3,Landsat only,3,11,L89_wet_SWIR2
+3,Landsat only,3,12,L89_wet_BSI
+3,Landsat only,3,13,L89_wet_SWIR1
+3,Landsat only,3,14,L89_wet_Red
+3,Landsat only,3,15,L89_wet_Blue
+3,Landsat only,3,16,L89_wet_NDMI
+3,Landsat only,3,17,L89_wet_MSI
+3,Landsat only,4,1,L89_dry_SWIR1
+3,Landsat only,4,2,L89_dry_NIR
+3,Landsat only,4,3,L89_dry_Green
+3,Landsat only,4,4,L89_wet_NBR2
+3,Landsat only,4,5,L89_dry_NBR2
+3,Landsat only,4,6,L89_dry_NDVI
+3,Landsat only,4,7,L89_dry_MSI
+3,Landsat only,4,8,L89_dry_NDMI
+3,Landsat only,4,9,L89_wet_NIR
+3,Landsat only,4,10,L89_wet_NDVI
+3,Landsat only,4,11,L89_wet_SWIR2
+3,Landsat only,4,12,L89_wet_SWIR1
+3,Landsat only,4,13,L89_wet_Red
+3,Landsat only,4,14,L89_wet_Blue
+3,Landsat only,4,15,L89_wet_BSI
+3,Landsat only,4,16,L89_wet_MSI
+3,Landsat only,4,17,L89_wet_NDMI
+3,Landsat only,5,1,L89_dry_SWIR1
+3,Landsat only,5,2,L89_dry_Green
+3,Landsat only,5,3,L89_dry_NIR
+3,Landsat only,5,4,L89_wet_NBR2
+3,Landsat only,5,5,L89_dry_MSI
+3,Landsat only,5,6,L89_dry_NDVI
+3,Landsat only,5,7,L89_dry_NBR2
+3,Landsat only,5,8,L89_dry_BSI
+3,Landsat only,5,9,L89_wet_NDVI
+3,Landsat only,5,10,L89_wet_NIR
+3,Landsat only,5,11,L89_wet_SWIR2
+3,Landsat only,5,12,L89_wet_BSI
+3,Landsat only,5,13,L89_wet_SWIR1
+3,Landsat only,5,14,L89_wet_Red
+3,Landsat only,5,15,L89_wet_Blue
+3,Landsat only,5,16,L89_wet_MSI
+4,Sentinel-1 + Sentinel-2,1,1,S2_dry_CVI
+4,Sentinel-1 + Sentinel-2,1,2,S2_dry_MNDWI
+4,Sentinel-1 + Sentinel-2,1,3,S2_wet_NBR2
+4,Sentinel-1 + Sentinel-2,1,4,S2_dry_B2
+4,Sentinel-1 + Sentinel-2,1,5,S2_dry_NBR2
+4,Sentinel-1 + Sentinel-2,1,6,S2_dry_B12
+4,Sentinel-1 + Sentinel-2,1,7,S1_VVasc_p50
+4,Sentinel-1 + Sentinel-2,1,8,S2_wet_B12
+4,Sentinel-1 + Sentinel-2,1,9,S1_VHasc_p50
+4,Sentinel-1 + Sentinel-2,1,10,S2_dry_GNDVI
+4,Sentinel-1 + Sentinel-2,1,11,S2_dry_B8
+4,Sentinel-1 + Sentinel-2,1,12,S2_dry_CI_RE
+4,Sentinel-1 + Sentinel-2,1,13,S2_dry_NDI
+4,Sentinel-1 + Sentinel-2,1,14,S2_dry_B5
+4,Sentinel-1 + Sentinel-2,1,15,S2_wet_B11
+4,Sentinel-1 + Sentinel-2,1,16,S2_dry_PSRI
+4,Sentinel-1 + Sentinel-2,1,17,S2_dry_NDMI
+4,Sentinel-1 + Sentinel-2,1,18,S2_wet_B6
+4,Sentinel-1 + Sentinel-2,1,19,S2_wet_CVI
+4,Sentinel-1 + Sentinel-2,1,20,S2_wet_B3
+4,Sentinel-1 + Sentinel-2,1,21,S2_dry_MTCI
+4,Sentinel-1 + Sentinel-2,1,22,S2_wet_NDVI_RE
+4,Sentinel-1 + Sentinel-2,1,23,S1_VH_glcm_contrast_5x5
+4,Sentinel-1 + Sentinel-2,1,24,S2_wet_SR
+4,Sentinel-1 + Sentinel-2,1,25,S2_wet_B5
+4,Sentinel-1 + Sentinel-2,2,1,S2_dry_CVI
+4,Sentinel-1 + Sentinel-2,2,2,S2_wet_NBR2
+4,Sentinel-1 + Sentinel-2,2,3,S2_dry_MNDWI
+4,Sentinel-1 + Sentinel-2,2,4,S2_dry_B2
+4,Sentinel-1 + Sentinel-2,2,5,S2_dry_B12
+4,Sentinel-1 + Sentinel-2,2,6,S1_VVasc_p50
+4,Sentinel-1 + Sentinel-2,2,7,S2_dry_NBR2
+4,Sentinel-1 + Sentinel-2,2,8,S2_dry_NLI
+4,Sentinel-1 + Sentinel-2,2,9,S1_VHasc_p50
+4,Sentinel-1 + Sentinel-2,2,10,S2_dry_NDI
+4,Sentinel-1 + Sentinel-2,2,11,S2_wet_B12
+4,Sentinel-1 + Sentinel-2,2,12,S2_dry_GNDVI
+4,Sentinel-1 + Sentinel-2,2,13,S2_dry_B5
+4,Sentinel-1 + Sentinel-2,2,14,S2_dry_B6
+4,Sentinel-1 + Sentinel-2,2,15,S2_dry_NDMI
+4,Sentinel-1 + Sentinel-2,2,16,S2_dry_MTCI
+4,Sentinel-1 + Sentinel-2,2,17,S2_dry_PSRI
+4,Sentinel-1 + Sentinel-2,2,18,S2_wet_B6
+4,Sentinel-1 + Sentinel-2,2,19,S2_wet_B11
+4,Sentinel-1 + Sentinel-2,2,20,S2_wet_CVI
+4,Sentinel-1 + Sentinel-2,2,21,S2_wet_NDVI_RE
+4,Sentinel-1 + Sentinel-2,2,22,S2_wet_NDMI
+4,Sentinel-1 + Sentinel-2,2,23,S2_wet_MTCI
+4,Sentinel-1 + Sentinel-2,2,24,S2_wet_B3
+4,Sentinel-1 + Sentinel-2,2,25,S1_VH_glcm_contrast_5x5
+4,Sentinel-1 + Sentinel-2,3,1,S2_dry_CVI
+4,Sentinel-1 + Sentinel-2,3,2,S2_wet_NBR2
+4,Sentinel-1 + Sentinel-2,3,3,S2_dry_MNDWI
+4,Sentinel-1 + Sentinel-2,3,4,S2_dry_B2
+4,Sentinel-1 + Sentinel-2,3,5,S2_dry_B11
+4,Sentinel-1 + Sentinel-2,3,6,S2_dry_NBR2
+4,Sentinel-1 + Sentinel-2,3,7,S1_VVasc_p50
+4,Sentinel-1 + Sentinel-2,3,8,S1_VHasc_p50
+4,Sentinel-1 + Sentinel-2,3,9,S2_wet_B12
+4,Sentinel-1 + Sentinel-2,3,10,S2_dry_SR
+4,Sentinel-1 + Sentinel-2,3,11,S2_dry_B8
+4,Sentinel-1 + Sentinel-2,3,12,S2_dry_NDI
+4,Sentinel-1 + Sentinel-2,3,13,S2_dry_B5
+4,Sentinel-1 + Sentinel-2,3,14,S2_dry_NDWI
+4,Sentinel-1 + Sentinel-2,3,15,S2_dry_NDMI
+4,Sentinel-1 + Sentinel-2,3,16,S2_dry_RDVI
+4,Sentinel-1 + Sentinel-2,3,17,S2_wet_B6
+4,Sentinel-1 + Sentinel-2,3,18,S2_dry_MTCI
+4,Sentinel-1 + Sentinel-2,3,19,S2_wet_B11
+4,Sentinel-1 + Sentinel-2,3,20,S2_dry_PSRI
+4,Sentinel-1 + Sentinel-2,3,21,S2_wet_CVI
+4,Sentinel-1 + Sentinel-2,3,22,S2_wet_B3
+4,Sentinel-1 + Sentinel-2,3,23,S2_wet_NLI
+4,Sentinel-1 + Sentinel-2,3,24,S1_VH_glcm_contrast_5x5
+4,Sentinel-1 + Sentinel-2,3,25,S2_wet_SR
+4,Sentinel-1 + Sentinel-2,4,1,S2_dry_CVI
+4,Sentinel-1 + Sentinel-2,4,2,S2_dry_MNDWI
+4,Sentinel-1 + Sentinel-2,4,3,S2_wet_NBR2
+4,Sentinel-1 + Sentinel-2,4,4,S2_dry_B11
+4,Sentinel-1 + Sentinel-2,4,5,S2_dry_B2
+4,Sentinel-1 + Sentinel-2,4,6,S2_dry_NBR2
+4,Sentinel-1 + Sentinel-2,4,7,S2_wet_B12
+4,Sentinel-1 + Sentinel-2,4,8,S1_VVasc_p50
+4,Sentinel-1 + Sentinel-2,4,9,S2_dry_B6
+4,Sentinel-1 + Sentinel-2,4,10,S2_dry_NDWI
+4,Sentinel-1 + Sentinel-2,4,11,S1_VHasc_p50
+4,Sentinel-1 + Sentinel-2,4,12,S2_dry_NDI
+4,Sentinel-1 + Sentinel-2,4,13,S2_dry_B5
+4,Sentinel-1 + Sentinel-2,4,14,S2_dry_NLI
+4,Sentinel-1 + Sentinel-2,4,15,S2_dry_MTCI
+4,Sentinel-1 + Sentinel-2,4,16,S2_dry_NDMI
+4,Sentinel-1 + Sentinel-2,4,17,S2_wet_NLI
+4,Sentinel-1 + Sentinel-2,4,18,S2_wet_CVI
+4,Sentinel-1 + Sentinel-2,4,19,S2_dry_PSRI
+4,Sentinel-1 + Sentinel-2,4,20,S2_wet_B11
+4,Sentinel-1 + Sentinel-2,4,21,S2_wet_B6
+4,Sentinel-1 + Sentinel-2,4,22,S2_wet_B2
+4,Sentinel-1 + Sentinel-2,4,23,S2_wet_MTCI
+4,Sentinel-1 + Sentinel-2,4,24,S2_wet_NDMI
+4,Sentinel-1 + Sentinel-2,4,25,S1_VH_glcm_contrast_5x5
+4,Sentinel-1 + Sentinel-2,5,1,S2_dry_CVI
+4,Sentinel-1 + Sentinel-2,5,2,S2_dry_MNDWI
+4,Sentinel-1 + Sentinel-2,5,3,S2_wet_NBR2
+4,Sentinel-1 + Sentinel-2,5,4,S2_dry_B2
+4,Sentinel-1 + Sentinel-2,5,5,S2_dry_B11
+4,Sentinel-1 + Sentinel-2,5,6,S2_dry_NBR2
+4,Sentinel-1 + Sentinel-2,5,7,S1_VHasc_p50
+4,Sentinel-1 + Sentinel-2,5,8,S1_VVasc_p50
+4,Sentinel-1 + Sentinel-2,5,9,S2_dry_NDI
+4,Sentinel-1 + Sentinel-2,5,10,S2_wet_B12
+4,Sentinel-1 + Sentinel-2,5,11,S2_dry_RDVI
+4,Sentinel-1 + Sentinel-2,5,12,S2_dry_B6
+4,Sentinel-1 + Sentinel-2,5,13,S2_dry_NBR
+4,Sentinel-1 + Sentinel-2,5,14,S2_wet_NDWI
+4,Sentinel-1 + Sentinel-2,5,15,S2_dry_B5
+4,Sentinel-1 + Sentinel-2,5,16,S2_dry_SR
+4,Sentinel-1 + Sentinel-2,5,17,S2_dry_MTCI
+4,Sentinel-1 + Sentinel-2,5,18,S2_dry_PSRI
+4,Sentinel-1 + Sentinel-2,5,19,S2_wet_B11
+4,Sentinel-1 + Sentinel-2,5,20,S2_wet_CVI
+4,Sentinel-1 + Sentinel-2,5,21,S2_wet_B3
+4,Sentinel-1 + Sentinel-2,5,22,S2_wet_B7
+4,Sentinel-1 + Sentinel-2,5,23,S2_wet_MTCI
+4,Sentinel-1 + Sentinel-2,5,24,S2_wet_B5
+4,Sentinel-1 + Sentinel-2,5,25,S1_VH_glcm_contrast_5x5
+5,Sentinel-2 + Landsat,1,1,S2_dry_CVI
+5,Sentinel-2 + Landsat,1,2,S2_dry_MNDWI
+5,Sentinel-2 + Landsat,1,3,S2_wet_NBR2
+5,Sentinel-2 + Landsat,1,4,S2_dry_B2
+5,Sentinel-2 + Landsat,1,5,S2_dry_B11
+5,Sentinel-2 + Landsat,1,6,L89_dry_Green
+5,Sentinel-2 + Landsat,1,7,S2_dry_NBR2
+5,Sentinel-2 + Landsat,1,8,S2_dry_B8
+5,Sentinel-2 + Landsat,1,9,L89_wet_NBR2
+5,Sentinel-2 + Landsat,1,10,S2_wet_GNDVI
+5,Sentinel-2 + Landsat,1,11,L89_dry_SWIR2
+5,Sentinel-2 + Landsat,1,12,S2_dry_NLI
+5,Sentinel-2 + Landsat,1,13,S2_wet_B12
+5,Sentinel-2 + Landsat,1,14,L89_dry_NDMI
+5,Sentinel-2 + Landsat,1,15,L89_dry_MSI
+5,Sentinel-2 + Landsat,1,16,S2_dry_NDI
+5,Sentinel-2 + Landsat,1,17,S2_wet_B7
+5,Sentinel-2 + Landsat,1,18,S2_wet_CVI
+5,Sentinel-2 + Landsat,1,19,L89_wet_NIR
+5,Sentinel-2 + Landsat,1,20,S2_dry_PSRI
+5,Sentinel-2 + Landsat,1,21,S2_dry_B5
+5,Sentinel-2 + Landsat,1,22,S2_dry_MTCI
+5,Sentinel-2 + Landsat,1,23,S2_wet_NLI
+5,Sentinel-2 + Landsat,1,24,S2_wet_MTCI
+5,Sentinel-2 + Landsat,1,25,S2_wet_B3
+5,Sentinel-2 + Landsat,2,1,S2_dry_CVI
+5,Sentinel-2 + Landsat,2,2,S2_dry_MNDWI
+5,Sentinel-2 + Landsat,2,3,S2_wet_NBR2
+5,Sentinel-2 + Landsat,2,4,S2_dry_B11
+5,Sentinel-2 + Landsat,2,5,S2_dry_B2
+5,Sentinel-2 + Landsat,2,6,L89_dry_Green
+5,Sentinel-2 + Landsat,2,7,L89_wet_NBR2
+5,Sentinel-2 + Landsat,2,8,S2_dry_B8
+5,Sentinel-2 + Landsat,2,9,L89_dry_NDVI
+5,Sentinel-2 + Landsat,2,10,L89_dry_SWIR2
+5,Sentinel-2 + Landsat,2,11,S2_dry_GNDVI
+5,Sentinel-2 + Landsat,2,12,S2_dry_NBR2
+5,Sentinel-2 + Landsat,2,13,S2_wet_B12
+5,Sentinel-2 + Landsat,2,14,L89_dry_MSI
+5,Sentinel-2 + Landsat,2,15,S2_dry_NDI
+5,Sentinel-2 + Landsat,2,16,S2_dry_SR
+5,Sentinel-2 + Landsat,2,17,L89_dry_NDMI
+5,Sentinel-2 + Landsat,2,18,S2_wet_CVI
+5,Sentinel-2 + Landsat,2,19,S2_dry_MTCI
+5,Sentinel-2 + Landsat,2,20,L89_wet_NIR
+5,Sentinel-2 + Landsat,2,21,S2_dry_B5
+5,Sentinel-2 + Landsat,2,22,S2_wet_B6
+5,Sentinel-2 + Landsat,2,23,S2_wet_MSR
+5,Sentinel-2 + Landsat,2,24,S2_dry_PSRI
+5,Sentinel-2 + Landsat,2,25,S2_wet_B3
+5,Sentinel-2 + Landsat,3,1,S2_dry_CVI
+5,Sentinel-2 + Landsat,3,2,S2_dry_MNDWI
+5,Sentinel-2 + Landsat,3,3,S2_wet_NBR2
+5,Sentinel-2 + Landsat,3,4,S2_dry_B11
+5,Sentinel-2 + Landsat,3,5,S2_dry_B2
+5,Sentinel-2 + Landsat,3,6,L89_dry_Blue
+5,Sentinel-2 + Landsat,3,7,S2_dry_NBR2
+5,Sentinel-2 + Landsat,3,8,L89_dry_SWIR2_p75
+5,Sentinel-2 + Landsat,3,9,L89_wet_NBR2
+5,Sentinel-2 + Landsat,3,10,S2_dry_NLI
+5,Sentinel-2 + Landsat,3,11,S2_dry_NDWI
+5,Sentinel-2 + Landsat,3,12,L89_dry_NIR
+5,Sentinel-2 + Landsat,3,13,L89_dry_MSI
+5,Sentinel-2 + Landsat,3,14,S2_dry_NDI
+5,Sentinel-2 + Landsat,3,15,S2_dry_B5
+5,Sentinel-2 + Landsat,3,16,L89_wet_NIR
+5,Sentinel-2 + Landsat,3,17,S2_wet_CVI
+5,Sentinel-2 + Landsat,3,18,L89_dry_NDMI
+5,Sentinel-2 + Landsat,3,19,S2_wet_B12
+5,Sentinel-2 + Landsat,3,20,S2_dry_PSRI
+5,Sentinel-2 + Landsat,3,21,S2_wet_NLI
+5,Sentinel-2 + Landsat,3,22,S2_dry_MTCI
+5,Sentinel-2 + Landsat,3,23,S2_wet_B6
+5,Sentinel-2 + Landsat,3,24,S2_wet_B2
+5,Sentinel-2 + Landsat,3,25,S2_wet_B11
+5,Sentinel-2 + Landsat,4,1,S2_dry_CVI
+5,Sentinel-2 + Landsat,4,2,S2_dry_MNDWI
+5,Sentinel-2 + Landsat,4,3,S2_wet_NBR2
+5,Sentinel-2 + Landsat,4,4,S2_dry_B2
+5,Sentinel-2 + Landsat,4,5,S2_dry_B11
+5,Sentinel-2 + Landsat,4,6,S2_dry_NBR2
+5,Sentinel-2 + Landsat,4,7,L89_dry_SWIR2
+5,Sentinel-2 + Landsat,4,8,L89_dry_Green
+5,Sentinel-2 + Landsat,4,9,L89_wet_NBR2
+5,Sentinel-2 + Landsat,4,10,S2_dry_GNDVI
+5,Sentinel-2 + Landsat,4,11,S2_dry_B6
+5,Sentinel-2 + Landsat,4,12,S2_dry_MSR
+5,Sentinel-2 + Landsat,4,13,L89_dry_NDMI
+5,Sentinel-2 + Landsat,4,14,S2_dry_NDI
+5,Sentinel-2 + Landsat,4,15,L89_dry_MSI
+5,Sentinel-2 + Landsat,4,16,S2_wet_B12
+5,Sentinel-2 + Landsat,4,17,S2_wet_CVI
+5,Sentinel-2 + Landsat,4,18,S2_dry_B5
+5,Sentinel-2 + Landsat,4,19,S2_wet_NLI
+5,Sentinel-2 + Landsat,4,20,L89_wet_NIR
+5,Sentinel-2 + Landsat,4,21,S2_dry_PSRI
+5,Sentinel-2 + Landsat,4,22,S2_dry_MTCI
+5,Sentinel-2 + Landsat,4,23,S2_wet_B2
+5,Sentinel-2 + Landsat,4,24,S2_wet_MTCI
+5,Sentinel-2 + Landsat,4,25,S2_wet_SR
+5,Sentinel-2 + Landsat,5,1,S2_dry_CVI
+5,Sentinel-2 + Landsat,5,2,S2_dry_MNDWI
+5,Sentinel-2 + Landsat,5,3,S2_wet_NBR2
+5,Sentinel-2 + Landsat,5,4,S2_dry_B2
+5,Sentinel-2 + Landsat,5,5,S2_dry_B11
+5,Sentinel-2 + Landsat,5,6,L89_dry_Green
+5,Sentinel-2 + Landsat,5,7,S2_dry_NBR2
+5,Sentinel-2 + Landsat,5,8,L89_dry_SWIR2_p75
+5,Sentinel-2 + Landsat,5,9,S2_dry_B6
+5,Sentinel-2 + Landsat,5,10,S2_wet_B12
+5,Sentinel-2 + Landsat,5,11,S2_dry_NDI
+5,Sentinel-2 + Landsat,5,12,S2_wet_GNDVI
+5,Sentinel-2 + Landsat,5,13,L89_wet_NBR2
+5,Sentinel-2 + Landsat,5,14,S2_dry_NDWI
+5,Sentinel-2 + Landsat,5,15,L89_dry_NDMI
+5,Sentinel-2 + Landsat,5,16,S2_dry_SR
+5,Sentinel-2 + Landsat,5,17,L89_dry_NDVI
+5,Sentinel-2 + Landsat,5,18,L89_dry_MSI
+5,Sentinel-2 + Landsat,5,19,S2_dry_MTCI
+5,Sentinel-2 + Landsat,5,20,S2_dry_B5
+5,Sentinel-2 + Landsat,5,21,S2_dry_PSRI
+5,Sentinel-2 + Landsat,5,22,S2_wet_CI_RE
+5,Sentinel-2 + Landsat,5,23,L89_wet_NIR
+5,Sentinel-2 + Landsat,5,24,S2_wet_B6
+5,Sentinel-2 + Landsat,5,25,S2_wet_CVI
+6,Sentinel-1 + Sentinel-2 + DEM,1,1,S2_dry_CVI
+6,Sentinel-1 + Sentinel-2 + DEM,1,2,S2_wet_NBR2
+6,Sentinel-1 + Sentinel-2 + DEM,1,3,DEM_elevation
+6,Sentinel-1 + Sentinel-2 + DEM,1,4,S2_dry_MNDWI
+6,Sentinel-1 + Sentinel-2 + DEM,1,5,S1_VVasc_p50
+6,Sentinel-1 + Sentinel-2 + DEM,1,6,S2_dry_B2
+6,Sentinel-1 + Sentinel-2 + DEM,1,7,S2_dry_B11
+6,Sentinel-1 + Sentinel-2 + DEM,1,8,S1_VHasc_p50
+6,Sentinel-1 + Sentinel-2 + DEM,1,9,S2_dry_NBR2
+6,Sentinel-1 + Sentinel-2 + DEM,1,10,S2_dry_B8
+6,Sentinel-1 + Sentinel-2 + DEM,1,11,S2_wet_B12
+6,Sentinel-1 + Sentinel-2 + DEM,1,12,S2_dry_NDVI
+6,Sentinel-1 + Sentinel-2 + DEM,1,13,S2_dry_B5
+6,Sentinel-1 + Sentinel-2 + DEM,1,14,S2_dry_SR
+6,Sentinel-1 + Sentinel-2 + DEM,1,15,S2_dry_NDI
+6,Sentinel-1 + Sentinel-2 + DEM,1,16,S2_wet_NDWI
+6,Sentinel-1 + Sentinel-2 + DEM,1,17,DEM_slope
+6,Sentinel-1 + Sentinel-2 + DEM,1,18,S2_dry_PSRI
+6,Sentinel-1 + Sentinel-2 + DEM,1,19,S2_dry_NDMI
+6,Sentinel-1 + Sentinel-2 + DEM,1,20,S2_wet_B11
+6,Sentinel-1 + Sentinel-2 + DEM,1,21,S2_wet_CVI
+6,Sentinel-1 + Sentinel-2 + DEM,1,22,S2_wet_B2
+6,Sentinel-1 + Sentinel-2 + DEM,1,23,S2_dry_MTCI
+6,Sentinel-1 + Sentinel-2 + DEM,1,24,S2_wet_B8
+6,Sentinel-1 + Sentinel-2 + DEM,1,25,S2_wet_B5
+6,Sentinel-1 + Sentinel-2 + DEM,2,1,S2_dry_CVI
+6,Sentinel-1 + Sentinel-2 + DEM,2,2,S2_dry_MNDWI
+6,Sentinel-1 + Sentinel-2 + DEM,2,3,DEM_elevation
+6,Sentinel-1 + Sentinel-2 + DEM,2,4,S2_wet_NBR2
+6,Sentinel-1 + Sentinel-2 + DEM,2,5,S2_dry_B2
+6,Sentinel-1 + Sentinel-2 + DEM,2,6,S2_dry_NBR2
+6,Sentinel-1 + Sentinel-2 + DEM,2,7,S2_dry_B11
+6,Sentinel-1 + Sentinel-2 + DEM,2,8,S1_VVasc_p50
+6,Sentinel-1 + Sentinel-2 + DEM,2,9,S1_VHasc_p50
+6,Sentinel-1 + Sentinel-2 + DEM,2,10,S2_dry_B8
+6,Sentinel-1 + Sentinel-2 + DEM,2,11,S2_dry_NDI
+6,Sentinel-1 + Sentinel-2 + DEM,2,12,S2_wet_B12
+6,Sentinel-1 + Sentinel-2 + DEM,2,13,S2_dry_NDWI
+6,Sentinel-1 + Sentinel-2 + DEM,2,14,S2_dry_B5
+6,Sentinel-1 + Sentinel-2 + DEM,2,15,DEM_slope
+6,Sentinel-1 + Sentinel-2 + DEM,2,16,S2_dry_NLI
+6,Sentinel-1 + Sentinel-2 + DEM,2,17,S2_dry_NDMI
+6,Sentinel-1 + Sentinel-2 + DEM,2,18,S2_dry_MTCI
+6,Sentinel-1 + Sentinel-2 + DEM,2,19,S2_dry_PSRI
+6,Sentinel-1 + Sentinel-2 + DEM,2,20,S2_wet_B7
+6,Sentinel-1 + Sentinel-2 + DEM,2,21,S2_wet_CVI
+6,Sentinel-1 + Sentinel-2 + DEM,2,22,S2_wet_B11
+6,Sentinel-1 + Sentinel-2 + DEM,2,23,S2_wet_CI_RE
+6,Sentinel-1 + Sentinel-2 + DEM,2,24,S2_wet_B3
+6,Sentinel-1 + Sentinel-2 + DEM,2,25,S2_wet_NDI
+6,Sentinel-1 + Sentinel-2 + DEM,3,1,S2_dry_CVI
+6,Sentinel-1 + Sentinel-2 + DEM,3,2,DEM_elevation
+6,Sentinel-1 + Sentinel-2 + DEM,3,3,S2_dry_MNDWI
+6,Sentinel-1 + Sentinel-2 + DEM,3,4,S2_dry_B2
+6,Sentinel-1 + Sentinel-2 + DEM,3,5,S2_wet_NBR2
+6,Sentinel-1 + Sentinel-2 + DEM,3,6,S2_dry_B11
+6,Sentinel-1 + Sentinel-2 + DEM,3,7,S1_VHasc_p50
+6,Sentinel-1 + Sentinel-2 + DEM,3,8,S2_dry_NBR2
+6,Sentinel-1 + Sentinel-2 + DEM,3,9,S1_VVasc_p50
+6,Sentinel-1 + Sentinel-2 + DEM,3,10,S2_dry_B8
+6,Sentinel-1 + Sentinel-2 + DEM,3,11,DEM_slope
+6,Sentinel-1 + Sentinel-2 + DEM,3,12,S2_dry_NDI
+6,Sentinel-1 + Sentinel-2 + DEM,3,13,S2_wet_B12
+6,Sentinel-1 + Sentinel-2 + DEM,3,14,S2_dry_NLI
+6,Sentinel-1 + Sentinel-2 + DEM,3,15,S2_wet_NDWI
+6,Sentinel-1 + Sentinel-2 + DEM,3,16,S2_dry_PSRI
+6,Sentinel-1 + Sentinel-2 + DEM,3,17,S2_dry_B5
+6,Sentinel-1 + Sentinel-2 + DEM,3,18,S2_wet_CVI
+6,Sentinel-1 + Sentinel-2 + DEM,3,19,S2_dry_NDMI
+6,Sentinel-1 + Sentinel-2 + DEM,3,20,S2_wet_B11
+6,Sentinel-1 + Sentinel-2 + DEM,3,21,S2_dry_MTCI
+6,Sentinel-1 + Sentinel-2 + DEM,3,22,S2_wet_B8
+6,Sentinel-1 + Sentinel-2 + DEM,3,23,S2_wet_B2
+6,Sentinel-1 + Sentinel-2 + DEM,3,24,S2_wet_SR
+6,Sentinel-1 + Sentinel-2 + DEM,3,25,S2_wet_NDMI
+6,Sentinel-1 + Sentinel-2 + DEM,4,1,S2_dry_CVI
+6,Sentinel-1 + Sentinel-2 + DEM,4,2,DEM_elevation
+6,Sentinel-1 + Sentinel-2 + DEM,4,3,S2_dry_MNDWI
+6,Sentinel-1 + Sentinel-2 + DEM,4,4,S2_wet_NBR2
+6,Sentinel-1 + Sentinel-2 + DEM,4,5,S2_dry_B2
+6,Sentinel-1 + Sentinel-2 + DEM,4,6,S2_dry_B11
+6,Sentinel-1 + Sentinel-2 + DEM,4,7,S1_VVasc_p50
+6,Sentinel-1 + Sentinel-2 + DEM,4,8,S2_dry_NBR2
+6,Sentinel-1 + Sentinel-2 + DEM,4,9,S2_dry_NDWI
+6,Sentinel-1 + Sentinel-2 + DEM,4,10,S1_VHasc_p50
+6,Sentinel-1 + Sentinel-2 + DEM,4,11,S2_wet_B12
+6,Sentinel-1 + Sentinel-2 + DEM,4,12,DEM_slope
+6,Sentinel-1 + Sentinel-2 + DEM,4,13,S2_dry_B8
+6,Sentinel-1 + Sentinel-2 + DEM,4,14,S2_dry_NDI
+6,Sentinel-1 + Sentinel-2 + DEM,4,15,S2_dry_B5
+6,Sentinel-1 + Sentinel-2 + DEM,4,16,S2_wet_CVI
+6,Sentinel-1 + Sentinel-2 + DEM,4,17,S2_dry_SR
+6,Sentinel-1 + Sentinel-2 + DEM,4,18,S2_dry_MTCI
+6,Sentinel-1 + Sentinel-2 + DEM,4,19,S2_dry_NDMI
+6,Sentinel-1 + Sentinel-2 + DEM,4,20,S2_dry_PSRI
+6,Sentinel-1 + Sentinel-2 + DEM,4,21,S2_wet_MTCI
+6,Sentinel-1 + Sentinel-2 + DEM,4,22,S2_wet_CI_RE
+6,Sentinel-1 + Sentinel-2 + DEM,4,23,S2_wet_B3
+6,Sentinel-1 + Sentinel-2 + DEM,4,24,S2_wet_B7
+6,Sentinel-1 + Sentinel-2 + DEM,4,25,S2_wet_B11
+6,Sentinel-1 + Sentinel-2 + DEM,5,1,S2_dry_CVI
+6,Sentinel-1 + Sentinel-2 + DEM,5,2,DEM_elevation
+6,Sentinel-1 + Sentinel-2 + DEM,5,3,S2_dry_MNDWI
+6,Sentinel-1 + Sentinel-2 + DEM,5,4,S2_wet_NBR2
+6,Sentinel-1 + Sentinel-2 + DEM,5,5,S2_dry_B11
+6,Sentinel-1 + Sentinel-2 + DEM,5,6,S2_dry_NBR2
+6,Sentinel-1 + Sentinel-2 + DEM,5,7,S2_dry_B2
+6,Sentinel-1 + Sentinel-2 + DEM,5,8,S1_VVasc_p50
+6,Sentinel-1 + Sentinel-2 + DEM,5,9,S1_VHasc_p50
+6,Sentinel-1 + Sentinel-2 + DEM,5,10,S2_dry_NDI
+6,Sentinel-1 + Sentinel-2 + DEM,5,11,S2_wet_B12
+6,Sentinel-1 + Sentinel-2 + DEM,5,12,DEM_slope
+6,Sentinel-1 + Sentinel-2 + DEM,5,13,S2_dry_B8
+6,Sentinel-1 + Sentinel-2 + DEM,5,14,S2_dry_NLI
+6,Sentinel-1 + Sentinel-2 + DEM,5,15,S2_dry_GNDVI
+6,Sentinel-1 + Sentinel-2 + DEM,5,16,S2_dry_B5
+6,Sentinel-1 + Sentinel-2 + DEM,5,17,S2_wet_GNDVI
+6,Sentinel-1 + Sentinel-2 + DEM,5,18,S2_dry_NBR
+6,Sentinel-1 + Sentinel-2 + DEM,5,19,S2_dry_MTCI
+6,Sentinel-1 + Sentinel-2 + DEM,5,20,S2_dry_PSRI
+6,Sentinel-1 + Sentinel-2 + DEM,5,21,S2_wet_B6
+6,Sentinel-1 + Sentinel-2 + DEM,5,22,S2_wet_CVI
+6,Sentinel-1 + Sentinel-2 + DEM,5,23,S2_wet_B3
+6,Sentinel-1 + Sentinel-2 + DEM,5,24,S2_wet_MTCI
+6,Sentinel-1 + Sentinel-2 + DEM,5,25,S2_wet_B11
+7,Sentinel-1 + Landsat + DEM,1,1,DEM_elevation
+7,Sentinel-1 + Landsat + DEM,1,2,S1_VHasc_p50
+7,Sentinel-1 + Landsat + DEM,1,3,S1_VVasc_p50
+7,Sentinel-1 + Landsat + DEM,1,4,L89_dry_Green
+7,Sentinel-1 + Landsat + DEM,1,5,L89_dry_SWIR1
+7,Sentinel-1 + Landsat + DEM,1,6,L89_dry_NIR
+7,Sentinel-1 + Landsat + DEM,1,7,L89_dry_NBR2
+7,Sentinel-1 + Landsat + DEM,1,8,L89_wet_NBR2
+7,Sentinel-1 + Landsat + DEM,1,9,L89_dry_BSI
+7,Sentinel-1 + Landsat + DEM,1,10,L89_dry_NDVI
+7,Sentinel-1 + Landsat + DEM,1,11,L89_dry_MSI
+7,Sentinel-1 + Landsat + DEM,1,12,L89_wet_NIR
+7,Sentinel-1 + Landsat + DEM,1,13,DEM_slope
+7,Sentinel-1 + Landsat + DEM,1,14,S1_VVminusVH_asc_p50
+7,Sentinel-1 + Landsat + DEM,1,15,L89_wet_NDVI
+7,Sentinel-1 + Landsat + DEM,1,16,S1_VHdesc_p25
+7,Sentinel-1 + Landsat + DEM,1,17,S1_VHdesc_p50
+7,Sentinel-1 + Landsat + DEM,1,18,S1_VH_glcm_contrast_5x5
+7,Sentinel-1 + Landsat + DEM,1,19,L89_wet_SWIR2
+7,Sentinel-1 + Landsat + DEM,1,20,L89_wet_BSI
+7,Sentinel-1 + Landsat + DEM,1,21,S1_VVdesc_p25
+7,Sentinel-1 + Landsat + DEM,1,22,S1_VVdesc_p50
+7,Sentinel-1 + Landsat + DEM,1,23,L89_wet_Red
+7,Sentinel-1 + Landsat + DEM,1,24,L89_wet_MSI
+7,Sentinel-1 + Landsat + DEM,1,25,L89_wet_Blue
+7,Sentinel-1 + Landsat + DEM,2,1,DEM_elevation
+7,Sentinel-1 + Landsat + DEM,2,2,S1_VHasc_p50
+7,Sentinel-1 + Landsat + DEM,2,3,S1_VVasc_p50
+7,Sentinel-1 + Landsat + DEM,2,4,L89_dry_SWIR1
+7,Sentinel-1 + Landsat + DEM,2,5,L89_dry_Green
+7,Sentinel-1 + Landsat + DEM,2,6,L89_dry_NIR
+7,Sentinel-1 + Landsat + DEM,2,7,L89_wet_NBR2
+7,Sentinel-1 + Landsat + DEM,2,8,L89_dry_NDVI
+7,Sentinel-1 + Landsat + DEM,2,9,L89_dry_NBR2
+7,Sentinel-1 + Landsat + DEM,2,10,L89_dry_BSI
+7,Sentinel-1 + Landsat + DEM,2,11,L89_dry_MSI
+7,Sentinel-1 + Landsat + DEM,2,12,L89_wet_NIR
+7,Sentinel-1 + Landsat + DEM,2,13,DEM_slope
+7,Sentinel-1 + Landsat + DEM,2,14,L89_wet_NDVI
+7,Sentinel-1 + Landsat + DEM,2,15,S1_VVdesc_p25
+7,Sentinel-1 + Landsat + DEM,2,16,S1_VHdesc_p50
+7,Sentinel-1 + Landsat + DEM,2,17,S1_VVminusVH_asc_p50
+7,Sentinel-1 + Landsat + DEM,2,18,S1_VHdesc_p25
+7,Sentinel-1 + Landsat + DEM,2,19,L89_wet_BSI
+7,Sentinel-1 + Landsat + DEM,2,20,L89_wet_SWIR2
+7,Sentinel-1 + Landsat + DEM,2,21,S1_VH_glcm_contrast_5x5
+7,Sentinel-1 + Landsat + DEM,2,22,L89_wet_Red
+7,Sentinel-1 + Landsat + DEM,2,23,L89_wet_NDMI
+7,Sentinel-1 + Landsat + DEM,2,24,S1_VVdesc_p75
+7,Sentinel-1 + Landsat + DEM,2,25,L89_wet_SWIR1
+7,Sentinel-1 + Landsat + DEM,3,1,DEM_elevation
+7,Sentinel-1 + Landsat + DEM,3,2,S1_VHasc_p50
+7,Sentinel-1 + Landsat + DEM,3,3,L89_dry_Green
+7,Sentinel-1 + Landsat + DEM,3,4,S1_VVasc_p50
+7,Sentinel-1 + Landsat + DEM,3,5,L89_dry_SWIR1
+7,Sentinel-1 + Landsat + DEM,3,6,L89_wet_NBR2
+7,Sentinel-1 + Landsat + DEM,3,7,L89_dry_NIR
+7,Sentinel-1 + Landsat + DEM,3,8,L89_dry_NBR2
+7,Sentinel-1 + Landsat + DEM,3,9,L89_dry_NDVI
+7,Sentinel-1 + Landsat + DEM,3,10,L89_dry_BSI
+7,Sentinel-1 + Landsat + DEM,3,11,L89_dry_MSI
+7,Sentinel-1 + Landsat + DEM,3,12,DEM_slope
+7,Sentinel-1 + Landsat + DEM,3,13,L89_wet_NDVI
+7,Sentinel-1 + Landsat + DEM,3,14,L89_wet_NIR
+7,Sentinel-1 + Landsat + DEM,3,15,S1_VH_glcm_contrast_5x5
+7,Sentinel-1 + Landsat + DEM,3,16,S1_VHdesc_p25
+7,Sentinel-1 + Landsat + DEM,3,17,S1_VVminusVH_asc_p50
+7,Sentinel-1 + Landsat + DEM,3,18,L89_wet_SWIR2
+7,Sentinel-1 + Landsat + DEM,3,19,S1_VHdesc_p50
+7,Sentinel-1 + Landsat + DEM,3,20,S1_VVdesc_p25
+7,Sentinel-1 + Landsat + DEM,3,21,L89_wet_BSI
+7,Sentinel-1 + Landsat + DEM,3,22,L89_wet_SWIR1
+7,Sentinel-1 + Landsat + DEM,3,23,L89_wet_Red
+7,Sentinel-1 + Landsat + DEM,3,24,S1_VVdesc_p50
+7,Sentinel-1 + Landsat + DEM,3,25,L89_wet_Blue
+7,Sentinel-1 + Landsat + DEM,4,1,DEM_elevation
+7,Sentinel-1 + Landsat + DEM,4,2,S1_VHasc_p50
+7,Sentinel-1 + Landsat + DEM,4,3,S1_VVasc_p50
+7,Sentinel-1 + Landsat + DEM,4,4,L89_dry_Green
+7,Sentinel-1 + Landsat + DEM,4,5,L89_dry_NIR
+7,Sentinel-1 + Landsat + DEM,4,6,L89_dry_NDVI
+7,Sentinel-1 + Landsat + DEM,4,7,L89_dry_SWIR2
+7,Sentinel-1 + Landsat + DEM,4,8,L89_wet_NBR2
+7,Sentinel-1 + Landsat + DEM,4,9,L89_dry_NBR2
+7,Sentinel-1 + Landsat + DEM,4,10,L89_dry_BSI
+7,Sentinel-1 + Landsat + DEM,4,11,L89_dry_MSI
+7,Sentinel-1 + Landsat + DEM,4,12,L89_wet_NDVI
+7,Sentinel-1 + Landsat + DEM,4,13,L89_wet_NIR
+7,Sentinel-1 + Landsat + DEM,4,14,DEM_slope
+7,Sentinel-1 + Landsat + DEM,4,15,S1_VVminusVH_asc_p50
+7,Sentinel-1 + Landsat + DEM,4,16,S1_VH_glcm_contrast_5x5
+7,Sentinel-1 + Landsat + DEM,4,17,S1_VHdesc_p50
+7,Sentinel-1 + Landsat + DEM,4,18,S1_VHdesc_p25
+7,Sentinel-1 + Landsat + DEM,4,19,L89_wet_SWIR2
+7,Sentinel-1 + Landsat + DEM,4,20,S1_VVdesc_p25
+7,Sentinel-1 + Landsat + DEM,4,21,L89_wet_Red
+7,Sentinel-1 + Landsat + DEM,4,22,L89_wet_BSI
+7,Sentinel-1 + Landsat + DEM,4,23,L89_wet_SWIR1
+7,Sentinel-1 + Landsat + DEM,4,24,L89_wet_Blue
+7,Sentinel-1 + Landsat + DEM,4,25,S1_VVdesc_p50
+7,Sentinel-1 + Landsat + DEM,5,1,DEM_elevation
+7,Sentinel-1 + Landsat + DEM,5,2,S1_VHasc_p50
+7,Sentinel-1 + Landsat + DEM,5,3,S1_VVasc_p50
+7,Sentinel-1 + Landsat + DEM,5,4,L89_dry_SWIR1
+7,Sentinel-1 + Landsat + DEM,5,5,L89_dry_Green
+7,Sentinel-1 + Landsat + DEM,5,6,L89_dry_NIR
+7,Sentinel-1 + Landsat + DEM,5,7,L89_dry_NDVI
+7,Sentinel-1 + Landsat + DEM,5,8,L89_wet_NBR2
+7,Sentinel-1 + Landsat + DEM,5,9,L89_dry_NBR2
+7,Sentinel-1 + Landsat + DEM,5,10,L89_dry_MSI
+7,Sentinel-1 + Landsat + DEM,5,11,L89_dry_BSI
+7,Sentinel-1 + Landsat + DEM,5,12,DEM_slope
+7,Sentinel-1 + Landsat + DEM,5,13,L89_wet_NDVI
+7,Sentinel-1 + Landsat + DEM,5,14,L89_wet_NIR
+7,Sentinel-1 + Landsat + DEM,5,15,S1_VHdesc_p25
+7,Sentinel-1 + Landsat + DEM,5,16,S1_VHdesc_p50
+7,Sentinel-1 + Landsat + DEM,5,17,S1_VVdesc_p50
+7,Sentinel-1 + Landsat + DEM,5,18,S1_VH_glcm_contrast_5x5
+7,Sentinel-1 + Landsat + DEM,5,19,S1_VVminusVH_asc_p50
+7,Sentinel-1 + Landsat + DEM,5,20,S1_VVdesc_p25
+7,Sentinel-1 + Landsat + DEM,5,21,L89_wet_Red
+7,Sentinel-1 + Landsat + DEM,5,22,L89_wet_BSI
+7,Sentinel-1 + Landsat + DEM,5,23,L89_wet_SWIR2
+7,Sentinel-1 + Landsat + DEM,5,24,L89_wet_Blue
+7,Sentinel-1 + Landsat + DEM,5,25,L89_wet_SWIR1
+8,Sentinel-2 + Landsat + DEM,1,1,S2_dry_CVI
+8,Sentinel-2 + Landsat + DEM,1,2,S2_dry_MNDWI
+8,Sentinel-2 + Landsat + DEM,1,3,S2_wet_NBR2
+8,Sentinel-2 + Landsat + DEM,1,4,DEM_elevation
+8,Sentinel-2 + Landsat + DEM,1,5,S2_dry_B11
+8,Sentinel-2 + Landsat + DEM,1,6,S2_dry_B2
+8,Sentinel-2 + Landsat + DEM,1,7,S2_dry_NBR2
+8,Sentinel-2 + Landsat + DEM,1,8,L89_dry_Blue
+8,Sentinel-2 + Landsat + DEM,1,9,L89_dry_SWIR2_p75
+8,Sentinel-2 + Landsat + DEM,1,10,L89_wet_NBR2
+8,Sentinel-2 + Landsat + DEM,1,11,L89_dry_NDVI
+8,Sentinel-2 + Landsat + DEM,1,12,S2_dry_B6
+8,Sentinel-2 + Landsat + DEM,1,13,S2_wet_GNDVI
+8,Sentinel-2 + Landsat + DEM,1,14,S2_dry_SR
+8,Sentinel-2 + Landsat + DEM,1,15,S2_wet_B12
+8,Sentinel-2 + Landsat + DEM,1,16,S2_dry_B5
+8,Sentinel-2 + Landsat + DEM,1,17,DEM_slope
+8,Sentinel-2 + Landsat + DEM,1,18,L89_dry_MSI
+8,Sentinel-2 + Landsat + DEM,1,19,S2_wet_CVI
+8,Sentinel-2 + Landsat + DEM,1,20,L89_dry_NDMI
+8,Sentinel-2 + Landsat + DEM,1,21,S2_wet_B7
+8,Sentinel-2 + Landsat + DEM,1,22,S2_wet_CI_RE
+8,Sentinel-2 + Landsat + DEM,1,23,S2_dry_PSRI
+8,Sentinel-2 + Landsat + DEM,1,24,S2_dry_NDI
+8,Sentinel-2 + Landsat + DEM,1,25,L89_wet_NIR
+8,Sentinel-2 + Landsat + DEM,2,1,S2_dry_CVI
+8,Sentinel-2 + Landsat + DEM,2,2,DEM_elevation
+8,Sentinel-2 + Landsat + DEM,2,3,S2_dry_MNDWI
+8,Sentinel-2 + Landsat + DEM,2,4,S2_wet_NBR2
+8,Sentinel-2 + Landsat + DEM,2,5,S2_dry_B11
+8,Sentinel-2 + Landsat + DEM,2,6,S2_dry_B2
+8,Sentinel-2 + Landsat + DEM,2,7,S2_dry_NBR2
+8,Sentinel-2 + Landsat + DEM,2,8,L89_dry_Green
+8,Sentinel-2 + Landsat + DEM,2,9,L89_wet_NBR2
+8,Sentinel-2 + Landsat + DEM,2,10,L89_dry_SWIR2_p75
+8,Sentinel-2 + Landsat + DEM,2,11,L89_dry_NIR
+8,Sentinel-2 + Landsat + DEM,2,12,S2_dry_GNDVI
+8,Sentinel-2 + Landsat + DEM,2,13,S2_wet_B12
+8,Sentinel-2 + Landsat + DEM,2,14,L89_dry_NDVI
+8,Sentinel-2 + Landsat + DEM,2,15,DEM_slope
+8,Sentinel-2 + Landsat + DEM,2,16,S2_dry_MTCI
+8,Sentinel-2 + Landsat + DEM,2,17,S2_dry_B5
+8,Sentinel-2 + Landsat + DEM,2,18,L89_dry_NDMI
+8,Sentinel-2 + Landsat + DEM,2,19,L89_dry_MSI
+8,Sentinel-2 + Landsat + DEM,2,20,S2_dry_NDI
+8,Sentinel-2 + Landsat + DEM,2,21,S2_dry_SR
+8,Sentinel-2 + Landsat + DEM,2,22,S2_wet_NDVI_RE
+8,Sentinel-2 + Landsat + DEM,2,23,L89_wet_NIR
+8,Sentinel-2 + Landsat + DEM,2,24,S2_dry_PSRI
+8,Sentinel-2 + Landsat + DEM,2,25,S2_wet_CVI
+8,Sentinel-2 + Landsat + DEM,3,1,S2_dry_CVI
+8,Sentinel-2 + Landsat + DEM,3,2,DEM_elevation
+8,Sentinel-2 + Landsat + DEM,3,3,S2_dry_MNDWI
+8,Sentinel-2 + Landsat + DEM,3,4,S2_wet_NBR2
+8,Sentinel-2 + Landsat + DEM,3,5,S2_dry_B2
+8,Sentinel-2 + Landsat + DEM,3,6,S2_dry_B11
+8,Sentinel-2 + Landsat + DEM,3,7,S2_dry_NBR2
+8,Sentinel-2 + Landsat + DEM,3,8,S2_dry_NLI
+8,Sentinel-2 + Landsat + DEM,3,9,S2_dry_B8
+8,Sentinel-2 + Landsat + DEM,3,10,L89_dry_SWIR2
+8,Sentinel-2 + Landsat + DEM,3,11,L89_dry_Green
+8,Sentinel-2 + Landsat + DEM,3,12,L89_wet_NBR2
+8,Sentinel-2 + Landsat + DEM,3,13,S2_wet_GNDVI
+8,Sentinel-2 + Landsat + DEM,3,14,DEM_slope
+8,Sentinel-2 + Landsat + DEM,3,15,S2_dry_NDI
+8,Sentinel-2 + Landsat + DEM,3,16,L89_dry_MSI
+8,Sentinel-2 + Landsat + DEM,3,17,S2_wet_B12
+8,Sentinel-2 + Landsat + DEM,3,18,S2_wet_B7
+8,Sentinel-2 + Landsat + DEM,3,19,S2_dry_B5
+8,Sentinel-2 + Landsat + DEM,3,20,L89_dry_NDMI
+8,Sentinel-2 + Landsat + DEM,3,21,S2_wet_CVI
+8,Sentinel-2 + Landsat + DEM,3,22,S2_wet_NLI
+8,Sentinel-2 + Landsat + DEM,3,23,S2_dry_PSRI
+8,Sentinel-2 + Landsat + DEM,3,24,S2_dry_MTCI
+8,Sentinel-2 + Landsat + DEM,3,25,L89_wet_NIR
+8,Sentinel-2 + Landsat + DEM,4,1,S2_dry_CVI
+8,Sentinel-2 + Landsat + DEM,4,2,DEM_elevation
+8,Sentinel-2 + Landsat + DEM,4,3,S2_dry_MNDWI
+8,Sentinel-2 + Landsat + DEM,4,4,S2_wet_NBR2
+8,Sentinel-2 + Landsat + DEM,4,5,S2_dry_B2
+8,Sentinel-2 + Landsat + DEM,4,6,S2_dry_B11
+8,Sentinel-2 + Landsat + DEM,4,7,S2_dry_NBR2
+8,Sentinel-2 + Landsat + DEM,4,8,L89_dry_Green
+8,Sentinel-2 + Landsat + DEM,4,9,S2_dry_NLI
+8,Sentinel-2 + Landsat + DEM,4,10,L89_wet_NBR2
+8,Sentinel-2 + Landsat + DEM,4,11,S2_wet_NDWI
+8,Sentinel-2 + Landsat + DEM,4,12,DEM_slope
+8,Sentinel-2 + Landsat + DEM,4,13,L89_dry_SWIR2_p75
+8,Sentinel-2 + Landsat + DEM,4,14,S2_dry_B6
+8,Sentinel-2 + Landsat + DEM,4,15,S2_dry_NDI
+8,Sentinel-2 + Landsat + DEM,4,16,L89_dry_MSI
+8,Sentinel-2 + Landsat + DEM,4,17,S2_wet_B12
+8,Sentinel-2 + Landsat + DEM,4,18,L89_dry_NDMI
+8,Sentinel-2 + Landsat + DEM,4,19,S2_dry_B5
+8,Sentinel-2 + Landsat + DEM,4,20,L89_wet_NIR
+8,Sentinel-2 + Landsat + DEM,4,21,S2_dry_MTCI
+8,Sentinel-2 + Landsat + DEM,4,22,S2_wet_B8
+8,Sentinel-2 + Landsat + DEM,4,23,S2_wet_CVI
+8,Sentinel-2 + Landsat + DEM,4,24,S2_dry_PSRI
+8,Sentinel-2 + Landsat + DEM,4,25,L89_wet_NDVI
+8,Sentinel-2 + Landsat + DEM,5,1,S2_dry_CVI
+8,Sentinel-2 + Landsat + DEM,5,2,DEM_elevation
+8,Sentinel-2 + Landsat + DEM,5,3,S2_dry_MNDWI
+8,Sentinel-2 + Landsat + DEM,5,4,S2_wet_NBR2
+8,Sentinel-2 + Landsat + DEM,5,5,S2_dry_B11
+8,Sentinel-2 + Landsat + DEM,5,6,S2_dry_B2
+8,Sentinel-2 + Landsat + DEM,5,7,L89_dry_SWIR2_p75
+8,Sentinel-2 + Landsat + DEM,5,8,S2_dry_NBR2
+8,Sentinel-2 + Landsat + DEM,5,9,L89_dry_Blue
+8,Sentinel-2 + Landsat + DEM,5,10,S2_dry_NDWI
+8,Sentinel-2 + Landsat + DEM,5,11,S2_wet_GNDVI
+8,Sentinel-2 + Landsat + DEM,5,12,L89_dry_NDVI
+8,Sentinel-2 + Landsat + DEM,5,13,L89_wet_NBR2
+8,Sentinel-2 + Landsat + DEM,5,14,S2_wet_B12
+8,Sentinel-2 + Landsat + DEM,5,15,DEM_slope
+8,Sentinel-2 + Landsat + DEM,5,16,S2_dry_B7
+8,Sentinel-2 + Landsat + DEM,5,17,S2_dry_SR
+8,Sentinel-2 + Landsat + DEM,5,18,L89_dry_NDMI
+8,Sentinel-2 + Landsat + DEM,5,19,L89_dry_MSI
+8,Sentinel-2 + Landsat + DEM,5,20,S2_dry_NDI
+8,Sentinel-2 + Landsat + DEM,5,21,S2_dry_B5
+8,Sentinel-2 + Landsat + DEM,5,22,S2_dry_MTCI
+8,Sentinel-2 + Landsat + DEM,5,23,S2_wet_CVI
+8,Sentinel-2 + Landsat + DEM,5,24,L89_wet_NIR
+8,Sentinel-2 + Landsat + DEM,5,25,S2_wet_B7
+9,Sentinel-1 + Sentinel-2 + Landsat,1,1,S2_dry_CVI
+9,Sentinel-1 + Sentinel-2 + Landsat,1,2,S2_wet_NBR2
+9,Sentinel-1 + Sentinel-2 + Landsat,1,3,S2_dry_MNDWI
+9,Sentinel-1 + Sentinel-2 + Landsat,1,4,S2_dry_B11
+9,Sentinel-1 + Sentinel-2 + Landsat,1,5,S2_dry_B2
+9,Sentinel-1 + Sentinel-2 + Landsat,1,6,S1_VHasc_p50
+9,Sentinel-1 + Sentinel-2 + Landsat,1,7,S2_dry_NBR2
+9,Sentinel-1 + Sentinel-2 + Landsat,1,8,L89_dry_SWIR2
+9,Sentinel-1 + Sentinel-2 + Landsat,1,9,L89_dry_Green
+9,Sentinel-1 + Sentinel-2 + Landsat,1,10,S2_dry_NLI
+9,Sentinel-1 + Sentinel-2 + Landsat,1,11,S1_VVasc_p50
+9,Sentinel-1 + Sentinel-2 + Landsat,1,12,S2_dry_B8
+9,Sentinel-1 + Sentinel-2 + Landsat,1,13,L89_wet_NBR2
+9,Sentinel-1 + Sentinel-2 + Landsat,1,14,S2_wet_NDWI
+9,Sentinel-1 + Sentinel-2 + Landsat,1,15,S2_wet_B12
+9,Sentinel-1 + Sentinel-2 + Landsat,1,16,L89_dry_NDMI
+9,Sentinel-1 + Sentinel-2 + Landsat,1,17,S2_dry_NDI
+9,Sentinel-1 + Sentinel-2 + Landsat,1,18,S2_dry_B5
+9,Sentinel-1 + Sentinel-2 + Landsat,1,19,S2_wet_B8
+9,Sentinel-1 + Sentinel-2 + Landsat,1,20,S2_dry_MTCI
+9,Sentinel-1 + Sentinel-2 + Landsat,1,21,L89_dry_MSI
+9,Sentinel-1 + Sentinel-2 + Landsat,1,22,S2_wet_CVI
+9,Sentinel-1 + Sentinel-2 + Landsat,1,23,S2_dry_PSRI
+9,Sentinel-1 + Sentinel-2 + Landsat,1,24,S2_wet_B3
+9,Sentinel-1 + Sentinel-2 + Landsat,1,25,S2_wet_B5
+9,Sentinel-1 + Sentinel-2 + Landsat,2,1,S2_dry_CVI
+9,Sentinel-1 + Sentinel-2 + Landsat,2,2,S2_dry_MNDWI
+9,Sentinel-1 + Sentinel-2 + Landsat,2,3,S2_wet_NBR2
+9,Sentinel-1 + Sentinel-2 + Landsat,2,4,S1_VVasc_p50
+9,Sentinel-1 + Sentinel-2 + Landsat,2,5,S2_dry_B11
+9,Sentinel-1 + Sentinel-2 + Landsat,2,6,S2_dry_B2
+9,Sentinel-1 + Sentinel-2 + Landsat,2,7,S2_dry_NBR2
+9,Sentinel-1 + Sentinel-2 + Landsat,2,8,S1_VHasc_p50
+9,Sentinel-1 + Sentinel-2 + Landsat,2,9,L89_dry_Green
+9,Sentinel-1 + Sentinel-2 + Landsat,2,10,L89_dry_SWIR2
+9,Sentinel-1 + Sentinel-2 + Landsat,2,11,L89_dry_NDVI
+9,Sentinel-1 + Sentinel-2 + Landsat,2,12,L89_wet_NBR2
+9,Sentinel-1 + Sentinel-2 + Landsat,2,13,S2_wet_B12
+9,Sentinel-1 + Sentinel-2 + Landsat,2,14,S2_dry_NDWI
+9,Sentinel-1 + Sentinel-2 + Landsat,2,15,L89_dry_NIR
+9,Sentinel-1 + Sentinel-2 + Landsat,2,16,S2_wet_CVI
+9,Sentinel-1 + Sentinel-2 + Landsat,2,17,L89_dry_NDMI
+9,Sentinel-1 + Sentinel-2 + Landsat,2,18,S2_dry_NDI
+9,Sentinel-1 + Sentinel-2 + Landsat,2,19,S2_dry_SR
+9,Sentinel-1 + Sentinel-2 + Landsat,2,20,S2_dry_B5
+9,Sentinel-1 + Sentinel-2 + Landsat,2,21,S2_wet_B8
+9,Sentinel-1 + Sentinel-2 + Landsat,2,22,L89_dry_MSI
+9,Sentinel-1 + Sentinel-2 + Landsat,2,23,L89_wet_NIR
+9,Sentinel-1 + Sentinel-2 + Landsat,2,24,S2_dry_MTCI
+9,Sentinel-1 + Sentinel-2 + Landsat,2,25,S2_dry_PSRI
+9,Sentinel-1 + Sentinel-2 + Landsat,3,1,S2_dry_CVI
+9,Sentinel-1 + Sentinel-2 + Landsat,3,2,S2_dry_MNDWI
+9,Sentinel-1 + Sentinel-2 + Landsat,3,3,S2_wet_NBR2
+9,Sentinel-1 + Sentinel-2 + Landsat,3,4,S2_dry_B2
+9,Sentinel-1 + Sentinel-2 + Landsat,3,5,S2_dry_B11
+9,Sentinel-1 + Sentinel-2 + Landsat,3,6,L89_dry_Green
+9,Sentinel-1 + Sentinel-2 + Landsat,3,7,S1_VHasc_p50
+9,Sentinel-1 + Sentinel-2 + Landsat,3,8,S1_VVasc_p50
+9,Sentinel-1 + Sentinel-2 + Landsat,3,9,S2_dry_NBR2
+9,Sentinel-1 + Sentinel-2 + Landsat,3,10,L89_dry_SWIR2
+9,Sentinel-1 + Sentinel-2 + Landsat,3,11,L89_wet_NBR2
+9,Sentinel-1 + Sentinel-2 + Landsat,3,12,S2_dry_SR
+9,Sentinel-1 + Sentinel-2 + Landsat,3,13,S2_dry_NDWI
+9,Sentinel-1 + Sentinel-2 + Landsat,3,14,L89_dry_NDVI
+9,Sentinel-1 + Sentinel-2 + Landsat,3,15,S2_dry_B8
+9,Sentinel-1 + Sentinel-2 + Landsat,3,16,L89_dry_NDMI
+9,Sentinel-1 + Sentinel-2 + Landsat,3,17,L89_dry_MSI
+9,Sentinel-1 + Sentinel-2 + Landsat,3,18,S2_wet_B12
+9,Sentinel-1 + Sentinel-2 + Landsat,3,19,S2_dry_B5
+9,Sentinel-1 + Sentinel-2 + Landsat,3,20,S2_dry_NDI
+9,Sentinel-1 + Sentinel-2 + Landsat,3,21,S2_wet_CVI
+9,Sentinel-1 + Sentinel-2 + Landsat,3,22,S2_wet_B8
+9,Sentinel-1 + Sentinel-2 + Landsat,3,23,S2_dry_MTCI
+9,Sentinel-1 + Sentinel-2 + Landsat,3,24,S2_wet_B3
+9,Sentinel-1 + Sentinel-2 + Landsat,3,25,S2_dry_PSRI
+9,Sentinel-1 + Sentinel-2 + Landsat,4,1,S2_dry_CVI
+9,Sentinel-1 + Sentinel-2 + Landsat,4,2,S2_dry_MNDWI
+9,Sentinel-1 + Sentinel-2 + Landsat,4,3,S2_wet_NBR2
+9,Sentinel-1 + Sentinel-2 + Landsat,4,4,S2_dry_B11
+9,Sentinel-1 + Sentinel-2 + Landsat,4,5,S2_dry_B2
+9,Sentinel-1 + Sentinel-2 + Landsat,4,6,S1_VVasc_p50
+9,Sentinel-1 + Sentinel-2 + Landsat,4,7,L89_dry_Green
+9,Sentinel-1 + Sentinel-2 + Landsat,4,8,S1_VHasc_p50
+9,Sentinel-1 + Sentinel-2 + Landsat,4,9,L89_wet_NBR2
+9,Sentinel-1 + Sentinel-2 + Landsat,4,10,L89_dry_SWIR2
+9,Sentinel-1 + Sentinel-2 + Landsat,4,11,S2_dry_GNDVI
+9,Sentinel-1 + Sentinel-2 + Landsat,4,12,S2_dry_NBR2
+9,Sentinel-1 + Sentinel-2 + Landsat,4,13,S2_dry_B8
+9,Sentinel-1 + Sentinel-2 + Landsat,4,14,L89_dry_MSI
+9,Sentinel-1 + Sentinel-2 + Landsat,4,15,S2_wet_B12
+9,Sentinel-1 + Sentinel-2 + Landsat,4,16,S2_dry_NLI
+9,Sentinel-1 + Sentinel-2 + Landsat,4,17,S2_wet_CVI
+9,Sentinel-1 + Sentinel-2 + Landsat,4,18,S2_dry_NDI
+9,Sentinel-1 + Sentinel-2 + Landsat,4,19,S2_dry_B5
+9,Sentinel-1 + Sentinel-2 + Landsat,4,20,L89_dry_NDMI
+9,Sentinel-1 + Sentinel-2 + Landsat,4,21,L89_wet_NIR
+9,Sentinel-1 + Sentinel-2 + Landsat,4,22,S2_dry_PSRI
+9,Sentinel-1 + Sentinel-2 + Landsat,4,23,S2_wet_NLI
+9,Sentinel-1 + Sentinel-2 + Landsat,4,24,S2_wet_B2
+9,Sentinel-1 + Sentinel-2 + Landsat,4,25,S2_wet_B6
+9,Sentinel-1 + Sentinel-2 + Landsat,5,1,S2_dry_CVI
+9,Sentinel-1 + Sentinel-2 + Landsat,5,2,S2_dry_MNDWI
+9,Sentinel-1 + Sentinel-2 + Landsat,5,3,S2_wet_NBR2
+9,Sentinel-1 + Sentinel-2 + Landsat,5,4,S2_dry_B2
+9,Sentinel-1 + Sentinel-2 + Landsat,5,5,S2_dry_B11
+9,Sentinel-1 + Sentinel-2 + Landsat,5,6,S1_VVasc_p50
+9,Sentinel-1 + Sentinel-2 + Landsat,5,7,S1_VHasc_p50
+9,Sentinel-1 + Sentinel-2 + Landsat,5,8,S2_dry_NBR2
+9,Sentinel-1 + Sentinel-2 + Landsat,5,9,L89_dry_Blue
+9,Sentinel-1 + Sentinel-2 + Landsat,5,10,S2_dry_GNDVI
+9,Sentinel-1 + Sentinel-2 + Landsat,5,11,L89_dry_SWIR2
+9,Sentinel-1 + Sentinel-2 + Landsat,5,12,S2_dry_NLI
+9,Sentinel-1 + Sentinel-2 + Landsat,5,13,L89_wet_NBR2
+9,Sentinel-1 + Sentinel-2 + Landsat,5,14,L89_dry_NDMI
+9,Sentinel-1 + Sentinel-2 + Landsat,5,15,S2_dry_B6
+9,Sentinel-1 + Sentinel-2 + Landsat,5,16,S2_wet_GNDVI
+9,Sentinel-1 + Sentinel-2 + Landsat,5,17,L89_dry_MSI
+9,Sentinel-1 + Sentinel-2 + Landsat,5,18,S2_wet_B12
+9,Sentinel-1 + Sentinel-2 + Landsat,5,19,S2_dry_B5
+9,Sentinel-1 + Sentinel-2 + Landsat,5,20,S2_dry_MTCI
+9,Sentinel-1 + Sentinel-2 + Landsat,5,21,S2_dry_NDI
+9,Sentinel-1 + Sentinel-2 + Landsat,5,22,S2_wet_CVI
+9,Sentinel-1 + Sentinel-2 + Landsat,5,23,S2_wet_CI_RE
+9,Sentinel-1 + Sentinel-2 + Landsat,5,24,S2_dry_PSRI
+9,Sentinel-1 + Sentinel-2 + Landsat,5,25,S2_wet_B7
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,1,1,S2_dry_CVI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,1,2,S2_dry_MNDWI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,1,3,DEM_elevation
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,1,4,S2_wet_NBR2
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,1,5,S2_dry_NBR2
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,1,6,L89_dry_Green
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,1,7,S2_dry_B2
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,1,8,S2_dry_B11
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,1,9,S1_VHasc_p50
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,1,10,L89_dry_SWIR2_p75
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,1,11,S1_VVasc_p50
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,1,12,L89_wet_NBR2
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,1,13,S2_dry_B8
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,1,14,S2_wet_GNDVI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,1,15,S2_dry_NDI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,1,16,L89_dry_NDVI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,1,17,S2_wet_B12
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,1,18,L89_dry_MSI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,1,19,DEM_slope
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,1,20,S2_dry_B5
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,1,21,S2_dry_PSRI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,1,22,S2_wet_CVI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,1,23,L89_dry_NDMI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,1,24,S2_dry_MTCI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,1,25,S2_wet_B8
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,2,1,S2_dry_CVI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,2,2,DEM_elevation
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,2,3,S2_wet_NBR2
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,2,4,S2_dry_MNDWI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,2,5,S2_dry_B11
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,2,6,S1_VVasc_p50
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,2,7,S1_VHasc_p50
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,2,8,S2_dry_NBR2
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,2,9,S2_dry_B2
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,2,10,L89_dry_Green
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,2,11,L89_dry_SWIR2
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,2,12,S2_dry_B6
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,2,13,S2_dry_NDWI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,2,14,S2_dry_NLI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,2,15,S2_wet_B12
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,2,16,L89_wet_NBR2
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,2,17,DEM_slope
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,2,18,L89_dry_NDMI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,2,19,S2_dry_NDI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,2,20,L89_dry_MSI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,2,21,S2_dry_B5
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,2,22,S2_dry_MTCI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,2,23,S2_wet_CVI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,2,24,S2_wet_NDVI_RE
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,2,25,S2_wet_B6
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,3,1,S2_dry_CVI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,3,2,DEM_elevation
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,3,3,S2_dry_MNDWI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,3,4,S2_wet_NBR2
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,3,5,S2_dry_B2
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,3,6,S2_dry_B11
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,3,7,S1_VVasc_p50
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,3,8,S2_dry_NBR2
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,3,9,L89_dry_SWIR2
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,3,10,L89_dry_Blue
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,3,11,S2_dry_NDWI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,3,12,S1_VHasc_p50
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,3,13,S2_dry_B6
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,3,14,L89_wet_NBR2
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,3,15,S2_dry_NLI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,3,16,S2_wet_B12
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,3,17,DEM_slope
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,3,18,S2_dry_B5
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,3,19,L89_dry_NDMI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,3,20,S2_dry_NDI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,3,21,L89_dry_MSI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,3,22,S2_dry_MTCI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,3,23,S2_wet_NLI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,3,24,S2_wet_CVI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,3,25,S2_dry_PSRI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,4,1,S2_dry_CVI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,4,2,DEM_elevation
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,4,3,S2_dry_MNDWI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,4,4,S2_wet_NBR2
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,4,5,S2_dry_B2
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,4,6,S2_dry_B11
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,4,7,L89_dry_Green
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,4,8,S2_dry_NBR2
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,4,9,S1_VVasc_p50
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,4,10,S2_wet_GNDVI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,4,11,L89_dry_SWIR2_p75
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,4,12,S1_VHasc_p50
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,4,13,S2_wet_B12
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,4,14,L89_wet_NBR2
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,4,15,DEM_slope
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,4,16,S2_dry_NLI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,4,17,S2_dry_B8
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,4,18,L89_dry_MSI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,4,19,S2_dry_NDI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,4,20,L89_dry_NDMI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,4,21,S2_dry_B5
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,4,22,S2_dry_MTCI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,4,23,S2_wet_CVI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,4,24,S2_wet_NLI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,4,25,S2_wet_B6
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,5,1,S2_dry_CVI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,5,2,DEM_elevation
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,5,3,S2_dry_MNDWI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,5,4,S2_wet_NBR2
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,5,5,S2_dry_B2
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,5,6,S2_dry_B11
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,5,7,S2_dry_NBR2
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,5,8,L89_dry_Green
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,5,9,S1_VHasc_p50
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,5,10,L89_dry_SWIR2_p75
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,5,11,S1_VVasc_p50
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,5,12,L89_wet_NBR2
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,5,13,S2_dry_NLI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,5,14,S2_dry_NDWI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,5,15,S2_wet_GNDVI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,5,16,S2_dry_B6
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,5,17,DEM_slope
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,5,18,L89_dry_NDMI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,5,19,S2_wet_B12
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,5,20,S2_dry_NDI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,5,21,L89_dry_MSI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,5,22,S2_dry_B5
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,5,23,S2_wet_B6
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,5,24,S2_dry_MTCI
+10,Sentinel-1 + Sentinel-2 + Landsat + DEM,5,25,L89_wet_NIR

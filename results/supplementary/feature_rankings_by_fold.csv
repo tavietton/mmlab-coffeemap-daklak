@@ -1,0 +1,1456 @@
+block_size_km,fold,feature,ranking_importance,rank,selected,source_group,season_or_orbit,feature_family
+10,1,DEM_elevation,0.021579660847048154,1,True,DEM/topography,static_or_annual,topographic
+10,1,S2_wet_NBR2,0.019817155891310924,2,True,Sentinel-2 optical,wet,spectral_index
+10,1,L89_dry_NIR,0.019217040139203976,3,True,Landsat 8/9 optical,dry,spectral_band_or_percentile
+10,1,S2_dry_CVI,0.019190807373060625,4,True,Sentinel-2 optical,dry,spectral_index
+10,1,S2_dry_B12,0.018739572959810682,5,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,1,S2_dry_MNDWI,0.018569332581283775,6,True,Sentinel-2 optical,dry,spectral_index
+10,1,L89_dry_SWIR1,0.01733637191213221,7,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+10,1,S2_dry_NBR2,0.01700398268993792,8,True,Sentinel-2 optical,dry,spectral_index
+10,1,S2_dry_B11,0.016861161772137423,9,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,1,S1_VHasc_p50,0.01612492005198391,10,True,Sentinel-1 SAR,ascending,sar_backscatter_metric
+10,1,S2_dry_GNDVI,0.015986116025397807,11,True,Sentinel-2 optical,dry,spectral_index
+10,1,L89_dry_Green,0.01595510550471807,12,True,Landsat 8/9 optical,dry,spectral_band_or_percentile
+10,1,S2_dry_B7,0.015675787443611058,13,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,1,L89_dry_SWIR2,0.015600260657913846,14,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+10,1,L89_dry_NBR2,0.015424152628019524,15,False,Landsat 8/9 optical,dry,spectral_index
+10,1,L89_dry_NBR,0.015250027542112502,16,False,Landsat 8/9 optical,dry,spectral_index
+10,1,S2_dry_NDWI,0.014615531143545104,17,False,Sentinel-2 optical,dry,spectral_index
+10,1,S2_dry_B2,0.014193503609606837,18,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,1,S2_dry_B6,0.014101781505410391,19,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,1,L89_dry_Blue,0.013754231343730272,20,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+10,1,S2_dry_B8,0.013727068470651228,21,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,1,L89_wet_NBR2,0.013542178911675242,22,True,Landsat 8/9 optical,wet,spectral_index
+10,1,L89_dry_SWIR2_p75,0.013513021853978452,23,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+10,1,L89_dry_NDVI,0.01344163141844134,24,True,Landsat 8/9 optical,dry,spectral_index
+10,1,S2_dry_MSR,0.01308197814858421,25,False,Sentinel-2 optical,dry,spectral_index
+10,1,S2_dry_B5,0.012945641700324051,26,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,1,S2_dry_NDVI,0.012895745988933975,27,False,Sentinel-2 optical,dry,spectral_index
+10,1,S2_dry_B3,0.012497291335720556,28,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,1,S2_wet_GNDVI,0.012398541967227408,29,False,Sentinel-2 optical,wet,spectral_index
+10,1,L89_dry_NDMI,0.01226730599846209,30,True,Landsat 8/9 optical,dry,spectral_index
+10,1,S2_wet_RDVI,0.01181704397755477,31,True,Sentinel-2 optical,wet,spectral_index
+10,1,L89_dry_BSI,0.011738394999262165,32,False,Landsat 8/9 optical,dry,spectral_index
+10,1,L89_wet_NBR,0.011553295454593285,33,False,Landsat 8/9 optical,wet,spectral_index
+10,1,S2_wet_B11,0.01131395777445242,34,True,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,1,S2_wet_B12,0.011273398699119473,35,True,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,1,S2_wet_NBR,0.0112299945573645,36,False,Sentinel-2 optical,wet,spectral_index
+10,1,L89_dry_MSI,0.011225174284162493,37,True,Landsat 8/9 optical,dry,spectral_index
+10,1,S2_wet_NDWI,0.011166663369031413,38,False,Sentinel-2 optical,wet,spectral_index
+10,1,S2_wet_NDVI,0.01108771664381901,39,False,Sentinel-2 optical,wet,spectral_index
+10,1,S2_dry_NDI,0.01100307427062029,40,True,Sentinel-2 optical,dry,spectral_index
+10,1,L89_dry_Red,0.010947763828683814,41,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+10,1,S1_VVasc_p50,0.010817333900449899,42,True,Sentinel-1 SAR,ascending,sar_backscatter_metric
+10,1,S2_dry_B4,0.010750898608199123,43,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,1,S2_dry_SR,0.010720137812382454,44,True,Sentinel-2 optical,dry,spectral_index
+10,1,S2_wet_MTCI,0.010709688917994226,45,True,Sentinel-2 optical,wet,spectral_index
+10,1,S2_dry_CI_RE,0.010669398598156932,46,False,Sentinel-2 optical,dry,spectral_index
+10,1,S2_dry_RDVI,0.01060966158844513,47,False,Sentinel-2 optical,dry,spectral_index
+10,1,S2_dry_NLI,0.010334035639559931,48,False,Sentinel-2 optical,dry,spectral_index
+10,1,L89_wet_SWIR2,0.010241361179528792,49,True,Landsat 8/9 optical,wet,spectral_band_or_percentile
+10,1,S2_wet_CI_RE,0.009981802136466203,50,False,Sentinel-2 optical,wet,spectral_index
+10,1,S2_wet_MNDWI,0.00986732239326389,51,False,Sentinel-2 optical,wet,spectral_index
+10,1,S2_wet_CVI,0.009734249070637383,52,True,Sentinel-2 optical,wet,spectral_index
+10,1,S2_dry_NDVI_RE,0.009681909675785581,53,False,Sentinel-2 optical,dry,spectral_index
+10,1,S2_wet_B7,0.009644785032713304,54,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,1,S2_dry_NDMI,0.009544977047763595,55,False,Sentinel-2 optical,dry,spectral_index
+10,1,S2_wet_NDVI_RE,0.009484867891934909,56,False,Sentinel-2 optical,wet,spectral_index
+10,1,L89_wet_SWIR1,0.009401892100534269,57,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+10,1,S2_dry_NBR,0.009218386671140867,58,False,Sentinel-2 optical,dry,spectral_index
+10,1,S2_wet_MSR,0.009176782981634584,59,False,Sentinel-2 optical,wet,spectral_index
+10,1,L89_wet_SWIR2_p75,0.009161646068348513,60,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+10,1,S2_wet_B8,0.009147660868443538,61,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,1,S2_wet_NLI,0.008991370311124385,62,False,Sentinel-2 optical,wet,spectral_index
+10,1,L89_wet_NDVI,0.008900626777309736,63,False,Landsat 8/9 optical,wet,spectral_index
+10,1,S2_dry_PSRI,0.008684355301275697,64,False,Sentinel-2 optical,dry,spectral_index
+10,1,S2_wet_SR,0.008488800599329245,65,False,Sentinel-2 optical,wet,spectral_index
+10,1,S2_wet_B6,0.008259373911271439,66,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,1,S1_VHdesc_p25,0.008136207543411218,67,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,1,S2_wet_NDMI,0.008132795589277826,68,False,Sentinel-2 optical,wet,spectral_index
+10,1,L89_wet_NIR,0.007776157138379541,69,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+10,1,L89_wet_MSI,0.00776782884250174,70,False,Landsat 8/9 optical,wet,spectral_index
+10,1,L89_wet_BSI,0.007586853610612171,71,False,Landsat 8/9 optical,wet,spectral_index
+10,1,S2_wet_B4,0.007388681965556868,72,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,1,DEM_slope,0.007314138546641209,73,False,DEM/topography,static_or_annual,topographic
+10,1,L89_wet_Blue,0.006853197028864504,74,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+10,1,L89_wet_NDMI,0.00672531316390736,75,False,Landsat 8/9 optical,wet,spectral_index
+10,1,S2_dry_MTCI,0.006596330021562537,76,False,Sentinel-2 optical,dry,spectral_index
+10,1,S1_VHdesc_p50,0.006492078520425521,77,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,1,S2_wet_B3,0.006481457372981567,78,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,1,S2_wet_NDI,0.006308565008026305,79,False,Sentinel-2 optical,wet,spectral_index
+10,1,L89_wet_Green,0.006086846192576624,80,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+10,1,L89_wet_Red,0.00581966683588849,81,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+10,1,S2_wet_B2,0.005745247397582971,82,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,1,S1_VVdesc_p25,0.005515896805473383,83,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,1,S2_wet_B5,0.005359263501065163,84,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,1,S1_VVdesc_p50,0.004991692539792461,85,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,1,S1_VH_glcm_contrast_5x5,0.00497474787668545,86,False,Sentinel-1 SAR,static_or_annual,texture
+10,1,S1_VVminusVH_asc_p50,0.004589749332306369,87,False,Sentinel-1 SAR,ascending,sar_backscatter_metric
+10,1,S1_VVdesc_p75,0.004429367127655269,88,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,1,S1_VHdesc_p75,0.004076521259650858,89,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,1,S1_VH_glcm_ent_5x5,0.0038742510562852425,90,False,Sentinel-1 SAR,static_or_annual,texture
+10,1,S1_VH_glcm_asm_5x5,0.003813275075054294,91,False,Sentinel-1 SAR,static_or_annual,texture
+10,1,S2_wet_PSRI,0.0032859784845853533,92,False,Sentinel-2 optical,wet,spectral_index
+10,1,DEM_hillshade,0.0029249546540174825,93,False,DEM/topography,static_or_annual,topographic
+10,1,S1_VHdesc_std,0.0024702955407057835,94,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,1,S1_VVminusVH_desc_p50,0.002354614250843091,95,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,1,S1_VVdesc_std,0.0021456670120115913,96,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,1,DEM_aspect,0.0020956483473410247,97,False,DEM/topography,static_or_annual,topographic
+10,2,DEM_elevation,0.023163141917684506,1,True,DEM/topography,static_or_annual,topographic
+10,2,S2_dry_CVI,0.022593561498542625,2,True,Sentinel-2 optical,dry,spectral_index
+10,2,S2_dry_MNDWI,0.0192004891531022,3,True,Sentinel-2 optical,dry,spectral_index
+10,2,S2_dry_B11,0.018423040330294627,4,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,2,L89_dry_Red,0.017159944879734927,5,True,Landsat 8/9 optical,dry,spectral_band_or_percentile
+10,2,S2_wet_NDWI,0.017041605354511925,6,True,Sentinel-2 optical,wet,spectral_index
+10,2,S2_dry_B12,0.01680335124749276,7,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,2,L89_dry_SWIR1,0.015816580458223636,8,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+10,2,L89_dry_SWIR2_p75,0.01581084065827875,9,True,Landsat 8/9 optical,dry,spectral_band_or_percentile
+10,2,S2_dry_B2,0.015654396984396163,10,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,2,S2_dry_NDI,0.015645999887707197,11,True,Sentinel-2 optical,dry,spectral_index
+10,2,L89_dry_Blue,0.01564207373839013,12,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+10,2,L89_dry_Green,0.015162623690976495,13,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+10,2,S2_wet_NBR2,0.01489127497513886,14,True,Sentinel-2 optical,wet,spectral_index
+10,2,S1_VHasc_p50,0.014642957234180078,15,True,Sentinel-1 SAR,ascending,sar_backscatter_metric
+10,2,S2_dry_B7,0.014171294733354834,16,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,2,S2_dry_NBR2,0.013998099256560996,17,True,Sentinel-2 optical,dry,spectral_index
+10,2,S2_dry_B8,0.013788970908049564,18,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,2,S2_dry_B3,0.013635065592619311,19,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,2,S2_dry_NDWI,0.013613122661690747,20,False,Sentinel-2 optical,dry,spectral_index
+10,2,L89_dry_NDMI,0.013535795308752912,21,True,Landsat 8/9 optical,dry,spectral_index
+10,2,S2_dry_GNDVI,0.013380061717147897,22,False,Sentinel-2 optical,dry,spectral_index
+10,2,S2_dry_NLI,0.0133423215390531,23,True,Sentinel-2 optical,dry,spectral_index
+10,2,L89_wet_NBR2,0.013340954694969142,24,True,Landsat 8/9 optical,wet,spectral_index
+10,2,L89_dry_NIR,0.013241761576830482,25,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+10,2,S2_dry_B6,0.013109582036461974,26,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,2,S2_wet_NBR,0.01301272280901405,27,False,Sentinel-2 optical,wet,spectral_index
+10,2,L89_dry_NBR,0.012711017972517915,28,False,Landsat 8/9 optical,dry,spectral_index
+10,2,L89_dry_SWIR2,0.012625409062861963,29,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+10,2,L89_dry_MSI,0.012593269314156769,30,True,Landsat 8/9 optical,dry,spectral_index
+10,2,S2_dry_MSR,0.012530382099851845,31,False,Sentinel-2 optical,dry,spectral_index
+10,2,S1_VVasc_p50,0.012288544005672081,32,True,Sentinel-1 SAR,ascending,sar_backscatter_metric
+10,2,L89_dry_BSI,0.012173789080978577,33,False,Landsat 8/9 optical,dry,spectral_index
+10,2,L89_dry_NDVI,0.012156913054881216,34,False,Landsat 8/9 optical,dry,spectral_index
+10,2,S2_wet_CVI,0.011976512386530963,35,True,Sentinel-2 optical,wet,spectral_index
+10,2,S2_wet_GNDVI,0.011890162426352668,36,False,Sentinel-2 optical,wet,spectral_index
+10,2,L89_dry_NBR2,0.011882475395787172,37,False,Landsat 8/9 optical,dry,spectral_index
+10,2,S2_dry_B5,0.011815087463931511,38,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,2,S2_dry_NDVI_RE,0.011711095566769539,39,False,Sentinel-2 optical,dry,spectral_index
+10,2,S2_wet_B12,0.011568235143419894,40,True,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,2,S2_wet_B11,0.011195608900534308,41,True,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,2,S2_dry_PSRI,0.011014257622339024,42,True,Sentinel-2 optical,dry,spectral_index
+10,2,S2_dry_MTCI,0.010973905167543999,43,True,Sentinel-2 optical,dry,spectral_index
+10,2,S2_wet_NDVI_RE,0.01080887083706088,44,False,Sentinel-2 optical,wet,spectral_index
+10,2,S2_dry_NBR,0.010694285034480971,45,False,Sentinel-2 optical,dry,spectral_index
+10,2,S2_wet_B8,0.010507760065189203,46,True,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,2,S2_wet_NDVI,0.0104999695926275,47,False,Sentinel-2 optical,wet,spectral_index
+10,2,S2_dry_NDVI,0.010450491755787402,48,False,Sentinel-2 optical,dry,spectral_index
+10,2,S2_dry_B4,0.010438452981835655,49,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,2,S2_wet_RDVI,0.010392547719298062,50,False,Sentinel-2 optical,wet,spectral_index
+10,2,S2_wet_NLI,0.010377207253445818,51,False,Sentinel-2 optical,wet,spectral_index
+10,2,S2_wet_MNDWI,0.010366431423560156,52,False,Sentinel-2 optical,wet,spectral_index
+10,2,S2_dry_RDVI,0.01036597412479178,53,False,Sentinel-2 optical,dry,spectral_index
+10,2,S2_dry_NDMI,0.010358558980570462,54,False,Sentinel-2 optical,dry,spectral_index
+10,2,L89_wet_NDVI,0.010263884398687029,55,False,Landsat 8/9 optical,wet,spectral_index
+10,2,S2_wet_MSR,0.010142289445050977,56,False,Sentinel-2 optical,wet,spectral_index
+10,2,S2_dry_CI_RE,0.00964523290709708,57,False,Sentinel-2 optical,dry,spectral_index
+10,2,S2_dry_SR,0.00941866837224008,58,False,Sentinel-2 optical,dry,spectral_index
+10,2,S2_wet_CI_RE,0.009228538243862544,59,False,Sentinel-2 optical,wet,spectral_index
+10,2,S2_wet_SR,0.009080065713670291,60,False,Sentinel-2 optical,wet,spectral_index
+10,2,S2_wet_B2,0.009060216964446957,61,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,2,S2_wet_B3,0.00884755143010048,62,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,2,S2_wet_B5,0.008812013950097345,63,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,2,S2_wet_B6,0.008791817353319886,64,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,2,S2_wet_B4,0.008030466017751247,65,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,2,L89_wet_NBR,0.008020604117827528,66,False,Landsat 8/9 optical,wet,spectral_index
+10,2,L89_wet_BSI,0.007887601129283566,67,False,Landsat 8/9 optical,wet,spectral_index
+10,2,L89_wet_NIR,0.007559852088763138,68,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+10,2,L89_wet_SWIR2_p75,0.0074549825015728065,69,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+10,2,L89_wet_SWIR2,0.00733556681269883,70,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+10,2,L89_wet_Blue,0.007148866651163782,71,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+10,2,S1_VH_glcm_contrast_5x5,0.007147543031931871,72,False,Sentinel-1 SAR,static_or_annual,texture
+10,2,S2_wet_NDI,0.007117128232556029,73,False,Sentinel-2 optical,wet,spectral_index
+10,2,DEM_slope,0.00674845769284487,74,False,DEM/topography,static_or_annual,topographic
+10,2,S2_wet_B7,0.006518224141683336,75,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,2,L89_wet_Red,0.006484590392381184,76,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+10,2,S2_wet_MTCI,0.006434464853080224,77,False,Sentinel-2 optical,wet,spectral_index
+10,2,S1_VVminusVH_asc_p50,0.0063346792689651585,78,False,Sentinel-1 SAR,ascending,sar_backscatter_metric
+10,2,L89_wet_NDMI,0.006299489414647551,79,False,Landsat 8/9 optical,wet,spectral_index
+10,2,L89_wet_Green,0.0061153855383577265,80,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+10,2,L89_wet_SWIR1,0.006006350328427908,81,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+10,2,S2_wet_NDMI,0.005920631721848803,82,False,Sentinel-2 optical,wet,spectral_index
+10,2,L89_wet_MSI,0.005577444648809458,83,False,Landsat 8/9 optical,wet,spectral_index
+10,2,S1_VHdesc_p25,0.004997987226886823,84,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,2,S1_VVdesc_p25,0.004934405815690662,85,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,2,S1_VHdesc_p50,0.004788978643469568,86,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,2,S1_VVdesc_p50,0.00429696998277581,87,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,2,S1_VH_glcm_asm_5x5,0.004292825215414295,88,False,Sentinel-1 SAR,static_or_annual,texture
+10,2,S1_VVdesc_p75,0.004102174461930248,89,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,2,S1_VH_glcm_ent_5x5,0.003636247938565844,90,False,Sentinel-1 SAR,static_or_annual,texture
+10,2,S2_wet_PSRI,0.0036199892489192707,91,False,Sentinel-2 optical,wet,spectral_index
+10,2,S1_VHdesc_std,0.0031752262200300295,92,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,2,S1_VHdesc_p75,0.0031118749963951965,93,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,2,DEM_hillshade,0.002714317958217696,94,False,DEM/topography,static_or_annual,topographic
+10,2,S1_VVminusVH_desc_p50,0.0024346596243731322,95,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,2,S1_VVdesc_std,0.002163733636680449,96,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,2,DEM_aspect,0.002109152391546019,97,False,DEM/topography,static_or_annual,topographic
+10,3,S2_dry_CVI,0.021951904636093315,1,True,Sentinel-2 optical,dry,spectral_index
+10,3,S2_dry_B11,0.020218015626323277,2,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,3,S2_dry_MNDWI,0.01976185901935471,3,True,Sentinel-2 optical,dry,spectral_index
+10,3,L89_dry_SWIR2,0.01893939642678242,4,True,Landsat 8/9 optical,dry,spectral_band_or_percentile
+10,3,S2_dry_B2,0.01753521177589852,5,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,3,DEM_elevation,0.01737367581134199,6,True,DEM/topography,static_or_annual,topographic
+10,3,S2_dry_B12,0.0167033689778741,7,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,3,S1_VVasc_p50,0.01604957043798284,8,True,Sentinel-1 SAR,ascending,sar_backscatter_metric
+10,3,L89_dry_SWIR2_p75,0.015871144929530255,9,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+10,3,S2_wet_NBR2,0.015827454255616664,10,True,Sentinel-2 optical,wet,spectral_index
+10,3,S2_dry_B3,0.015635886492937113,11,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,3,S2_dry_NBR2,0.014906606848812372,12,True,Sentinel-2 optical,dry,spectral_index
+10,3,L89_dry_Green,0.014891136521722179,13,True,Landsat 8/9 optical,dry,spectral_band_or_percentile
+10,3,L89_dry_SWIR1,0.014836405428601453,14,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+10,3,S1_VHasc_p50,0.014766185831640917,15,True,Sentinel-1 SAR,ascending,sar_backscatter_metric
+10,3,S2_dry_SR,0.014587209850605874,16,True,Sentinel-2 optical,dry,spectral_index
+10,3,S2_dry_GNDVI,0.014184710083324642,17,False,Sentinel-2 optical,dry,spectral_index
+10,3,L89_dry_MSI,0.013787860436072755,18,True,Landsat 8/9 optical,dry,spectral_index
+10,3,S2_dry_B6,0.01361975853773974,19,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,3,S2_dry_NDWI,0.013405998397147779,20,False,Sentinel-2 optical,dry,spectral_index
+10,3,L89_dry_Red,0.013272270399906746,21,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+10,3,S2_dry_RDVI,0.01317046896783703,22,True,Sentinel-2 optical,dry,spectral_index
+10,3,L89_wet_NBR2,0.013132669727248684,23,True,Landsat 8/9 optical,wet,spectral_index
+10,3,S2_wet_NDWI,0.013076806307925376,24,True,Sentinel-2 optical,wet,spectral_index
+10,3,L89_dry_NIR,0.013036656716335155,25,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+10,3,S2_wet_GNDVI,0.012980127015652008,26,False,Sentinel-2 optical,wet,spectral_index
+10,3,S2_dry_B8,0.01291379737933091,27,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,3,L89_dry_NBR,0.012905924625056782,28,False,Landsat 8/9 optical,dry,spectral_index
+10,3,L89_dry_NDVI,0.01289769908785171,29,False,Landsat 8/9 optical,dry,spectral_index
+10,3,L89_dry_Blue,0.012859472265047403,30,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+10,3,S2_dry_B7,0.012779665341749015,31,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,3,S2_wet_NDVI,0.012691245420681013,32,False,Sentinel-2 optical,wet,spectral_index
+10,3,S2_dry_NDI,0.01240969523623525,33,True,Sentinel-2 optical,dry,spectral_index
+10,3,S2_dry_MTCI,0.011973769911163832,34,True,Sentinel-2 optical,dry,spectral_index
+10,3,S2_dry_B4,0.011920211450785234,35,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,3,L89_dry_BSI,0.011808980655826577,36,False,Landsat 8/9 optical,dry,spectral_index
+10,3,S2_wet_CVI,0.011770434091991624,37,True,Sentinel-2 optical,wet,spectral_index
+10,3,S2_dry_CI_RE,0.011740720051877155,38,False,Sentinel-2 optical,dry,spectral_index
+10,3,S2_wet_B12,0.011733680215903852,39,True,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,3,S2_dry_NDMI,0.011404514164156578,40,True,Sentinel-2 optical,dry,spectral_index
+10,3,L89_dry_NDMI,0.011344214329232973,41,True,Landsat 8/9 optical,dry,spectral_index
+10,3,S2_dry_NDVI_RE,0.011290272006179951,42,False,Sentinel-2 optical,dry,spectral_index
+10,3,S2_wet_NLI,0.011287759297459636,43,True,Sentinel-2 optical,wet,spectral_index
+10,3,S2_wet_RDVI,0.011071343213414781,44,False,Sentinel-2 optical,wet,spectral_index
+10,3,S2_wet_NDVI_RE,0.010911386447634164,45,False,Sentinel-2 optical,wet,spectral_index
+10,3,S2_wet_NBR,0.010863328445328887,46,False,Sentinel-2 optical,wet,spectral_index
+10,3,S2_dry_NLI,0.010787463549147234,47,False,Sentinel-2 optical,dry,spectral_index
+10,3,S2_dry_NBR,0.010655667536657998,48,False,Sentinel-2 optical,dry,spectral_index
+10,3,S2_dry_NDVI,0.010645883392456578,49,False,Sentinel-2 optical,dry,spectral_index
+10,3,L89_dry_NBR2,0.010375527765872606,50,False,Landsat 8/9 optical,dry,spectral_index
+10,3,S2_dry_MSR,0.010245210016328237,51,False,Sentinel-2 optical,dry,spectral_index
+10,3,S2_wet_B11,0.010242643470992014,52,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,3,S2_wet_B8,0.010033994303631022,53,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,3,S2_dry_B5,0.009625020059915503,54,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,3,S2_wet_MSR,0.009236940349282755,55,False,Sentinel-2 optical,wet,spectral_index
+10,3,L89_wet_NBR,0.00904680692213581,56,False,Landsat 8/9 optical,wet,spectral_index
+10,3,S2_wet_CI_RE,0.009019052075545054,57,False,Sentinel-2 optical,wet,spectral_index
+10,3,S2_dry_PSRI,0.009001348120341124,58,False,Sentinel-2 optical,dry,spectral_index
+10,3,S2_wet_SR,0.008763836170735366,59,False,Sentinel-2 optical,wet,spectral_index
+10,3,L89_wet_NDVI,0.008608658595082953,60,False,Landsat 8/9 optical,wet,spectral_index
+10,3,S2_wet_MTCI,0.008602174136269876,61,False,Sentinel-2 optical,wet,spectral_index
+10,3,S2_wet_B7,0.008552103826689332,62,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,3,S2_wet_B6,0.008320176915379037,63,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,3,S2_wet_MNDWI,0.008227198028796978,64,False,Sentinel-2 optical,wet,spectral_index
+10,3,S2_wet_NDMI,0.008186767686907378,65,False,Sentinel-2 optical,wet,spectral_index
+10,3,L89_wet_BSI,0.007963156939835634,66,False,Landsat 8/9 optical,wet,spectral_index
+10,3,DEM_slope,0.00790053107439555,67,False,DEM/topography,static_or_annual,topographic
+10,3,S2_wet_B5,0.007884608797218352,68,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,3,L89_wet_SWIR2,0.007633407460588137,69,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+10,3,S2_wet_B2,0.0075639323181153455,70,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,3,L89_wet_NIR,0.0074131484574260905,71,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+10,3,S2_wet_B4,0.0073349197250148915,72,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,3,S1_VH_glcm_contrast_5x5,0.007187389735194225,73,False,Sentinel-1 SAR,static_or_annual,texture
+10,3,S2_wet_B3,0.006878415052572132,74,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,3,L89_wet_Red,0.006658685893373246,75,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+10,3,L89_wet_Blue,0.00652817118167929,76,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+10,3,L89_wet_NDMI,0.006458682814377164,77,False,Landsat 8/9 optical,wet,spectral_index
+10,3,L89_wet_SWIR1,0.006456325156583928,78,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+10,3,L89_wet_SWIR2_p75,0.006400783435566092,79,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+10,3,L89_wet_MSI,0.006280845787932724,80,False,Landsat 8/9 optical,wet,spectral_index
+10,3,S1_VVminusVH_asc_p50,0.006103023763468779,81,False,Sentinel-1 SAR,ascending,sar_backscatter_metric
+10,3,L89_wet_Green,0.005990892852414361,82,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+10,3,S1_VVdesc_p50,0.005884481068618417,83,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,3,S2_wet_NDI,0.005535497178864735,84,False,Sentinel-2 optical,wet,spectral_index
+10,3,S1_VHdesc_p25,0.005519099271867724,85,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,3,S1_VHdesc_p50,0.005442119333958643,86,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,3,S1_VHdesc_p75,0.005209821060730324,87,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,3,S1_VVdesc_p25,0.005104803639530939,88,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,3,S1_VH_glcm_asm_5x5,0.004185582492377381,89,False,Sentinel-1 SAR,static_or_annual,texture
+10,3,S1_VH_glcm_ent_5x5,0.004029450967117212,90,False,Sentinel-1 SAR,static_or_annual,texture
+10,3,S1_VVdesc_p75,0.0038135947522299723,91,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,3,S2_wet_PSRI,0.003713389331965369,92,False,Sentinel-2 optical,wet,spectral_index
+10,3,DEM_hillshade,0.0029493784608186817,93,False,DEM/topography,static_or_annual,topographic
+10,3,S1_VVminusVH_desc_p50,0.002755604741965598,94,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,3,S1_VHdesc_std,0.0026145345219795585,95,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,3,S1_VVdesc_std,0.0021901852802363427,96,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,3,DEM_aspect,0.002138591432601053,97,False,DEM/topography,static_or_annual,topographic
+10,4,S2_dry_CVI,0.02299758197936223,1,True,Sentinel-2 optical,dry,spectral_index
+10,4,DEM_elevation,0.02109865344699751,2,True,DEM/topography,static_or_annual,topographic
+10,4,S2_dry_MNDWI,0.018741857384978734,3,True,Sentinel-2 optical,dry,spectral_index
+10,4,S2_dry_B6,0.017199987192524316,4,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,4,S2_dry_B11,0.017121988386163006,5,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,4,S1_VHasc_p50,0.016939339481206718,6,True,Sentinel-1 SAR,ascending,sar_backscatter_metric
+10,4,S2_wet_NBR2,0.015991319350137603,7,True,Sentinel-2 optical,wet,spectral_index
+10,4,L89_dry_Red,0.015803302423148303,8,True,Landsat 8/9 optical,dry,spectral_band_or_percentile
+10,4,L89_dry_Green,0.015761813130960006,9,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+10,4,S2_dry_NDI,0.01572674163570407,10,True,Sentinel-2 optical,dry,spectral_index
+10,4,L89_dry_NBR2,0.015651909152658502,11,True,Landsat 8/9 optical,dry,spectral_index
+10,4,S1_VVasc_p50,0.01552672234432744,12,True,Sentinel-1 SAR,ascending,sar_backscatter_metric
+10,4,S2_dry_B12,0.015072727595899945,13,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,4,L89_dry_SWIR2,0.015058918490101388,14,True,Landsat 8/9 optical,dry,spectral_band_or_percentile
+10,4,L89_wet_NBR2,0.014769665172887934,15,True,Landsat 8/9 optical,wet,spectral_index
+10,4,S2_dry_B2,0.014545451959254345,16,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,4,S2_wet_GNDVI,0.01448420897401114,17,True,Sentinel-2 optical,wet,spectral_index
+10,4,L89_dry_NBR,0.014171382989328215,18,False,Landsat 8/9 optical,dry,spectral_index
+10,4,S2_dry_NBR2,0.014082887340623771,19,False,Sentinel-2 optical,dry,spectral_index
+10,4,L89_dry_Blue,0.013816551847636761,20,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+10,4,L89_dry_NDMI,0.013766900281033114,21,True,Landsat 8/9 optical,dry,spectral_index
+10,4,L89_dry_SWIR2_p75,0.013643102820877042,22,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+10,4,S2_wet_NDWI,0.013458532011508068,23,False,Sentinel-2 optical,wet,spectral_index
+10,4,S2_dry_B5,0.013418313923813168,24,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,4,L89_dry_NIR,0.01317386564257277,25,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+10,4,L89_dry_BSI,0.012939337111766099,26,False,Landsat 8/9 optical,dry,spectral_index
+10,4,S2_dry_B3,0.012885048750627877,27,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,4,L89_dry_NDVI,0.012724945056682658,28,True,Landsat 8/9 optical,dry,spectral_index
+10,4,S2_wet_NDVI,0.012656360553799413,29,False,Sentinel-2 optical,wet,spectral_index
+10,4,S2_dry_B7,0.012448091803858474,30,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,4,S2_wet_NBR,0.012433011735063773,31,False,Sentinel-2 optical,wet,spectral_index
+10,4,S2_dry_GNDVI,0.012334865800786705,32,True,Sentinel-2 optical,dry,spectral_index
+10,4,S2_dry_MSR,0.012320656070630287,33,False,Sentinel-2 optical,dry,spectral_index
+10,4,S2_dry_B8,0.01216133311487859,34,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,4,S2_wet_B12,0.012048731066240255,35,True,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,4,S2_dry_NDWI,0.0119139460746421,36,False,Sentinel-2 optical,dry,spectral_index
+10,4,L89_dry_SWIR1,0.011803625227062601,37,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+10,4,S2_wet_CVI,0.011541275717921257,38,True,Sentinel-2 optical,wet,spectral_index
+10,4,L89_dry_MSI,0.0112836670754722,39,True,Landsat 8/9 optical,dry,spectral_index
+10,4,S2_dry_NBR,0.011191070337654176,40,False,Sentinel-2 optical,dry,spectral_index
+10,4,S2_dry_RDVI,0.011124079630537534,41,False,Sentinel-2 optical,dry,spectral_index
+10,4,S2_wet_NDVI_RE,0.010907142072885673,42,False,Sentinel-2 optical,wet,spectral_index
+10,4,S2_wet_MNDWI,0.010847808119916553,43,False,Sentinel-2 optical,wet,spectral_index
+10,4,S2_dry_PSRI,0.010525470954232948,44,True,Sentinel-2 optical,dry,spectral_index
+10,4,S2_dry_B4,0.010325985963776587,45,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,4,S2_dry_SR,0.01018910819495017,46,True,Sentinel-2 optical,dry,spectral_index
+10,4,S2_dry_NDVI,0.010108918365697758,47,False,Sentinel-2 optical,dry,spectral_index
+10,4,S2_wet_NLI,0.010062420526318302,48,True,Sentinel-2 optical,wet,spectral_index
+10,4,S2_dry_NDMI,0.01004826745428657,49,False,Sentinel-2 optical,dry,spectral_index
+10,4,S2_dry_NDVI_RE,0.00994484693315273,50,False,Sentinel-2 optical,dry,spectral_index
+10,4,S2_wet_MSR,0.00993175730906457,51,False,Sentinel-2 optical,wet,spectral_index
+10,4,S2_wet_B2,0.009837330513752773,52,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,4,S2_dry_NLI,0.00936806186677146,53,False,Sentinel-2 optical,dry,spectral_index
+10,4,S2_wet_B7,0.009325321511885998,54,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,4,S2_dry_MTCI,0.009299120130470035,55,False,Sentinel-2 optical,dry,spectral_index
+10,4,S2_wet_B8,0.009295055308661558,56,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,4,S2_wet_RDVI,0.0092494246976589,57,False,Sentinel-2 optical,wet,spectral_index
+10,4,L89_wet_NBR,0.009158264394200253,58,False,Landsat 8/9 optical,wet,spectral_index
+10,4,S2_wet_MTCI,0.009137972740370072,59,False,Sentinel-2 optical,wet,spectral_index
+10,4,S2_wet_B4,0.00888894119015686,60,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,4,S2_wet_CI_RE,0.008808994570727181,61,False,Sentinel-2 optical,wet,spectral_index
+10,4,S2_wet_SR,0.008774803464154718,62,False,Sentinel-2 optical,wet,spectral_index
+10,4,S2_wet_B11,0.008722258274595258,63,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,4,S2_wet_B6,0.008530195025341697,64,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,4,S1_VH_glcm_contrast_5x5,0.008509686192841478,65,False,Sentinel-1 SAR,static_or_annual,texture
+10,4,S2_dry_CI_RE,0.008175200503092893,66,False,Sentinel-2 optical,dry,spectral_index
+10,4,S1_VVminusVH_asc_p50,0.008087496625421933,67,False,Sentinel-1 SAR,ascending,sar_backscatter_metric
+10,4,S2_wet_B3,0.008045547868431514,68,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,4,DEM_slope,0.007960239281350236,69,False,DEM/topography,static_or_annual,topographic
+10,4,S2_wet_NDI,0.007883435888036647,70,False,Sentinel-2 optical,wet,spectral_index
+10,4,L89_wet_NDVI,0.007840239129227685,71,False,Landsat 8/9 optical,wet,spectral_index
+10,4,S2_wet_NDMI,0.007810092187274406,72,False,Sentinel-2 optical,wet,spectral_index
+10,4,S1_VHdesc_p50,0.00753209012672337,73,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,4,L89_wet_SWIR2,0.007044706856720305,74,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+10,4,L89_wet_NIR,0.006969061805795418,75,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+10,4,S1_VHdesc_p25,0.006939910170311156,76,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,4,L89_wet_Blue,0.00691406037361231,77,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+10,4,L89_wet_BSI,0.006671287694076207,78,False,Landsat 8/9 optical,wet,spectral_index
+10,4,L89_wet_SWIR1,0.006395181190074276,79,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+10,4,S1_VVdesc_p25,0.006090674718183917,80,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,4,S2_wet_B5,0.005927051637029453,81,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,4,L89_wet_NDMI,0.005844983157339417,82,False,Landsat 8/9 optical,wet,spectral_index
+10,4,L89_wet_SWIR2_p75,0.005802612909339302,83,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+10,4,S1_VVdesc_p50,0.005600055086725108,84,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,4,L89_wet_MSI,0.0055897276511364495,85,False,Landsat 8/9 optical,wet,spectral_index
+10,4,L89_wet_Red,0.005444170592075269,86,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+10,4,L89_wet_Green,0.00510286712981387,87,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+10,4,S2_wet_PSRI,0.005019527800608225,88,False,Sentinel-2 optical,wet,spectral_index
+10,4,S1_VVdesc_p75,0.004989846948621721,89,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,4,S1_VH_glcm_ent_5x5,0.004257683130359031,90,False,Sentinel-1 SAR,static_or_annual,texture
+10,4,S1_VHdesc_p75,0.004254255921304443,91,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,4,S1_VH_glcm_asm_5x5,0.0039029283970137252,92,False,Sentinel-1 SAR,static_or_annual,texture
+10,4,S1_VHdesc_std,0.00305156244518655,93,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,4,DEM_hillshade,0.0029651962610416347,94,False,DEM/topography,static_or_annual,topographic
+10,4,S1_VVdesc_std,0.0022637933241594905,95,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,4,S1_VVminusVH_desc_p50,0.002194059023818722,96,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,4,DEM_aspect,0.0017995283048850281,97,False,DEM/topography,static_or_annual,topographic
+10,5,S2_dry_CVI,0.022547690611722675,1,True,Sentinel-2 optical,dry,spectral_index
+10,5,DEM_elevation,0.021411011666947883,2,True,DEM/topography,static_or_annual,topographic
+10,5,S2_dry_MNDWI,0.019607785995681467,3,True,Sentinel-2 optical,dry,spectral_index
+10,5,S1_VHasc_p50,0.01668173725086912,4,True,Sentinel-1 SAR,ascending,sar_backscatter_metric
+10,5,L89_dry_Green,0.01582320163272761,5,True,Landsat 8/9 optical,dry,spectral_band_or_percentile
+10,5,S2_wet_GNDVI,0.015734082840050158,6,True,Sentinel-2 optical,wet,spectral_index
+10,5,S2_dry_B3,0.015246634955096096,7,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,5,S2_wet_NBR2,0.015227138978454178,8,True,Sentinel-2 optical,wet,spectral_index
+10,5,S2_dry_NBR2,0.015206099694393285,9,True,Sentinel-2 optical,dry,spectral_index
+10,5,S2_dry_B2,0.014928135670194697,10,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,5,S2_dry_B11,0.014850918571474152,11,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,5,L89_dry_SWIR2,0.014752441645393573,12,True,Landsat 8/9 optical,dry,spectral_band_or_percentile
+10,5,L89_dry_Blue,0.014692917958401627,13,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+10,5,L89_dry_SWIR1,0.014249882432128283,14,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+10,5,S2_dry_B7,0.014151458416562497,15,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,5,S2_dry_B12,0.014004747185909437,16,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,5,S2_dry_GNDVI,0.013905078169939716,17,False,Sentinel-2 optical,dry,spectral_index
+10,5,S2_dry_NDI,0.013837522347051642,18,True,Sentinel-2 optical,dry,spectral_index
+10,5,L89_dry_Red,0.013830305094445982,19,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+10,5,S2_dry_B6,0.013732927627340514,20,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,5,S2_wet_NDWI,0.013330060847976031,21,False,Sentinel-2 optical,wet,spectral_index
+10,5,L89_dry_NDMI,0.013262304120015873,22,True,Landsat 8/9 optical,dry,spectral_index
+10,5,L89_wet_NBR2,0.013170034107119293,23,True,Landsat 8/9 optical,wet,spectral_index
+10,5,S2_dry_B8,0.013014872843376851,24,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,5,L89_dry_NBR2,0.01286533790467721,25,False,Landsat 8/9 optical,dry,spectral_index
+10,5,S2_dry_NLI,0.012794334291721466,26,True,Sentinel-2 optical,dry,spectral_index
+10,5,L89_dry_NIR,0.012565968578996245,27,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+10,5,L89_dry_SWIR2_p75,0.012526962643164599,28,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+10,5,S2_wet_B12,0.012354996592723096,29,True,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,5,L89_dry_MSI,0.012246907038829748,30,True,Landsat 8/9 optical,dry,spectral_index
+10,5,S2_wet_NLI,0.012185379280141953,31,True,Sentinel-2 optical,wet,spectral_index
+10,5,S2_wet_CI_RE,0.012101131618236406,32,False,Sentinel-2 optical,wet,spectral_index
+10,5,S1_VVasc_p50,0.012092773783616215,33,True,Sentinel-1 SAR,ascending,sar_backscatter_metric
+10,5,L89_dry_BSI,0.011997614251673052,34,False,Landsat 8/9 optical,dry,spectral_index
+10,5,L89_dry_NBR,0.011894518396821523,35,False,Landsat 8/9 optical,dry,spectral_index
+10,5,S2_wet_CVI,0.0116788412944946,36,True,Sentinel-2 optical,wet,spectral_index
+10,5,S2_dry_PSRI,0.011436554834540764,37,True,Sentinel-2 optical,dry,spectral_index
+10,5,S2_wet_NBR,0.011405286230827188,38,False,Sentinel-2 optical,wet,spectral_index
+10,5,S2_dry_SR,0.01134925505279136,39,False,Sentinel-2 optical,dry,spectral_index
+10,5,S2_dry_RDVI,0.011332657853991429,40,False,Sentinel-2 optical,dry,spectral_index
+10,5,S2_dry_NDWI,0.01124891106336857,41,False,Sentinel-2 optical,dry,spectral_index
+10,5,S2_dry_NDMI,0.011212843765907823,42,False,Sentinel-2 optical,dry,spectral_index
+10,5,S2_wet_MNDWI,0.01119273665316608,43,False,Sentinel-2 optical,wet,spectral_index
+10,5,S2_dry_B4,0.010952231157697242,44,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,5,S2_dry_CI_RE,0.010951510396682526,45,False,Sentinel-2 optical,dry,spectral_index
+10,5,S2_dry_NBR,0.010924881415961896,46,False,Sentinel-2 optical,dry,spectral_index
+10,5,S2_wet_RDVI,0.010909694152034964,47,False,Sentinel-2 optical,wet,spectral_index
+10,5,S2_wet_NDVI_RE,0.01086522550288353,48,False,Sentinel-2 optical,wet,spectral_index
+10,5,S2_wet_SR,0.010807684435526627,49,True,Sentinel-2 optical,wet,spectral_index
+10,5,S2_dry_MTCI,0.010536522210239844,50,True,Sentinel-2 optical,dry,spectral_index
+10,5,S2_dry_NDVI_RE,0.010449044378339668,51,False,Sentinel-2 optical,dry,spectral_index
+10,5,L89_dry_NDVI,0.010320359536650232,52,False,Landsat 8/9 optical,dry,spectral_index
+10,5,L89_wet_NBR,0.010302893783653164,53,False,Landsat 8/9 optical,wet,spectral_index
+10,5,S2_wet_B6,0.010094863923091765,54,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,5,S2_dry_B5,0.01004611078892178,55,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+10,5,S2_dry_MSR,0.010018499053682418,56,False,Sentinel-2 optical,dry,spectral_index
+10,5,S2_wet_MTCI,0.009412350108405203,57,False,Sentinel-2 optical,wet,spectral_index
+10,5,S2_dry_NDVI,0.009357507249614934,58,False,Sentinel-2 optical,dry,spectral_index
+10,5,S2_wet_B7,0.00925075430030388,59,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,5,S2_wet_NDVI,0.009078568980402322,60,False,Sentinel-2 optical,wet,spectral_index
+10,5,DEM_slope,0.008932424684145823,61,False,DEM/topography,static_or_annual,topographic
+10,5,L89_wet_SWIR2,0.008591665300795234,62,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+10,5,S2_wet_MSR,0.008590657586178807,63,False,Sentinel-2 optical,wet,spectral_index
+10,5,S2_wet_B8,0.008518455241097723,64,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,5,S2_wet_B2,0.008405249994310316,65,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,5,L89_wet_NDVI,0.008371000853864165,66,False,Landsat 8/9 optical,wet,spectral_index
+10,5,S2_wet_B3,0.008366906032376897,67,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,5,S2_wet_NDMI,0.008293756120952627,68,False,Sentinel-2 optical,wet,spectral_index
+10,5,S2_wet_B11,0.007701224671750626,69,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,5,L89_wet_NIR,0.007663354627759115,70,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+10,5,L89_wet_BSI,0.007624035360852672,71,False,Landsat 8/9 optical,wet,spectral_index
+10,5,L89_wet_SWIR2_p75,0.007534967491574837,72,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+10,5,S2_wet_NDI,0.007452268913720324,73,False,Sentinel-2 optical,wet,spectral_index
+10,5,L89_wet_Red,0.007427527495066296,74,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+10,5,L89_wet_Blue,0.007242808572818534,75,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+10,5,S1_VH_glcm_contrast_5x5,0.007209461426849816,76,False,Sentinel-1 SAR,static_or_annual,texture
+10,5,S1_VHdesc_p50,0.00720708704268406,77,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,5,L89_wet_SWIR1,0.007128697277698495,78,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+10,5,S2_wet_B4,0.006918159276915113,79,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,5,S1_VHdesc_p25,0.006653337135261731,80,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,5,S2_wet_B5,0.006488856187652306,81,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+10,5,L89_wet_NDMI,0.006266356047064522,82,False,Landsat 8/9 optical,wet,spectral_index
+10,5,S1_VVminusVH_asc_p50,0.006214827180931384,83,False,Sentinel-1 SAR,ascending,sar_backscatter_metric
+10,5,S1_VVdesc_p25,0.005949359547838553,84,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,5,S1_VVdesc_p50,0.005585550126912743,85,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,5,L89_wet_MSI,0.0054249662072191375,86,False,Landsat 8/9 optical,wet,spectral_index
+10,5,S1_VHdesc_p75,0.005327983086784458,87,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,5,S2_wet_PSRI,0.004626759734177464,88,False,Sentinel-2 optical,wet,spectral_index
+10,5,S1_VH_glcm_ent_5x5,0.00460758220847314,89,False,Sentinel-1 SAR,static_or_annual,texture
+10,5,L89_wet_Green,0.004511251455175536,90,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+10,5,S1_VVdesc_p75,0.004372500366896453,91,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,5,S1_VH_glcm_asm_5x5,0.003910416358285697,92,False,Sentinel-1 SAR,static_or_annual,texture
+10,5,S1_VHdesc_std,0.0031156403279397936,93,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,5,DEM_hillshade,0.002800611788101333,94,False,DEM/topography,static_or_annual,topographic
+10,5,S1_VVminusVH_desc_p50,0.002421141155620408,95,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,5,S1_VVdesc_std,0.0023789373891059023,96,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+10,5,DEM_aspect,0.0022035125580941242,97,False,DEM/topography,static_or_annual,topographic
+15,1,DEM_elevation,0.022651562491965514,1,True,DEM/topography,static_or_annual,topographic
+15,1,S2_dry_CVI,0.021496328640810435,2,True,Sentinel-2 optical,dry,spectral_index
+15,1,S2_dry_MNDWI,0.020766410916173043,3,True,Sentinel-2 optical,dry,spectral_index
+15,1,S2_dry_B11,0.01774261163989088,4,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,1,S2_dry_B2,0.017066165904791493,5,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,1,S1_VHasc_p50,0.016802273312788638,6,True,Sentinel-1 SAR,ascending,sar_backscatter_metric
+15,1,L89_dry_SWIR1,0.016605376329326637,7,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+15,1,L89_dry_SWIR2,0.016580178737840817,8,True,Landsat 8/9 optical,dry,spectral_band_or_percentile
+15,1,S2_dry_B12,0.016142812174585672,9,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,1,L89_dry_Green,0.01568284793986403,10,True,Landsat 8/9 optical,dry,spectral_band_or_percentile
+15,1,S2_wet_NBR2,0.015668412363486203,11,True,Sentinel-2 optical,wet,spectral_index
+15,1,L89_dry_NDVI,0.014679934638127685,12,True,Landsat 8/9 optical,dry,spectral_index
+15,1,S2_wet_GNDVI,0.014561213515934937,13,True,Sentinel-2 optical,wet,spectral_index
+15,1,S2_dry_NDWI,0.014490399522041933,14,False,Sentinel-2 optical,dry,spectral_index
+15,1,S2_dry_NDI,0.014329241178949322,15,True,Sentinel-2 optical,dry,spectral_index
+15,1,S1_VVasc_p50,0.01391331958865531,16,True,Sentinel-1 SAR,ascending,sar_backscatter_metric
+15,1,S2_dry_B3,0.0138669492422777,17,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,1,L89_dry_BSI,0.013838395589105395,18,True,Landsat 8/9 optical,dry,spectral_index
+15,1,S2_dry_B6,0.01380128856046966,19,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,1,L89_dry_SWIR2_p75,0.013753511712242353,20,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+15,1,S2_dry_NBR,0.013729342533181704,21,False,Sentinel-2 optical,dry,spectral_index
+15,1,S2_wet_NDWI,0.013652161130048437,22,False,Sentinel-2 optical,wet,spectral_index
+15,1,L89_wet_NBR2,0.013626339260364896,23,True,Landsat 8/9 optical,wet,spectral_index
+15,1,S2_dry_RDVI,0.013622032005124808,24,False,Sentinel-2 optical,dry,spectral_index
+15,1,L89_dry_Red,0.013486447564941505,25,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+15,1,S2_dry_B7,0.013450128588359131,26,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,1,L89_dry_Blue,0.013169530721339848,27,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+15,1,S2_wet_B12,0.013123411362538901,28,True,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,1,S2_dry_PSRI,0.012922448008276449,29,True,Sentinel-2 optical,dry,spectral_index
+15,1,S2_dry_NBR2,0.012558868922911323,30,False,Sentinel-2 optical,dry,spectral_index
+15,1,S2_dry_B8,0.012554420374108503,31,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,1,L89_dry_NIR,0.01253327213369562,32,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+15,1,L89_dry_NBR2,0.012392443530608381,33,True,Landsat 8/9 optical,dry,spectral_index
+15,1,S2_dry_B4,0.01231125713842517,34,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,1,S2_dry_GNDVI,0.01225480457427248,35,False,Sentinel-2 optical,dry,spectral_index
+15,1,L89_dry_NDMI,0.012027092270646062,36,False,Landsat 8/9 optical,dry,spectral_index
+15,1,S2_wet_CVI,0.0119360415983091,37,True,Sentinel-2 optical,wet,spectral_index
+15,1,L89_dry_MSI,0.011639658912895486,38,True,Landsat 8/9 optical,dry,spectral_index
+15,1,S2_dry_NDVI,0.011462698873875627,39,False,Sentinel-2 optical,dry,spectral_index
+15,1,S2_dry_NLI,0.011454245419011086,40,False,Sentinel-2 optical,dry,spectral_index
+15,1,S2_wet_CI_RE,0.011067617381420921,41,True,Sentinel-2 optical,wet,spectral_index
+15,1,S2_dry_B5,0.010845109961878232,42,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,1,S2_dry_MSR,0.0107959022609106,43,False,Sentinel-2 optical,dry,spectral_index
+15,1,L89_wet_NBR,0.010694216863130913,44,False,Landsat 8/9 optical,wet,spectral_index
+15,1,S2_dry_NDMI,0.010641314142720359,45,True,Sentinel-2 optical,dry,spectral_index
+15,1,S2_wet_NBR,0.010499605604462631,46,False,Sentinel-2 optical,wet,spectral_index
+15,1,L89_dry_NBR,0.010428219717956905,47,False,Landsat 8/9 optical,dry,spectral_index
+15,1,S2_dry_NDVI_RE,0.010364376970751495,48,False,Sentinel-2 optical,dry,spectral_index
+15,1,S2_wet_NLI,0.010217412177318681,49,False,Sentinel-2 optical,wet,spectral_index
+15,1,S2_wet_NDVI_RE,0.010167502642081775,50,False,Sentinel-2 optical,wet,spectral_index
+15,1,S2_wet_SR,0.010124063681499661,51,False,Sentinel-2 optical,wet,spectral_index
+15,1,S2_wet_NDVI,0.010098885462050294,52,False,Sentinel-2 optical,wet,spectral_index
+15,1,S2_wet_B8,0.009930781353792134,53,True,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,1,S2_wet_B7,0.009921626669724178,54,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,1,S2_dry_MTCI,0.00988847798171833,55,False,Sentinel-2 optical,dry,spectral_index
+15,1,S2_wet_B11,0.009408182533531338,56,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,1,S2_wet_MNDWI,0.009332803025353992,57,False,Sentinel-2 optical,wet,spectral_index
+15,1,S2_dry_CI_RE,0.009218088363080433,58,False,Sentinel-2 optical,dry,spectral_index
+15,1,S2_wet_RDVI,0.00917470051180033,59,False,Sentinel-2 optical,wet,spectral_index
+15,1,S2_wet_B6,0.009041469532402334,60,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,1,S2_wet_MTCI,0.008467541643389503,61,False,Sentinel-2 optical,wet,spectral_index
+15,1,L89_wet_SWIR2,0.008449453064870672,62,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+15,1,S2_wet_MSR,0.008350862332708738,63,False,Sentinel-2 optical,wet,spectral_index
+15,1,S2_wet_B2,0.008221443385203276,64,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,1,L89_wet_NIR,0.00821496700938334,65,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+15,1,S2_dry_SR,0.007854593007016818,66,False,Sentinel-2 optical,dry,spectral_index
+15,1,S2_wet_B3,0.007721726258363686,67,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,1,L89_wet_NDVI,0.007392060863591608,68,False,Landsat 8/9 optical,wet,spectral_index
+15,1,L89_wet_SWIR2_p75,0.007294311851089371,69,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+15,1,S2_wet_B4,0.0072645041182021475,70,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,1,S2_wet_NDMI,0.007088225399959988,71,False,Sentinel-2 optical,wet,spectral_index
+15,1,S1_VHdesc_p25,0.007060556236280225,72,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,1,L89_wet_SWIR1,0.007042951745333044,73,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+15,1,DEM_slope,0.007024296285466688,74,False,DEM/topography,static_or_annual,topographic
+15,1,S2_wet_NDI,0.006998203270779436,75,False,Sentinel-2 optical,wet,spectral_index
+15,1,L89_wet_Red,0.0067430776296266825,76,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+15,1,S2_wet_B5,0.006611422141686163,77,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,1,S1_VH_glcm_contrast_5x5,0.006378188177727015,78,False,Sentinel-1 SAR,static_or_annual,texture
+15,1,L89_wet_BSI,0.006352840513010194,79,False,Landsat 8/9 optical,wet,spectral_index
+15,1,S1_VVminusVH_asc_p50,0.006187817163887409,80,False,Sentinel-1 SAR,ascending,sar_backscatter_metric
+15,1,L89_wet_NDMI,0.006065613320012943,81,False,Landsat 8/9 optical,wet,spectral_index
+15,1,L89_wet_Blue,0.0059671147224140565,82,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+15,1,S1_VVdesc_p25,0.005741786801721744,83,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,1,S1_VVdesc_p50,0.005654945763593006,84,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,1,S1_VHdesc_p50,0.005652449433875345,85,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,1,L89_wet_Green,0.005490217997746717,86,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+15,1,L89_wet_MSI,0.005471784952844395,87,False,Landsat 8/9 optical,wet,spectral_index
+15,1,S1_VH_glcm_ent_5x5,0.004803023805283579,88,False,Sentinel-1 SAR,static_or_annual,texture
+15,1,S1_VH_glcm_asm_5x5,0.004462592345773788,89,False,Sentinel-1 SAR,static_or_annual,texture
+15,1,S2_wet_PSRI,0.004243334747240942,90,False,Sentinel-2 optical,wet,spectral_index
+15,1,S1_VHdesc_p75,0.004048330859565343,91,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,1,S1_VVdesc_p75,0.0034189769051422405,92,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,1,S1_VHdesc_std,0.0030557492492462725,93,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,1,S1_VVminusVH_desc_p50,0.002399358766188584,94,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,1,DEM_hillshade,0.002360142938604736,95,False,DEM/topography,static_or_annual,topographic
+15,1,S1_VVdesc_std,0.0021425178981700674,96,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,1,DEM_aspect,0.0020967816351525784,97,False,DEM/topography,static_or_annual,topographic
+15,2,S2_dry_CVI,0.02349814606364979,1,True,Sentinel-2 optical,dry,spectral_index
+15,2,DEM_elevation,0.022171861622903667,2,True,DEM/topography,static_or_annual,topographic
+15,2,S2_dry_B11,0.01893192337006798,3,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,2,S2_wet_NBR2,0.017018181637045243,4,True,Sentinel-2 optical,wet,spectral_index
+15,2,S2_dry_B12,0.01649811907663431,5,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,2,L89_dry_Green,0.016450156798871397,6,True,Landsat 8/9 optical,dry,spectral_band_or_percentile
+15,2,L89_dry_SWIR2,0.01594022167267931,7,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+15,2,S2_dry_B2,0.01582684347473857,8,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,2,S2_wet_GNDVI,0.015610296531727116,9,True,Sentinel-2 optical,wet,spectral_index
+15,2,S2_dry_MNDWI,0.015443661368472921,10,True,Sentinel-2 optical,dry,spectral_index
+15,2,S2_dry_B6,0.015330671801216684,11,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,2,S2_dry_GNDVI,0.015299114995776918,12,False,Sentinel-2 optical,dry,spectral_index
+15,2,S1_VHasc_p50,0.015155874414158938,13,True,Sentinel-1 SAR,ascending,sar_backscatter_metric
+15,2,S2_dry_B7,0.01491234182904597,14,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,2,L89_dry_Red,0.014765129709324577,15,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+15,2,L89_dry_NBR,0.014642857973071311,16,True,Landsat 8/9 optical,dry,spectral_index
+15,2,S2_dry_NBR2,0.014420131390016739,17,False,Sentinel-2 optical,dry,spectral_index
+15,2,S2_dry_B8,0.014395172765785915,18,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,2,L89_wet_NBR2,0.014333416319327294,19,True,Landsat 8/9 optical,wet,spectral_index
+15,2,S2_dry_B3,0.014016038206032748,20,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,2,L89_dry_NBR2,0.013945232077630983,21,False,Landsat 8/9 optical,dry,spectral_index
+15,2,L89_dry_NDMI,0.013873666633266151,22,False,Landsat 8/9 optical,dry,spectral_index
+15,2,L89_dry_SWIR1,0.01373932884383956,23,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+15,2,L89_dry_BSI,0.01371594691812905,24,False,Landsat 8/9 optical,dry,spectral_index
+15,2,S2_dry_NDI,0.01364382253019264,25,True,Sentinel-2 optical,dry,spectral_index
+15,2,L89_dry_SWIR2_p75,0.013228326021257538,26,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+15,2,S2_dry_SR,0.012983380029449295,27,True,Sentinel-2 optical,dry,spectral_index
+15,2,L89_dry_NIR,0.012964584410509843,28,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+15,2,L89_dry_Blue,0.012802533564717746,29,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+15,2,S2_wet_CVI,0.012716345607541868,30,True,Sentinel-2 optical,wet,spectral_index
+15,2,S2_wet_CI_RE,0.012285812511058137,31,True,Sentinel-2 optical,wet,spectral_index
+15,2,S2_wet_NBR,0.012228164016547255,32,False,Sentinel-2 optical,wet,spectral_index
+15,2,S2_dry_NLI,0.012227086439809942,33,False,Sentinel-2 optical,dry,spectral_index
+15,2,S2_wet_B12,0.012116569077175208,34,True,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,2,S2_wet_NDWI,0.012073461448050559,35,False,Sentinel-2 optical,wet,spectral_index
+15,2,S1_VVasc_p50,0.012009167036418024,36,True,Sentinel-1 SAR,ascending,sar_backscatter_metric
+15,2,S2_dry_NDWI,0.011842932225525352,37,False,Sentinel-2 optical,dry,spectral_index
+15,2,L89_dry_NDVI,0.011612007488680383,38,True,Landsat 8/9 optical,dry,spectral_index
+15,2,S2_dry_MSR,0.011248586154900668,39,False,Sentinel-2 optical,dry,spectral_index
+15,2,S2_dry_NDVI,0.011007760728303454,40,False,Sentinel-2 optical,dry,spectral_index
+15,2,DEM_slope,0.010894855223190463,41,True,DEM/topography,static_or_annual,topographic
+15,2,S2_wet_RDVI,0.010829924673701582,42,False,Sentinel-2 optical,wet,spectral_index
+15,2,S2_wet_B11,0.01077025338550149,43,True,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,2,S2_dry_NDVI_RE,0.010686802726346341,44,False,Sentinel-2 optical,dry,spectral_index
+15,2,S2_wet_NDVI,0.010585122806878426,45,False,Sentinel-2 optical,wet,spectral_index
+15,2,S2_wet_B8,0.01045688091647284,46,True,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,2,L89_dry_MSI,0.010344959098451857,47,True,Landsat 8/9 optical,dry,spectral_index
+15,2,S2_dry_RDVI,0.010324332749323832,48,False,Sentinel-2 optical,dry,spectral_index
+15,2,S2_dry_NBR,0.010309719262990137,49,False,Sentinel-2 optical,dry,spectral_index
+15,2,S2_dry_B5,0.010248817361235734,50,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,2,S2_wet_NDVI_RE,0.010194875276113164,51,False,Sentinel-2 optical,wet,spectral_index
+15,2,S2_wet_B7,0.010131606350565602,52,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,2,S2_wet_NLI,0.010021596282211699,53,False,Sentinel-2 optical,wet,spectral_index
+15,2,S2_wet_MSR,0.009833667314220286,54,False,Sentinel-2 optical,wet,spectral_index
+15,2,S2_wet_SR,0.009798728913226059,55,False,Sentinel-2 optical,wet,spectral_index
+15,2,L89_wet_NIR,0.009698937181210556,56,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+15,2,S2_wet_MNDWI,0.009680116684002192,57,False,Sentinel-2 optical,wet,spectral_index
+15,2,S2_wet_B2,0.009648090921684626,58,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,2,S2_dry_NDMI,0.009236312965479507,59,False,Sentinel-2 optical,dry,spectral_index
+15,2,S2_dry_MTCI,0.009191667587542723,60,False,Sentinel-2 optical,dry,spectral_index
+15,2,S2_dry_PSRI,0.009190105546499246,61,False,Sentinel-2 optical,dry,spectral_index
+15,2,S2_wet_B5,0.009105446228146522,62,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,2,L89_wet_NBR,0.008796758352067235,63,False,Landsat 8/9 optical,wet,spectral_index
+15,2,S2_dry_CI_RE,0.00879519014945444,64,False,Sentinel-2 optical,dry,spectral_index
+15,2,S2_wet_MTCI,0.008714786930831771,65,False,Sentinel-2 optical,wet,spectral_index
+15,2,S2_wet_B3,0.008365397511013615,66,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,2,S2_wet_B4,0.008316160283995983,67,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,2,S2_dry_B4,0.007840455651354748,68,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,2,S2_wet_B6,0.00777784405223056,69,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,2,L89_wet_SWIR2,0.007531125510639318,70,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+15,2,S2_wet_NDMI,0.007523961177050505,71,False,Sentinel-2 optical,wet,spectral_index
+15,2,S1_VVminusVH_asc_p50,0.007079235255077262,72,False,Sentinel-1 SAR,ascending,sar_backscatter_metric
+15,2,L89_wet_NDVI,0.006821262222392156,73,False,Landsat 8/9 optical,wet,spectral_index
+15,2,L89_wet_Green,0.0066920265004498675,74,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+15,2,S1_VHdesc_p50,0.006463037249749107,75,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,2,L89_wet_BSI,0.006417155901448974,76,False,Landsat 8/9 optical,wet,spectral_index
+15,2,S1_VVdesc_p50,0.006393815921835564,77,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,2,S2_wet_NDI,0.006371815282475791,78,False,Sentinel-2 optical,wet,spectral_index
+15,2,S1_VH_glcm_contrast_5x5,0.00614779856941652,79,False,Sentinel-1 SAR,static_or_annual,texture
+15,2,L89_wet_Blue,0.006098324241279689,80,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+15,2,L89_wet_SWIR1,0.005591358189017908,81,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+15,2,L89_wet_SWIR2_p75,0.005566850130522645,82,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+15,2,S1_VVdesc_p25,0.0054774416134390266,83,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,2,L89_wet_Red,0.005392550280046249,84,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+15,2,L89_wet_NDMI,0.005339244947299232,85,False,Landsat 8/9 optical,wet,spectral_index
+15,2,L89_wet_MSI,0.0052367467261618455,86,False,Landsat 8/9 optical,wet,spectral_index
+15,2,S1_VHdesc_p25,0.005194505368680353,87,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,2,S2_wet_PSRI,0.004578793496848128,88,False,Sentinel-2 optical,wet,spectral_index
+15,2,S1_VVdesc_p75,0.0036189145254637606,89,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,2,S1_VH_glcm_asm_5x5,0.0035754165133271283,90,False,Sentinel-1 SAR,static_or_annual,texture
+15,2,S1_VHdesc_p75,0.0035140706437380115,91,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,2,S1_VHdesc_std,0.0034942988311786466,92,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,2,S1_VH_glcm_ent_5x5,0.003371579279547763,93,False,Sentinel-1 SAR,static_or_annual,texture
+15,2,DEM_hillshade,0.003166418866309647,94,False,DEM/topography,static_or_annual,topographic
+15,2,S1_VVminusVH_desc_p50,0.002445617613121148,95,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,2,S1_VVdesc_std,0.0021485716104000917,96,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,2,DEM_aspect,0.0020337763635893107,97,False,DEM/topography,static_or_annual,topographic
+15,3,S2_dry_CVI,0.024800717877269285,1,True,Sentinel-2 optical,dry,spectral_index
+15,3,DEM_elevation,0.01985440514599593,2,True,DEM/topography,static_or_annual,topographic
+15,3,S2_dry_B11,0.01984528620348097,3,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,3,S2_dry_MNDWI,0.01739112426092493,4,True,Sentinel-2 optical,dry,spectral_index
+15,3,S2_dry_B8,0.015743059480770517,5,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,3,S2_wet_NDWI,0.015262702999232203,6,True,Sentinel-2 optical,wet,spectral_index
+15,3,L89_dry_Green,0.01505392748521932,7,True,Landsat 8/9 optical,dry,spectral_band_or_percentile
+15,3,L89_dry_SWIR2_p75,0.015028823162912366,8,True,Landsat 8/9 optical,dry,spectral_band_or_percentile
+15,3,S2_dry_NBR2,0.014885626545957277,9,True,Sentinel-2 optical,dry,spectral_index
+15,3,S1_VVasc_p50,0.01482739252096791,10,True,Sentinel-1 SAR,ascending,sar_backscatter_metric
+15,3,S2_wet_NBR2,0.014742888776601746,11,True,Sentinel-2 optical,wet,spectral_index
+15,3,S2_dry_B12,0.014679766604914622,12,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,3,S1_VHasc_p50,0.014579190867770753,13,True,Sentinel-1 SAR,ascending,sar_backscatter_metric
+15,3,L89_dry_SWIR2,0.01435670406049321,14,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+15,3,L89_dry_NIR,0.01432832032960132,15,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+15,3,L89_dry_SWIR1,0.014252946225230665,16,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+15,3,L89_dry_Blue,0.014239767666372466,17,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+15,3,S2_dry_NDI,0.014224088253434727,18,True,Sentinel-2 optical,dry,spectral_index
+15,3,S2_dry_B2,0.014008717451978889,19,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,3,L89_wet_NBR2,0.01377448194909324,20,True,Landsat 8/9 optical,wet,spectral_index
+15,3,S2_dry_B3,0.01371541969235357,21,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,3,L89_dry_NBR,0.013686988959544677,22,False,Landsat 8/9 optical,dry,spectral_index
+15,3,L89_dry_BSI,0.013416732298642512,23,False,Landsat 8/9 optical,dry,spectral_index
+15,3,S2_dry_NBR,0.0132084806387479,24,True,Sentinel-2 optical,dry,spectral_index
+15,3,L89_dry_Red,0.013001662334335948,25,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+15,3,S2_dry_B5,0.012839522348925379,26,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,3,S2_wet_GNDVI,0.012803170416638322,27,False,Sentinel-2 optical,wet,spectral_index
+15,3,S2_dry_NDWI,0.012800503679233213,28,True,Sentinel-2 optical,dry,spectral_index
+15,3,S2_dry_CI_RE,0.012683074412082537,29,True,Sentinel-2 optical,dry,spectral_index
+15,3,S2_wet_CVI,0.012665702328470784,30,True,Sentinel-2 optical,wet,spectral_index
+15,3,L89_dry_NDVI,0.01257945501338023,31,False,Landsat 8/9 optical,dry,spectral_index
+15,3,S2_dry_B6,0.01255186480412103,32,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,3,L89_dry_NDMI,0.012443887456139752,33,False,Landsat 8/9 optical,dry,spectral_index
+15,3,S2_dry_B7,0.012356177183539874,34,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,3,S2_dry_SR,0.012227558178674465,35,False,Sentinel-2 optical,dry,spectral_index
+15,3,S2_wet_CI_RE,0.012097930868672288,36,True,Sentinel-2 optical,wet,spectral_index
+15,3,S2_dry_NLI,0.011971342151944309,37,False,Sentinel-2 optical,dry,spectral_index
+15,3,S2_dry_GNDVI,0.011850120410008363,38,False,Sentinel-2 optical,dry,spectral_index
+15,3,S2_wet_B12,0.011827060668179418,39,True,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,3,L89_dry_MSI,0.011813752088401372,40,True,Landsat 8/9 optical,dry,spectral_index
+15,3,S2_wet_MNDWI,0.01175953089294817,41,False,Sentinel-2 optical,wet,spectral_index
+15,3,S2_dry_MSR,0.011734455449851775,42,False,Sentinel-2 optical,dry,spectral_index
+15,3,S2_dry_B4,0.01159165131273104,43,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,3,S2_dry_NDMI,0.011390561480812137,44,False,Sentinel-2 optical,dry,spectral_index
+15,3,S2_wet_NDVI_RE,0.011379921847769224,45,False,Sentinel-2 optical,wet,spectral_index
+15,3,S2_dry_RDVI,0.010852496128276377,46,False,Sentinel-2 optical,dry,spectral_index
+15,3,S2_dry_NDVI_RE,0.010685156590194419,47,False,Sentinel-2 optical,dry,spectral_index
+15,3,S2_wet_NBR,0.010547737005689735,48,False,Sentinel-2 optical,wet,spectral_index
+15,3,L89_dry_NBR2,0.01048399874142453,49,False,Landsat 8/9 optical,dry,spectral_index
+15,3,S2_dry_NDVI,0.010386075707150477,50,False,Sentinel-2 optical,dry,spectral_index
+15,3,S2_wet_SR,0.010255180079185388,51,False,Sentinel-2 optical,wet,spectral_index
+15,3,DEM_slope,0.01014910291076525,52,True,DEM/topography,static_or_annual,topographic
+15,3,S2_wet_MTCI,0.010024238873156005,53,True,Sentinel-2 optical,wet,spectral_index
+15,3,S2_wet_B11,0.009842778950973019,54,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,3,S2_wet_NDVI,0.009663439453328267,55,False,Sentinel-2 optical,wet,spectral_index
+15,3,L89_wet_NBR,0.009618217147209104,56,False,Landsat 8/9 optical,wet,spectral_index
+15,3,S2_wet_B7,0.009446832959348433,57,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,3,S2_dry_PSRI,0.009439405307913835,58,False,Sentinel-2 optical,dry,spectral_index
+15,3,S2_wet_MSR,0.009081938600977722,59,False,Sentinel-2 optical,wet,spectral_index
+15,3,S2_wet_RDVI,0.00888066441888909,60,False,Sentinel-2 optical,wet,spectral_index
+15,3,S2_wet_B6,0.008769212964897338,61,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,3,L89_wet_NDVI,0.008696590626825108,62,False,Landsat 8/9 optical,wet,spectral_index
+15,3,S2_wet_B3,0.008670713649186887,63,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,3,S2_wet_B8,0.008397736645050589,64,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,3,S2_wet_NLI,0.008239871413204381,65,False,Sentinel-2 optical,wet,spectral_index
+15,3,L89_wet_SWIR2,0.00813066790953862,66,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+15,3,S2_wet_B5,0.008091203892837325,67,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,3,S2_dry_MTCI,0.008061436837791942,68,False,Sentinel-2 optical,dry,spectral_index
+15,3,S2_wet_B2,0.007695587183071852,69,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,3,S2_wet_B4,0.0076650960682228255,70,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,3,L89_wet_BSI,0.007575915776871123,71,False,Landsat 8/9 optical,wet,spectral_index
+15,3,L89_wet_NIR,0.007312090858728236,72,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+15,3,S1_VH_glcm_contrast_5x5,0.006982037143432096,73,False,Sentinel-1 SAR,static_or_annual,texture
+15,3,S2_wet_NDMI,0.006968842975073435,74,False,Sentinel-2 optical,wet,spectral_index
+15,3,L89_wet_Blue,0.006936629923307472,75,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+15,3,L89_wet_SWIR1,0.006881050055179971,76,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+15,3,L89_wet_SWIR2_p75,0.006705514925432341,77,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+15,3,S1_VHdesc_p50,0.006622791510913253,78,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,3,L89_wet_NDMI,0.006575231384742286,79,False,Landsat 8/9 optical,wet,spectral_index
+15,3,S1_VHdesc_p25,0.006432627121479788,80,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,3,S1_VVdesc_p50,0.006215099040368945,81,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,3,L89_wet_Green,0.005967956695513949,82,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+15,3,L89_wet_MSI,0.005953054982177914,83,False,Landsat 8/9 optical,wet,spectral_index
+15,3,S2_wet_NDI,0.00590979610735734,84,False,Sentinel-2 optical,wet,spectral_index
+15,3,S1_VVdesc_p75,0.005837453584118594,85,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,3,L89_wet_Red,0.0058207464730128606,86,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+15,3,S1_VVminusVH_asc_p50,0.005738380041809762,87,False,Sentinel-1 SAR,ascending,sar_backscatter_metric
+15,3,S1_VVdesc_p25,0.004088008118334666,88,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,3,S1_VHdesc_p75,0.003986964755007783,89,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,3,S2_wet_PSRI,0.0039720755755912485,90,False,Sentinel-2 optical,wet,spectral_index
+15,3,S1_VH_glcm_asm_5x5,0.0034063418499226646,91,False,Sentinel-1 SAR,static_or_annual,texture
+15,3,S1_VH_glcm_ent_5x5,0.003220046700183467,92,False,Sentinel-1 SAR,static_or_annual,texture
+15,3,S1_VHdesc_std,0.003001563486087608,93,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,3,DEM_hillshade,0.002897912560551991,94,False,DEM/topography,static_or_annual,topographic
+15,3,S1_VVminusVH_desc_p50,0.002565489902321341,95,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,3,S1_VVdesc_std,0.002219514900324669,96,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,3,DEM_aspect,0.0021550187026761697,97,False,DEM/topography,static_or_annual,topographic
+15,4,S2_dry_CVI,0.022227418317574767,1,True,Sentinel-2 optical,dry,spectral_index
+15,4,S2_dry_MNDWI,0.02093911254416972,2,True,Sentinel-2 optical,dry,spectral_index
+15,4,S2_dry_B11,0.020002165722782253,3,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,4,DEM_elevation,0.018716153023859303,4,True,DEM/topography,static_or_annual,topographic
+15,4,S2_wet_NBR2,0.01870359694249639,5,True,Sentinel-2 optical,wet,spectral_index
+15,4,L89_dry_BSI,0.017851167315082808,6,True,Landsat 8/9 optical,dry,spectral_index
+15,4,L89_dry_SWIR1,0.015861335621862257,7,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+15,4,L89_dry_NDVI,0.015715458673106086,8,True,Landsat 8/9 optical,dry,spectral_index
+15,4,L89_dry_SWIR2,0.01563967392888269,9,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+15,4,L89_dry_NBR,0.015609009152029386,10,False,Landsat 8/9 optical,dry,spectral_index
+15,4,S2_dry_B12,0.015468406223666676,11,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,4,S1_VHasc_p50,0.015272868466867439,12,True,Sentinel-1 SAR,ascending,sar_backscatter_metric
+15,4,L89_dry_NIR,0.014969187569111086,13,True,Landsat 8/9 optical,dry,spectral_band_or_percentile
+15,4,S2_dry_NBR2,0.014784300782843889,14,True,Sentinel-2 optical,dry,spectral_index
+15,4,S2_wet_NLI,0.014705478581668438,15,True,Sentinel-2 optical,wet,spectral_index
+15,4,L89_wet_NBR2,0.014458887073985849,16,True,Landsat 8/9 optical,wet,spectral_index
+15,4,L89_dry_MSI,0.014360727802779832,17,True,Landsat 8/9 optical,dry,spectral_index
+15,4,S1_VVasc_p50,0.014281727550892175,18,True,Sentinel-1 SAR,ascending,sar_backscatter_metric
+15,4,S2_dry_GNDVI,0.014141101580095615,19,True,Sentinel-2 optical,dry,spectral_index
+15,4,S2_wet_B12,0.014049160989823879,20,True,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,4,S2_wet_NBR,0.013796976904681643,21,True,Sentinel-2 optical,wet,spectral_index
+15,4,S2_dry_NLI,0.013697528420062654,22,False,Sentinel-2 optical,dry,spectral_index
+15,4,S2_wet_NDVI_RE,0.013339957317749137,23,False,Sentinel-2 optical,wet,spectral_index
+15,4,S2_dry_NDWI,0.013280394990433975,24,False,Sentinel-2 optical,dry,spectral_index
+15,4,S2_dry_B6,0.012909304765095723,25,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,4,S2_dry_NBR,0.0128433101388567,26,False,Sentinel-2 optical,dry,spectral_index
+15,4,L89_dry_Green,0.012841198914649311,27,True,Landsat 8/9 optical,dry,spectral_band_or_percentile
+15,4,S2_wet_MSR,0.012719966847266156,28,False,Sentinel-2 optical,wet,spectral_index
+15,4,L89_dry_Red,0.012668386646909781,29,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+15,4,S2_dry_NDI,0.012584043332753059,30,True,Sentinel-2 optical,dry,spectral_index
+15,4,L89_dry_NDMI,0.012457911038247938,31,False,Landsat 8/9 optical,dry,spectral_index
+15,4,S2_dry_B7,0.012355869829067886,32,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,4,S2_dry_SR,0.012117695841054373,33,True,Sentinel-2 optical,dry,spectral_index
+15,4,L89_wet_NBR,0.01206524472174323,34,True,Landsat 8/9 optical,wet,spectral_index
+15,4,S2_wet_CI_RE,0.012002729899387422,35,False,Sentinel-2 optical,wet,spectral_index
+15,4,S2_dry_NDMI,0.011726191630012107,36,True,Sentinel-2 optical,dry,spectral_index
+15,4,L89_dry_NBR2,0.011614653297093104,37,False,Landsat 8/9 optical,dry,spectral_index
+15,4,S2_wet_RDVI,0.01157934920221382,38,False,Sentinel-2 optical,wet,spectral_index
+15,4,S2_dry_B8,0.01137085551136489,39,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,4,S2_wet_NDVI,0.011318888369439728,40,False,Sentinel-2 optical,wet,spectral_index
+15,4,S2_wet_GNDVI,0.011227597636442068,41,False,Sentinel-2 optical,wet,spectral_index
+15,4,S2_wet_NDWI,0.010913342749411834,42,False,Sentinel-2 optical,wet,spectral_index
+15,4,S2_wet_MTCI,0.010851138009347852,43,True,Sentinel-2 optical,wet,spectral_index
+15,4,L89_dry_Blue,0.010525796452906336,44,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+15,4,S2_dry_B2,0.010486599250445944,45,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,4,S2_dry_B3,0.01045732943929649,46,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,4,S2_dry_RDVI,0.010284973049946527,47,False,Sentinel-2 optical,dry,spectral_index
+15,4,L89_wet_SWIR2,0.010229130080137061,48,True,Landsat 8/9 optical,wet,spectral_band_or_percentile
+15,4,S2_dry_NDVI,0.010208910103947776,49,False,Sentinel-2 optical,dry,spectral_index
+15,4,L89_dry_SWIR2_p75,0.010100551378774318,50,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+15,4,L89_wet_MSI,0.009972660235871376,51,False,Landsat 8/9 optical,wet,spectral_index
+15,4,S2_wet_B8,0.009922090116941194,52,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,4,S2_wet_B11,0.009854484401607511,53,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,4,S2_dry_B4,0.009836026129553139,54,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,4,S2_dry_MSR,0.00974563050566179,55,False,Sentinel-2 optical,dry,spectral_index
+15,4,L89_wet_NDVI,0.009745024258888362,56,False,Landsat 8/9 optical,wet,spectral_index
+15,4,S2_wet_MNDWI,0.009527467398012513,57,False,Sentinel-2 optical,wet,spectral_index
+15,4,S2_wet_B4,0.009496302689716643,58,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,4,S2_wet_SR,0.009434364080579008,59,False,Sentinel-2 optical,wet,spectral_index
+15,4,S2_wet_CVI,0.009432403256493138,60,False,Sentinel-2 optical,wet,spectral_index
+15,4,S2_dry_PSRI,0.009263885427644893,61,False,Sentinel-2 optical,dry,spectral_index
+15,4,S2_wet_B6,0.009174644529737793,62,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,4,S2_dry_CI_RE,0.009096602699685097,63,False,Sentinel-2 optical,dry,spectral_index
+15,4,S2_wet_B7,0.00897726834343175,64,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,4,S2_dry_B5,0.008846692014675599,65,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,4,S2_dry_MTCI,0.00862003976352417,66,False,Sentinel-2 optical,dry,spectral_index
+15,4,S1_VHdesc_p25,0.00825640029500736,67,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,4,DEM_slope,0.008156698308972563,68,False,DEM/topography,static_or_annual,topographic
+15,4,L89_wet_SWIR1,0.00802483639268015,69,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+15,4,S2_wet_NDMI,0.007894993062157185,70,False,Sentinel-2 optical,wet,spectral_index
+15,4,S2_wet_NDI,0.007782080215241991,71,False,Sentinel-2 optical,wet,spectral_index
+15,4,S2_dry_NDVI_RE,0.007446037497821344,72,False,Sentinel-2 optical,dry,spectral_index
+15,4,S1_VVdesc_p25,0.007045483151395007,73,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,4,L89_wet_NDMI,0.006792919959601886,74,False,Landsat 8/9 optical,wet,spectral_index
+15,4,L89_wet_NIR,0.006616897418510986,75,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+15,4,S2_wet_B3,0.00655885344759832,76,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,4,L89_wet_BSI,0.006298692105132498,77,False,Landsat 8/9 optical,wet,spectral_index
+15,4,S1_VH_glcm_contrast_5x5,0.006211742302163684,78,False,Sentinel-1 SAR,static_or_annual,texture
+15,4,L89_wet_Red,0.0061243961241947385,79,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+15,4,L89_wet_Blue,0.006065624592449221,80,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+15,4,S1_VHdesc_p50,0.005730766015404728,81,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,4,S2_wet_B2,0.005556775202572825,82,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,4,S2_wet_B5,0.00544612487176445,83,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,4,S2_wet_PSRI,0.0052320576559754675,84,False,Sentinel-2 optical,wet,spectral_index
+15,4,L89_wet_SWIR2_p75,0.005188137866552813,85,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+15,4,S1_VVdesc_p50,0.005152914793936557,86,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,4,S1_VVdesc_p75,0.004624187518917611,87,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,4,L89_wet_Green,0.004610386428860951,88,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+15,4,S1_VHdesc_p75,0.004544890001904288,89,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,4,S1_VH_glcm_ent_5x5,0.003968762739049497,90,False,Sentinel-1 SAR,static_or_annual,texture
+15,4,S1_VH_glcm_asm_5x5,0.0036367481620970116,91,False,Sentinel-1 SAR,static_or_annual,texture
+15,4,S1_VVminusVH_asc_p50,0.003509927064555572,92,False,Sentinel-1 SAR,ascending,sar_backscatter_metric
+15,4,DEM_hillshade,0.002458670566886917,93,False,DEM/topography,static_or_annual,topographic
+15,4,S1_VVminusVH_desc_p50,0.002281227640604077,94,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,4,S1_VHdesc_std,0.0021127886447871477,95,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,4,S1_VVdesc_std,0.0017586982479642047,96,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,4,DEM_aspect,0.0016329322208956166,97,False,DEM/topography,static_or_annual,topographic
+15,5,S2_dry_MNDWI,0.023762793985095863,1,True,Sentinel-2 optical,dry,spectral_index
+15,5,S2_dry_CVI,0.022721065505145945,2,True,Sentinel-2 optical,dry,spectral_index
+15,5,DEM_elevation,0.021479476705120328,3,True,DEM/topography,static_or_annual,topographic
+15,5,S2_dry_B11,0.01887875808418507,4,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,5,S2_wet_NBR2,0.01821457091005463,5,True,Sentinel-2 optical,wet,spectral_index
+15,5,S2_dry_B12,0.017108750592021695,6,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,5,S1_VHasc_p50,0.01647287244999848,7,True,Sentinel-1 SAR,ascending,sar_backscatter_metric
+15,5,L89_dry_SWIR1,0.015603638931872622,8,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+15,5,S2_dry_B2,0.015427011605897739,9,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,5,L89_dry_SWIR2,0.015235744752495842,10,True,Landsat 8/9 optical,dry,spectral_band_or_percentile
+15,5,S2_dry_NDWI,0.014949444206711574,11,True,Sentinel-2 optical,dry,spectral_index
+15,5,S2_dry_B6,0.014873078297527067,12,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,5,S2_dry_NBR2,0.014860653412117774,13,True,Sentinel-2 optical,dry,spectral_index
+15,5,S1_VVasc_p50,0.014853891507097199,14,False,Sentinel-1 SAR,ascending,sar_backscatter_metric
+15,5,L89_dry_Blue,0.014807776736931426,15,True,Landsat 8/9 optical,dry,spectral_band_or_percentile
+15,5,L89_dry_Red,0.014724679173211512,16,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+15,5,L89_dry_Green,0.014617682114991976,17,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+15,5,L89_dry_NDMI,0.01441581916022535,18,True,Landsat 8/9 optical,dry,spectral_index
+15,5,S2_dry_B3,0.014080571683045152,19,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,5,S2_dry_B7,0.013886363953268461,20,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,5,L89_dry_NDVI,0.013543802264015822,21,True,Landsat 8/9 optical,dry,spectral_index
+15,5,L89_wet_NBR2,0.013107009926984018,22,True,Landsat 8/9 optical,wet,spectral_index
+15,5,S2_wet_NDVI_RE,0.0129642418834438,23,True,Sentinel-2 optical,wet,spectral_index
+15,5,S2_dry_NLI,0.01293576227159738,24,False,Sentinel-2 optical,dry,spectral_index
+15,5,L89_dry_BSI,0.012923314848710744,25,False,Landsat 8/9 optical,dry,spectral_index
+15,5,S2_wet_B12,0.012885057830256317,26,True,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,5,S2_wet_CVI,0.012730805620899274,27,True,Sentinel-2 optical,wet,spectral_index
+15,5,S2_wet_NDWI,0.01268148334297947,28,False,Sentinel-2 optical,wet,spectral_index
+15,5,S2_dry_NDI,0.012522724281261707,29,True,Sentinel-2 optical,dry,spectral_index
+15,5,S2_wet_NLI,0.01247455956935612,30,False,Sentinel-2 optical,wet,spectral_index
+15,5,L89_dry_NBR,0.012377865702501269,31,False,Landsat 8/9 optical,dry,spectral_index
+15,5,S2_dry_GNDVI,0.012342208679435304,32,False,Sentinel-2 optical,dry,spectral_index
+15,5,S2_dry_PSRI,0.012269110030687189,33,True,Sentinel-2 optical,dry,spectral_index
+15,5,S2_wet_GNDVI,0.01223558399974944,34,False,Sentinel-2 optical,wet,spectral_index
+15,5,S2_dry_MSR,0.01191661625030893,35,False,Sentinel-2 optical,dry,spectral_index
+15,5,L89_dry_SWIR2_p75,0.011837762663473323,36,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+15,5,S2_dry_B8,0.011726692944243259,37,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,5,L89_wet_NBR,0.011716577625244872,38,False,Landsat 8/9 optical,wet,spectral_index
+15,5,L89_dry_MSI,0.011576620589388978,39,True,Landsat 8/9 optical,dry,spectral_index
+15,5,S2_wet_NBR,0.011312007556594002,40,False,Sentinel-2 optical,wet,spectral_index
+15,5,S2_dry_NDVI_RE,0.011305006895541082,41,False,Sentinel-2 optical,dry,spectral_index
+15,5,L89_dry_NBR2,0.011118910840785928,42,False,Landsat 8/9 optical,dry,spectral_index
+15,5,S2_dry_RDVI,0.011015455750501097,43,False,Sentinel-2 optical,dry,spectral_index
+15,5,S2_dry_SR,0.010941448551963141,44,True,Sentinel-2 optical,dry,spectral_index
+15,5,S2_dry_NBR,0.010522231106049103,45,False,Sentinel-2 optical,dry,spectral_index
+15,5,S2_dry_B5,0.01023411363171182,46,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,5,L89_dry_NIR,0.01009489521001731,47,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+15,5,S2_dry_B4,0.009984427320234007,48,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+15,5,S2_wet_MNDWI,0.009949361780395884,49,False,Sentinel-2 optical,wet,spectral_index
+15,5,S2_wet_SR,0.009929229906436327,50,True,Sentinel-2 optical,wet,spectral_index
+15,5,S2_wet_B6,0.00976265472516156,51,True,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,5,S2_wet_NDVI,0.00971736180502506,52,False,Sentinel-2 optical,wet,spectral_index
+15,5,S2_wet_CI_RE,0.009666057056164478,53,False,Sentinel-2 optical,wet,spectral_index
+15,5,S2_dry_MTCI,0.00936750606973147,54,False,Sentinel-2 optical,dry,spectral_index
+15,5,S2_wet_B7,0.009279425473241697,55,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,5,S2_wet_B8,0.009269628710554487,56,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,5,S2_wet_RDVI,0.009134921924272888,57,False,Sentinel-2 optical,wet,spectral_index
+15,5,S2_wet_MTCI,0.009071255484721876,58,False,Sentinel-2 optical,wet,spectral_index
+15,5,S2_wet_MSR,0.00898680082737936,59,False,Sentinel-2 optical,wet,spectral_index
+15,5,S2_dry_NDVI,0.00886241550849468,60,False,Sentinel-2 optical,dry,spectral_index
+15,5,S2_wet_B11,0.008725281940097258,61,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,5,S2_dry_NDMI,0.008651776261491722,62,False,Sentinel-2 optical,dry,spectral_index
+15,5,S2_dry_CI_RE,0.008610580606186075,63,False,Sentinel-2 optical,dry,spectral_index
+15,5,S2_wet_B2,0.008292531785953836,64,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,5,L89_wet_NIR,0.008095593263741905,65,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+15,5,L89_wet_NDVI,0.008063355266211669,66,False,Landsat 8/9 optical,wet,spectral_index
+15,5,DEM_slope,0.007992607948952053,67,False,DEM/topography,static_or_annual,topographic
+15,5,L89_wet_BSI,0.00782400285365916,68,False,Landsat 8/9 optical,wet,spectral_index
+15,5,S1_VH_glcm_contrast_5x5,0.007615078712524679,69,False,Sentinel-1 SAR,static_or_annual,texture
+15,5,S2_wet_B4,0.0075075182853006515,70,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,5,S2_wet_NDMI,0.00750496376572095,71,False,Sentinel-2 optical,wet,spectral_index
+15,5,S2_wet_B3,0.007326457476713566,72,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,5,L89_wet_SWIR1,0.007297624631597966,73,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+15,5,L89_wet_Blue,0.007248520719137041,74,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+15,5,L89_wet_SWIR2,0.0070826932922706835,75,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+15,5,S2_wet_NDI,0.006688017982261454,76,False,Sentinel-2 optical,wet,spectral_index
+15,5,S2_wet_B5,0.0065955915049544026,77,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+15,5,S1_VHdesc_p25,0.006454062438306719,78,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,5,L89_wet_MSI,0.006397656679546772,79,False,Landsat 8/9 optical,wet,spectral_index
+15,5,S1_VVdesc_p25,0.006253994159175313,80,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,5,L89_wet_Red,0.005922307118504986,81,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+15,5,S1_VHdesc_p50,0.005920681117249162,82,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,5,S1_VVdesc_p50,0.005914031219624812,83,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,5,L89_wet_NDMI,0.005871457286646932,84,False,Landsat 8/9 optical,wet,spectral_index
+15,5,L89_wet_SWIR2_p75,0.005787422520641494,85,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+15,5,S1_VVminusVH_asc_p50,0.005520817693421589,86,False,Sentinel-1 SAR,ascending,sar_backscatter_metric
+15,5,L89_wet_Green,0.005055731654523592,87,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+15,5,S1_VVdesc_p75,0.004109680051718808,88,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,5,S1_VH_glcm_ent_5x5,0.004018521792612205,89,False,Sentinel-1 SAR,static_or_annual,texture
+15,5,S2_wet_PSRI,0.003909424539389525,90,False,Sentinel-2 optical,wet,spectral_index
+15,5,S1_VHdesc_p75,0.0038770306133647757,91,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,5,S1_VH_glcm_asm_5x5,0.00383730499818088,92,False,Sentinel-1 SAR,static_or_annual,texture
+15,5,S1_VHdesc_std,0.0028690295147258643,93,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,5,DEM_hillshade,0.002740746846122433,94,False,DEM/topography,static_or_annual,topographic
+15,5,S1_VVdesc_std,0.0024332384957968787,95,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,5,S1_VVminusVH_desc_p50,0.0024311862346089465,96,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+15,5,DEM_aspect,0.0022859185025330573,97,False,DEM/topography,static_or_annual,topographic
+20,1,S2_dry_MNDWI,0.02003685483898129,1,True,Sentinel-2 optical,dry,spectral_index
+20,1,S2_dry_CVI,0.018299418653527445,2,True,Sentinel-2 optical,dry,spectral_index
+20,1,L89_dry_NIR,0.01816769413150154,3,True,Landsat 8/9 optical,dry,spectral_band_or_percentile
+20,1,L89_dry_BSI,0.01742944621109064,4,True,Landsat 8/9 optical,dry,spectral_index
+20,1,S2_dry_B11,0.0173142647150194,5,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,1,S2_dry_NBR2,0.01685312208818689,6,True,Sentinel-2 optical,dry,spectral_index
+20,1,L89_dry_SWIR1,0.016623538241732527,7,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+20,1,L89_wet_NBR2,0.016502794327184052,8,True,Landsat 8/9 optical,wet,spectral_index
+20,1,S2_dry_GNDVI,0.016160933232862416,9,True,Sentinel-2 optical,dry,spectral_index
+20,1,S2_wet_NBR2,0.016027828181214416,10,True,Sentinel-2 optical,wet,spectral_index
+20,1,L89_dry_SWIR2,0.015668677985169587,11,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+20,1,S1_VVasc_p50,0.015466237980098987,12,True,Sentinel-1 SAR,ascending,sar_backscatter_metric
+20,1,DEM_elevation,0.015389050856687198,13,True,DEM/topography,static_or_annual,topographic
+20,1,L89_dry_SWIR2_p75,0.015167765463636792,14,True,Landsat 8/9 optical,dry,spectral_band_or_percentile
+20,1,S1_VHasc_p50,0.014737005342273696,15,False,Sentinel-1 SAR,ascending,sar_backscatter_metric
+20,1,S2_dry_NDWI,0.014512997987070937,16,False,Sentinel-2 optical,dry,spectral_index
+20,1,L89_dry_Green,0.014399058511606985,17,True,Landsat 8/9 optical,dry,spectral_band_or_percentile
+20,1,S2_wet_GNDVI,0.014345579422926514,18,True,Sentinel-2 optical,wet,spectral_index
+20,1,L89_dry_NDMI,0.01427276910517594,19,False,Landsat 8/9 optical,dry,spectral_index
+20,1,S2_dry_B12,0.014035324982485624,20,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,1,S2_dry_NBR,0.013986623677450431,21,False,Sentinel-2 optical,dry,spectral_index
+20,1,L89_dry_MSI,0.013557120238608812,22,True,Landsat 8/9 optical,dry,spectral_index
+20,1,S2_wet_NBR,0.013266163365333877,23,True,Sentinel-2 optical,wet,spectral_index
+20,1,L89_dry_NDVI,0.013262371680900168,24,True,Landsat 8/9 optical,dry,spectral_index
+20,1,S2_dry_B2,0.01292155489118905,25,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,1,L89_dry_Blue,0.012917371583462971,26,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+20,1,L89_dry_Red,0.012872302907765998,27,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+20,1,L89_dry_NBR,0.012858594833694207,28,False,Landsat 8/9 optical,dry,spectral_index
+20,1,S2_wet_NLI,0.012814698469068202,29,False,Sentinel-2 optical,wet,spectral_index
+20,1,S2_wet_MSR,0.012758234364038161,30,True,Sentinel-2 optical,wet,spectral_index
+20,1,S2_dry_NLI,0.01271148111803188,31,False,Sentinel-2 optical,dry,spectral_index
+20,1,S2_dry_B6,0.012709291620236951,32,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,1,S2_wet_B6,0.012682476041688848,33,True,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,1,S2_wet_B12,0.012459098638243286,34,True,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,1,S2_wet_CI_RE,0.0122491503943675,35,False,Sentinel-2 optical,wet,spectral_index
+20,1,S2_dry_MSR,0.01221297432507432,36,False,Sentinel-2 optical,dry,spectral_index
+20,1,S2_dry_PSRI,0.012052371520218116,37,True,Sentinel-2 optical,dry,spectral_index
+20,1,L89_dry_NBR2,0.011953211438362345,38,False,Landsat 8/9 optical,dry,spectral_index
+20,1,S2_dry_NDVI,0.01175315311075491,39,False,Sentinel-2 optical,dry,spectral_index
+20,1,S2_dry_B7,0.01172762266437631,40,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,1,S2_dry_RDVI,0.011699066170624954,41,False,Sentinel-2 optical,dry,spectral_index
+20,1,S2_wet_SR,0.011671278565466478,42,False,Sentinel-2 optical,wet,spectral_index
+20,1,S2_dry_NDMI,0.011598723564792414,43,True,Sentinel-2 optical,dry,spectral_index
+20,1,S2_dry_B8,0.011524448647003192,44,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,1,S2_wet_NDVI,0.011469099296810765,45,False,Sentinel-2 optical,wet,spectral_index
+20,1,S2_wet_NDWI,0.011286888430398474,46,False,Sentinel-2 optical,wet,spectral_index
+20,1,S2_dry_B4,0.011274794765036547,47,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,1,S2_wet_RDVI,0.011210246915322984,48,False,Sentinel-2 optical,wet,spectral_index
+20,1,S2_dry_NDI,0.011011644000564536,49,True,Sentinel-2 optical,dry,spectral_index
+20,1,S2_wet_NDVI_RE,0.010916676383214648,50,False,Sentinel-2 optical,wet,spectral_index
+20,1,S2_wet_B7,0.010759947001736174,51,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,1,S2_wet_B11,0.010689340188030659,52,True,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,1,S2_wet_MTCI,0.010679359651097396,53,False,Sentinel-2 optical,wet,spectral_index
+20,1,L89_wet_SWIR2,0.010443865431239412,54,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+20,1,S2_dry_SR,0.010025362195257107,55,False,Sentinel-2 optical,dry,spectral_index
+20,1,L89_wet_MSI,0.009984552431263715,56,False,Landsat 8/9 optical,wet,spectral_index
+20,1,L89_wet_NBR,0.009871115906093934,57,False,Landsat 8/9 optical,wet,spectral_index
+20,1,S2_wet_NDMI,0.009540580909676761,58,False,Sentinel-2 optical,wet,spectral_index
+20,1,S2_dry_B5,0.009447226864147312,59,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,1,S2_dry_B3,0.009366175574510818,60,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,1,S2_dry_NDVI_RE,0.00934048967678411,61,False,Sentinel-2 optical,dry,spectral_index
+20,1,S2_dry_MTCI,0.009168429299709428,62,False,Sentinel-2 optical,dry,spectral_index
+20,1,S2_wet_B8,0.009026857840521745,63,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,1,L89_wet_NDMI,0.008859722477219502,64,False,Landsat 8/9 optical,wet,spectral_index
+20,1,S2_dry_CI_RE,0.008738108467839147,65,False,Sentinel-2 optical,dry,spectral_index
+20,1,S2_wet_MNDWI,0.008637052731860743,66,False,Sentinel-2 optical,wet,spectral_index
+20,1,S2_wet_CVI,0.008384848436206455,67,False,Sentinel-2 optical,wet,spectral_index
+20,1,L89_wet_SWIR1,0.008277068268838797,68,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+20,1,L89_wet_NDVI,0.008081582855640061,69,False,Landsat 8/9 optical,wet,spectral_index
+20,1,L89_wet_BSI,0.007926162968067035,70,False,Landsat 8/9 optical,wet,spectral_index
+20,1,S1_VHdesc_p25,0.007795790765256607,71,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,1,L89_wet_SWIR2_p75,0.006774108327839216,72,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+20,1,L89_wet_NIR,0.006536879843909271,73,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+20,1,S2_wet_B2,0.006497192603682899,74,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,1,S2_wet_B4,0.005954815341463668,75,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,1,S1_VVdesc_p25,0.005769862628002321,76,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,1,L89_wet_Blue,0.00573665858892369,77,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+20,1,S1_VHdesc_p50,0.005505428433103676,78,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,1,L89_wet_Red,0.00546924943614269,79,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+20,1,S2_wet_B3,0.005407910586542459,80,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,1,DEM_slope,0.005190132647556343,81,False,DEM/topography,static_or_annual,topographic
+20,1,S2_wet_NDI,0.005084287415891017,82,False,Sentinel-2 optical,wet,spectral_index
+20,1,S1_VVdesc_p50,0.0047706202567085665,83,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,1,S1_VHdesc_p75,0.004619455058575358,84,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,1,S1_VH_glcm_contrast_5x5,0.004578750878087354,85,False,Sentinel-1 SAR,static_or_annual,texture
+20,1,S1_VVminusVH_asc_p50,0.004545535891873007,86,False,Sentinel-1 SAR,ascending,sar_backscatter_metric
+20,1,S2_wet_PSRI,0.0044014310025936865,87,False,Sentinel-2 optical,wet,spectral_index
+20,1,S2_wet_B5,0.004398763661669344,88,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,1,L89_wet_Green,0.0042757006112449395,89,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+20,1,S1_VH_glcm_asm_5x5,0.003666958888597087,90,False,Sentinel-1 SAR,static_or_annual,texture
+20,1,S1_VVdesc_p75,0.0032404982654351184,91,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,1,S1_VH_glcm_ent_5x5,0.0032135764563707894,92,False,Sentinel-1 SAR,static_or_annual,texture
+20,1,DEM_hillshade,0.002815706558516541,93,False,DEM/topography,static_or_annual,topographic
+20,1,S1_VHdesc_std,0.0023908217857686567,94,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,1,S1_VVminusVH_desc_p50,0.0020446809666479935,95,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,1,S1_VVdesc_std,0.001701811475117214,96,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,1,DEM_aspect,0.0015664265682059492,97,False,DEM/topography,static_or_annual,topographic
+20,2,S2_dry_CVI,0.02457503147077918,1,True,Sentinel-2 optical,dry,spectral_index
+20,2,S2_dry_MNDWI,0.02295315269712347,2,True,Sentinel-2 optical,dry,spectral_index
+20,2,DEM_elevation,0.019925387548066307,3,True,DEM/topography,static_or_annual,topographic
+20,2,S2_dry_B11,0.018646211381973726,4,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,2,S2_dry_B2,0.018292304238402477,5,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,2,L89_dry_Red,0.017873590100785316,6,True,Landsat 8/9 optical,dry,spectral_band_or_percentile
+20,2,S1_VHasc_p50,0.01697787689619917,7,True,Sentinel-1 SAR,ascending,sar_backscatter_metric
+20,2,L89_dry_SWIR1,0.016708641385151442,8,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+20,2,L89_dry_Green,0.016527118913509085,9,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+20,2,S2_dry_B12,0.015880643877529393,10,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,2,L89_dry_SWIR2,0.015833424137623175,11,True,Landsat 8/9 optical,dry,spectral_band_or_percentile
+20,2,S2_wet_NBR2,0.01575521402695475,12,True,Sentinel-2 optical,wet,spectral_index
+20,2,L89_dry_MSI,0.014981084397587994,13,True,Landsat 8/9 optical,dry,spectral_index
+20,2,S2_dry_B3,0.014930928590105367,14,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,2,S2_dry_B6,0.014538290367280951,15,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,2,S2_dry_NBR2,0.014501570570241255,16,True,Sentinel-2 optical,dry,spectral_index
+20,2,S2_dry_B7,0.014420327090332793,17,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,2,S2_dry_NDI,0.01436450653448342,18,True,Sentinel-2 optical,dry,spectral_index
+20,2,L89_dry_BSI,0.014352662987314328,19,False,Landsat 8/9 optical,dry,spectral_index
+20,2,L89_dry_SWIR2_p75,0.014268755702060256,20,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+20,2,L89_wet_NBR2,0.01423949643908928,21,True,Landsat 8/9 optical,wet,spectral_index
+20,2,S2_wet_NDWI,0.013689667429857328,22,True,Sentinel-2 optical,wet,spectral_index
+20,2,S1_VVasc_p50,0.013648052646562728,23,True,Sentinel-1 SAR,ascending,sar_backscatter_metric
+20,2,L89_dry_NBR2,0.01357948851568778,24,False,Landsat 8/9 optical,dry,spectral_index
+20,2,L89_dry_NBR,0.01328794924407036,25,False,Landsat 8/9 optical,dry,spectral_index
+20,2,S2_wet_GNDVI,0.012412211270297426,26,False,Sentinel-2 optical,wet,spectral_index
+20,2,L89_dry_NDVI,0.012346498052532292,27,True,Landsat 8/9 optical,dry,spectral_index
+20,2,S2_dry_SR,0.012283469647870016,28,True,Sentinel-2 optical,dry,spectral_index
+20,2,L89_dry_NIR,0.012190851653035508,29,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+20,2,S2_wet_B12,0.012072382394729691,30,True,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,2,L89_dry_NDMI,0.012026202328859292,31,True,Landsat 8/9 optical,dry,spectral_index
+20,2,S2_dry_B8,0.011939464276515231,32,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,2,S2_wet_CVI,0.011797692981468435,33,True,Sentinel-2 optical,wet,spectral_index
+20,2,S2_dry_MSR,0.011678283785186207,34,False,Sentinel-2 optical,dry,spectral_index
+20,2,S2_wet_SR,0.011657028163331197,35,True,Sentinel-2 optical,wet,spectral_index
+20,2,S2_dry_B5,0.011629805739077221,36,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,2,S2_dry_NBR,0.011598804019266462,37,False,Sentinel-2 optical,dry,spectral_index
+20,2,S2_dry_NDWI,0.011527629257223478,38,False,Sentinel-2 optical,dry,spectral_index
+20,2,L89_dry_Blue,0.011343421534442608,39,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+20,2,S2_dry_PSRI,0.011296956431011059,40,True,Sentinel-2 optical,dry,spectral_index
+20,2,S2_wet_NBR,0.010994624493107372,41,False,Sentinel-2 optical,wet,spectral_index
+20,2,S2_dry_B4,0.010902815573164148,42,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,2,L89_wet_NBR,0.010789393579690302,43,False,Landsat 8/9 optical,wet,spectral_index
+20,2,S2_dry_NDVI_RE,0.010700169069139653,44,False,Sentinel-2 optical,dry,spectral_index
+20,2,S2_dry_GNDVI,0.010621546675762336,45,False,Sentinel-2 optical,dry,spectral_index
+20,2,S2_dry_CI_RE,0.010481412687635541,46,False,Sentinel-2 optical,dry,spectral_index
+20,2,S2_dry_NLI,0.010320433866117062,47,False,Sentinel-2 optical,dry,spectral_index
+20,2,S2_wet_NLI,0.010261452555077594,48,True,Sentinel-2 optical,wet,spectral_index
+20,2,S2_wet_NDVI_RE,0.009879581988690416,49,False,Sentinel-2 optical,wet,spectral_index
+20,2,S2_dry_NDMI,0.009810667117466492,50,False,Sentinel-2 optical,dry,spectral_index
+20,2,S2_wet_NDVI,0.009634836260349357,51,False,Sentinel-2 optical,wet,spectral_index
+20,2,S2_wet_MTCI,0.00956595095667572,52,False,Sentinel-2 optical,wet,spectral_index
+20,2,S2_wet_B6,0.00949799364823651,53,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,2,S2_wet_MNDWI,0.009496952007980708,54,False,Sentinel-2 optical,wet,spectral_index
+20,2,S2_wet_CI_RE,0.009293352103409449,55,False,Sentinel-2 optical,wet,spectral_index
+20,2,S2_dry_RDVI,0.009274986145548886,56,False,Sentinel-2 optical,dry,spectral_index
+20,2,L89_wet_SWIR2,0.009124047215453094,57,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+20,2,S2_wet_B2,0.009079269931488557,58,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,2,S2_wet_B8,0.009030633684317845,59,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,2,S2_wet_B11,0.008999466847315512,60,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,2,S2_dry_MTCI,0.00876119420661448,61,False,Sentinel-2 optical,dry,spectral_index
+20,2,S2_wet_B3,0.008682580192450847,62,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,2,S2_wet_RDVI,0.008404530223925554,63,False,Sentinel-2 optical,wet,spectral_index
+20,2,S2_dry_NDVI,0.008363883348201408,64,False,Sentinel-2 optical,dry,spectral_index
+20,2,L89_wet_NIR,0.008258752145075572,65,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+20,2,S2_wet_MSR,0.007873600014420072,66,False,Sentinel-2 optical,wet,spectral_index
+20,2,L89_wet_NDVI,0.007606203504979276,67,False,Landsat 8/9 optical,wet,spectral_index
+20,2,S2_wet_NDMI,0.00756146410500784,68,False,Sentinel-2 optical,wet,spectral_index
+20,2,S2_wet_B4,0.007530847567289099,69,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,2,S1_VH_glcm_contrast_5x5,0.007406639695087386,70,False,Sentinel-1 SAR,static_or_annual,texture
+20,2,DEM_slope,0.0073440772438766915,71,False,DEM/topography,static_or_annual,topographic
+20,2,L89_wet_SWIR1,0.007013076030533048,72,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+20,2,S1_VHdesc_p25,0.00684578083587198,73,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,2,S2_wet_B5,0.006808076062730898,74,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,2,L89_wet_BSI,0.0066153832788716825,75,False,Landsat 8/9 optical,wet,spectral_index
+20,2,S2_wet_NDI,0.006529124279579631,76,False,Sentinel-2 optical,wet,spectral_index
+20,2,S2_wet_B7,0.006425946518583109,77,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,2,L89_wet_Red,0.006294266275117398,78,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+20,2,L89_wet_NDMI,0.0061065860969428815,79,False,Landsat 8/9 optical,wet,spectral_index
+20,2,L89_wet_MSI,0.0059714362847070055,80,False,Landsat 8/9 optical,wet,spectral_index
+20,2,L89_wet_SWIR2_p75,0.005962776629069147,81,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+20,2,S1_VVdesc_p25,0.00594743968512966,82,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,2,S1_VVdesc_p50,0.005916538549051123,83,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,2,L89_wet_Blue,0.005523917752308817,84,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+20,2,S1_VVminusVH_asc_p50,0.005431687137201479,85,False,Sentinel-1 SAR,ascending,sar_backscatter_metric
+20,2,S1_VHdesc_p50,0.005341582990065963,86,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,2,L89_wet_Green,0.0052203290091767775,87,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+20,2,S2_wet_PSRI,0.00504931246943431,88,False,Sentinel-2 optical,wet,spectral_index
+20,2,S1_VH_glcm_ent_5x5,0.004397468542839542,89,False,Sentinel-1 SAR,static_or_annual,texture
+20,2,S1_VVdesc_p75,0.00422898208803066,90,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,2,S1_VH_glcm_asm_5x5,0.0039002013401095467,91,False,Sentinel-1 SAR,static_or_annual,texture
+20,2,S1_VHdesc_p75,0.003424479713137317,92,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,2,DEM_hillshade,0.002993597808164214,93,False,DEM/topography,static_or_annual,topographic
+20,2,S1_VHdesc_std,0.002685447195460439,94,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,2,S1_VVminusVH_desc_p50,0.002630530892703041,95,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,2,S1_VVdesc_std,0.0023999433352065243,96,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,2,DEM_aspect,0.0022306518228015775,97,False,DEM/topography,static_or_annual,topographic
+20,3,S2_dry_CVI,0.022613030552347996,1,True,Sentinel-2 optical,dry,spectral_index
+20,3,S2_dry_B11,0.021475649613304334,2,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,3,DEM_elevation,0.0208738716321769,3,True,DEM/topography,static_or_annual,topographic
+20,3,S2_wet_NBR2,0.01821236664083428,4,True,Sentinel-2 optical,wet,spectral_index
+20,3,S1_VHasc_p50,0.01800986120758052,5,True,Sentinel-1 SAR,ascending,sar_backscatter_metric
+20,3,S2_dry_B12,0.01778051040332141,6,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,3,S2_dry_MNDWI,0.01689840829098393,7,True,Sentinel-2 optical,dry,spectral_index
+20,3,L89_dry_SWIR1,0.0165725288356238,8,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+20,3,L89_dry_SWIR2_p75,0.01649347847860291,9,True,Landsat 8/9 optical,dry,spectral_band_or_percentile
+20,3,S2_dry_GNDVI,0.0160527803224092,10,True,Sentinel-2 optical,dry,spectral_index
+20,3,S2_dry_B2,0.01584055894570922,11,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,3,S2_dry_NDI,0.015627375034017437,12,True,Sentinel-2 optical,dry,spectral_index
+20,3,L89_dry_Blue,0.015417756304224334,13,True,Landsat 8/9 optical,dry,spectral_band_or_percentile
+20,3,L89_dry_Green,0.015401163228020922,14,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+20,3,S2_wet_NDWI,0.015351166573003743,15,True,Sentinel-2 optical,wet,spectral_index
+20,3,S2_dry_B7,0.015183015365654053,16,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,3,S2_dry_NBR2,0.014791758866325303,17,True,Sentinel-2 optical,dry,spectral_index
+20,3,S2_dry_B6,0.014625000930224624,18,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,3,L89_dry_SWIR2,0.014189243389037754,19,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+20,3,L89_dry_NBR,0.014060714398343731,20,False,Landsat 8/9 optical,dry,spectral_index
+20,3,S2_wet_GNDVI,0.013717210226361883,21,False,Sentinel-2 optical,wet,spectral_index
+20,3,S2_dry_NDWI,0.013634577256166104,22,False,Sentinel-2 optical,dry,spectral_index
+20,3,L89_dry_Red,0.013535896606263632,23,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+20,3,L89_dry_MSI,0.013115032867980894,24,True,Landsat 8/9 optical,dry,spectral_index
+20,3,S2_wet_RDVI,0.013039294966189614,25,False,Sentinel-2 optical,wet,spectral_index
+20,3,L89_dry_NBR2,0.013010317612902162,26,False,Landsat 8/9 optical,dry,spectral_index
+20,3,S2_dry_SR,0.012856549361470335,27,True,Sentinel-2 optical,dry,spectral_index
+20,3,S2_dry_B8,0.012809169310249361,28,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,3,L89_wet_NBR2,0.012501985667107106,29,True,Landsat 8/9 optical,wet,spectral_index
+20,3,L89_dry_NIR,0.01211161047353788,30,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+20,3,S1_VVasc_p50,0.01202909181488915,31,True,Sentinel-1 SAR,ascending,sar_backscatter_metric
+20,3,S2_dry_B3,0.011906541732017563,32,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,3,S2_wet_SR,0.011875622617915546,33,True,Sentinel-2 optical,wet,spectral_index
+20,3,S2_wet_NLI,0.011736533474262168,34,True,Sentinel-2 optical,wet,spectral_index
+20,3,L89_dry_NDVI,0.011714915500392012,35,True,Landsat 8/9 optical,dry,spectral_index
+20,3,S2_dry_MSR,0.011567566665455565,36,False,Sentinel-2 optical,dry,spectral_index
+20,3,S2_dry_PSRI,0.011267266855796532,37,True,Sentinel-2 optical,dry,spectral_index
+20,3,S2_dry_NDMI,0.011218209445211982,38,True,Sentinel-2 optical,dry,spectral_index
+20,3,S2_wet_NBR,0.011212255158294798,39,False,Sentinel-2 optical,wet,spectral_index
+20,3,S2_dry_NLI,0.011143150901703357,40,False,Sentinel-2 optical,dry,spectral_index
+20,3,L89_dry_BSI,0.011063357513576653,41,False,Landsat 8/9 optical,dry,spectral_index
+20,3,S2_wet_CI_RE,0.010931829567979168,42,False,Sentinel-2 optical,wet,spectral_index
+20,3,S2_wet_CVI,0.010751739088216103,43,True,Sentinel-2 optical,wet,spectral_index
+20,3,S2_dry_NDVI,0.010529521189107303,44,False,Sentinel-2 optical,dry,spectral_index
+20,3,S2_dry_CI_RE,0.010488057986973439,45,False,Sentinel-2 optical,dry,spectral_index
+20,3,S2_wet_B7,0.010440765409521395,46,True,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,3,L89_dry_NDMI,0.010396428097250585,47,False,Landsat 8/9 optical,dry,spectral_index
+20,3,S2_wet_NDVI,0.010336947190941049,48,False,Sentinel-2 optical,wet,spectral_index
+20,3,S2_wet_NDVI_RE,0.010245087553099093,49,False,Sentinel-2 optical,wet,spectral_index
+20,3,S2_wet_B12,0.010200629036977792,50,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,3,S2_wet_B11,0.009998258476887244,51,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,3,S2_dry_MTCI,0.009964869605962138,52,False,Sentinel-2 optical,dry,spectral_index
+20,3,S2_dry_NDVI_RE,0.00995517518349864,53,False,Sentinel-2 optical,dry,spectral_index
+20,3,S2_wet_B8,0.00976336096583368,54,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,3,S2_dry_B5,0.009547378255210067,55,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,3,L89_wet_NBR,0.009404815626587305,56,False,Landsat 8/9 optical,wet,spectral_index
+20,3,S2_dry_NBR,0.0093974299882479,57,False,Sentinel-2 optical,dry,spectral_index
+20,3,S2_wet_B6,0.009266856886682643,58,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,3,S2_dry_B4,0.009087214467365783,59,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,3,S2_dry_RDVI,0.008865485029597282,60,False,Sentinel-2 optical,dry,spectral_index
+20,3,S2_wet_MSR,0.008847191829648725,61,False,Sentinel-2 optical,wet,spectral_index
+20,3,S2_wet_B3,0.00873430946635126,62,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,3,S2_wet_MNDWI,0.008605000841184585,63,False,Sentinel-2 optical,wet,spectral_index
+20,3,S2_wet_B4,0.008550706050742495,64,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,3,L89_wet_NIR,0.008388610868051516,65,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+20,3,S2_wet_MTCI,0.008326816368267091,66,False,Sentinel-2 optical,wet,spectral_index
+20,3,S2_wet_B2,0.008216772480987811,67,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,3,L89_wet_SWIR2,0.007877649779363442,68,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+20,3,S2_wet_NDMI,0.007854794035609626,69,False,Sentinel-2 optical,wet,spectral_index
+20,3,S2_wet_B5,0.007761310805014609,70,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,3,S2_wet_NDI,0.007653565765105612,71,False,Sentinel-2 optical,wet,spectral_index
+20,3,L89_wet_BSI,0.007592364207977941,72,False,Landsat 8/9 optical,wet,spectral_index
+20,3,S1_VH_glcm_contrast_5x5,0.0073038849634250134,73,False,Sentinel-1 SAR,static_or_annual,texture
+20,3,DEM_slope,0.007253310490046602,74,False,DEM/topography,static_or_annual,topographic
+20,3,L89_wet_NDVI,0.006724044537066103,75,False,Landsat 8/9 optical,wet,spectral_index
+20,3,S1_VVminusVH_asc_p50,0.006299785530199338,76,False,Sentinel-1 SAR,ascending,sar_backscatter_metric
+20,3,L89_wet_Red,0.006226486340761534,77,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+20,3,S1_VHdesc_p25,0.006072693717416091,78,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,3,L89_wet_Green,0.006017941769364852,79,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+20,3,L89_wet_SWIR2_p75,0.00589465071343705,80,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+20,3,L89_wet_NDMI,0.005891015524181661,81,False,Landsat 8/9 optical,wet,spectral_index
+20,3,L89_wet_SWIR1,0.0058282783105480926,82,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+20,3,S1_VHdesc_p50,0.005526453943555618,83,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,3,S1_VVdesc_p25,0.005448707441962416,84,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,3,L89_wet_Blue,0.005193712320949693,85,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+20,3,S1_VVdesc_p50,0.00492372939624475,86,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,3,L89_wet_MSI,0.0048823466704949105,87,False,Landsat 8/9 optical,wet,spectral_index
+20,3,S2_wet_PSRI,0.004056248469715854,88,False,Sentinel-2 optical,wet,spectral_index
+20,3,S1_VH_glcm_ent_5x5,0.003643040272962156,89,False,Sentinel-1 SAR,static_or_annual,texture
+20,3,S1_VH_glcm_asm_5x5,0.0036328585870776453,90,False,Sentinel-1 SAR,static_or_annual,texture
+20,3,S1_VHdesc_p75,0.003611294644648962,91,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,3,S1_VVdesc_p75,0.0034572356007342786,92,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,3,DEM_hillshade,0.0027184369056051805,93,False,DEM/topography,static_or_annual,topographic
+20,3,S1_VHdesc_std,0.002702369681679243,94,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,3,S1_VVminusVH_desc_p50,0.002433983321457303,95,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,3,S1_VVdesc_std,0.0019984135523101534,96,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,3,DEM_aspect,0.0017417401504214965,97,False,DEM/topography,static_or_annual,topographic
+20,4,S2_dry_CVI,0.02485939038595079,1,True,Sentinel-2 optical,dry,spectral_index
+20,4,DEM_elevation,0.021670507104903584,2,True,DEM/topography,static_or_annual,topographic
+20,4,S2_dry_MNDWI,0.020787393661285073,3,True,Sentinel-2 optical,dry,spectral_index
+20,4,S2_dry_NDI,0.01753757668193945,4,True,Sentinel-2 optical,dry,spectral_index
+20,4,S2_wet_NBR2,0.01743167499592092,5,True,Sentinel-2 optical,wet,spectral_index
+20,4,S2_dry_B12,0.016684426072910614,6,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,4,S2_dry_B2,0.016170855719910938,7,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,4,L89_dry_Green,0.016001590851389514,8,True,Landsat 8/9 optical,dry,spectral_band_or_percentile
+20,4,S1_VHasc_p50,0.015598853889564931,9,True,Sentinel-1 SAR,ascending,sar_backscatter_metric
+20,4,L89_dry_SWIR2,0.015091377044169553,10,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+20,4,S2_dry_B8,0.01486593043612195,11,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,4,S2_dry_B11,0.014832714452827196,12,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,4,L89_dry_Red,0.014430772826258164,13,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+20,4,L89_dry_SWIR1,0.014424030018939745,14,True,Landsat 8/9 optical,dry,spectral_band_or_percentile
+20,4,L89_wet_NBR2,0.014247525896803902,15,True,Landsat 8/9 optical,wet,spectral_index
+20,4,S2_wet_B12,0.01402616122453631,16,True,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,4,S2_dry_B7,0.014014585329040713,17,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,4,L89_dry_Blue,0.013986885336986728,18,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+20,4,L89_dry_NDMI,0.013729613971505614,19,True,Landsat 8/9 optical,dry,spectral_index
+20,4,S2_dry_NBR,0.013571863140002364,20,False,Sentinel-2 optical,dry,spectral_index
+20,4,L89_dry_NIR,0.013555260120654338,21,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+20,4,L89_dry_NBR,0.01349944618866445,22,False,Landsat 8/9 optical,dry,spectral_index
+20,4,S2_wet_NDWI,0.013005822700164416,23,True,Sentinel-2 optical,wet,spectral_index
+20,4,S1_VVasc_p50,0.012966070521412087,24,False,Sentinel-1 SAR,ascending,sar_backscatter_metric
+20,4,S2_dry_B3,0.01296401812628386,25,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,4,L89_dry_NDVI,0.012916030626657093,26,True,Landsat 8/9 optical,dry,spectral_index
+20,4,L89_dry_MSI,0.012817838316954787,27,True,Landsat 8/9 optical,dry,spectral_index
+20,4,L89_dry_SWIR2_p75,0.01279815552542471,28,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+20,4,S2_dry_NBR2,0.012689151565250497,29,True,Sentinel-2 optical,dry,spectral_index
+20,4,S2_dry_NDWI,0.012473030508654585,30,True,Sentinel-2 optical,dry,spectral_index
+20,4,S2_dry_B6,0.012433240338514832,31,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,4,S2_wet_CI_RE,0.012356016016261672,32,True,Sentinel-2 optical,wet,spectral_index
+20,4,S2_dry_GNDVI,0.012327909923632606,33,False,Sentinel-2 optical,dry,spectral_index
+20,4,S2_dry_NLI,0.012304651913948353,34,False,Sentinel-2 optical,dry,spectral_index
+20,4,S2_wet_NBR,0.012025431420073491,35,True,Sentinel-2 optical,wet,spectral_index
+20,4,S2_wet_CVI,0.011888877289154975,36,True,Sentinel-2 optical,wet,spectral_index
+20,4,S2_wet_NDVI,0.011467064271189584,37,False,Sentinel-2 optical,wet,spectral_index
+20,4,S2_dry_NDMI,0.011420655872866857,38,True,Sentinel-2 optical,dry,spectral_index
+20,4,L89_dry_BSI,0.011413530441245373,39,False,Landsat 8/9 optical,dry,spectral_index
+20,4,S2_wet_NDVI_RE,0.011333229342160599,40,False,Sentinel-2 optical,wet,spectral_index
+20,4,S2_dry_NDVI_RE,0.011273493176573297,41,False,Sentinel-2 optical,dry,spectral_index
+20,4,S2_wet_B11,0.011006940234631595,42,True,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,4,S2_wet_GNDVI,0.010964200416538667,43,False,Sentinel-2 optical,wet,spectral_index
+20,4,L89_dry_NBR2,0.010939918500055682,44,False,Landsat 8/9 optical,dry,spectral_index
+20,4,S2_wet_NLI,0.010879575285564706,45,False,Sentinel-2 optical,wet,spectral_index
+20,4,S2_dry_RDVI,0.010826450782668418,46,False,Sentinel-2 optical,dry,spectral_index
+20,4,S2_wet_RDVI,0.0107880707173977,47,False,Sentinel-2 optical,wet,spectral_index
+20,4,S2_dry_SR,0.010522358399076425,48,True,Sentinel-2 optical,dry,spectral_index
+20,4,S2_dry_CI_RE,0.010501872337425455,49,False,Sentinel-2 optical,dry,spectral_index
+20,4,S2_dry_NDVI,0.010485199576923319,50,False,Sentinel-2 optical,dry,spectral_index
+20,4,S2_dry_B5,0.010479962079307806,51,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,4,S2_dry_MSR,0.010408848900186953,52,False,Sentinel-2 optical,dry,spectral_index
+20,4,S2_wet_MSR,0.010364228158121961,53,False,Sentinel-2 optical,wet,spectral_index
+20,4,S2_dry_B4,0.010195717227520915,54,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,4,S2_dry_MTCI,0.010156187966732603,55,False,Sentinel-2 optical,dry,spectral_index
+20,4,S2_dry_PSRI,0.009888393596870354,56,False,Sentinel-2 optical,dry,spectral_index
+20,4,S2_wet_SR,0.009863173355086153,57,False,Sentinel-2 optical,wet,spectral_index
+20,4,S2_wet_MTCI,0.009841125027122458,58,False,Sentinel-2 optical,wet,spectral_index
+20,4,S2_wet_B8,0.009006395684788303,59,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,4,S2_wet_MNDWI,0.008986308381860368,60,False,Sentinel-2 optical,wet,spectral_index
+20,4,S2_wet_B2,0.008391014314634803,61,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,4,S1_VH_glcm_contrast_5x5,0.008251103937545693,62,False,Sentinel-1 SAR,static_or_annual,texture
+20,4,S2_wet_B4,0.008188431043119991,63,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,4,S2_wet_B3,0.00817113397842666,64,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,4,DEM_slope,0.008162210536320574,65,False,DEM/topography,static_or_annual,topographic
+20,4,S2_wet_NDMI,0.007884401982561271,66,False,Sentinel-2 optical,wet,spectral_index
+20,4,L89_wet_NBR,0.007860069264795598,67,False,Landsat 8/9 optical,wet,spectral_index
+20,4,S2_wet_B6,0.007536577370417712,68,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,4,S2_wet_NDI,0.007500756173274019,69,False,Sentinel-2 optical,wet,spectral_index
+20,4,L89_wet_SWIR2,0.007365422712699562,70,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+20,4,L89_wet_NDVI,0.0072698177205813685,71,False,Landsat 8/9 optical,wet,spectral_index
+20,4,S2_wet_B5,0.007144943372955179,72,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,4,S1_VHdesc_p50,0.007068675499815272,73,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,4,L89_wet_NIR,0.007039987313680808,74,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+20,4,S1_VHdesc_p25,0.006887253450568798,75,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,4,L89_wet_BSI,0.006854589046689,76,False,Landsat 8/9 optical,wet,spectral_index
+20,4,S2_wet_B7,0.006814107852745662,77,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,4,S1_VVminusVH_asc_p50,0.006527582162823866,78,False,Sentinel-1 SAR,ascending,sar_backscatter_metric
+20,4,L89_wet_NDMI,0.006417971754530135,79,False,Landsat 8/9 optical,wet,spectral_index
+20,4,L89_wet_SWIR1,0.006301404670805682,80,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+20,4,L89_wet_Blue,0.006219594823216618,81,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+20,4,L89_wet_SWIR2_p75,0.006142035936716579,82,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+20,4,L89_wet_Red,0.005991066615103738,83,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+20,4,L89_wet_Green,0.005711881285144644,84,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+20,4,L89_wet_MSI,0.005266833823214536,85,False,Landsat 8/9 optical,wet,spectral_index
+20,4,S1_VVdesc_p25,0.005035430816451638,86,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,4,S1_VVdesc_p50,0.004714580557208084,87,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,4,S1_VH_glcm_ent_5x5,0.004237734538556283,88,False,Sentinel-1 SAR,static_or_annual,texture
+20,4,S2_wet_PSRI,0.004114279080331032,89,False,Sentinel-2 optical,wet,spectral_index
+20,4,S1_VHdesc_p75,0.0040880655049797526,90,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,4,S1_VVdesc_p75,0.003955166555370232,91,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,4,S1_VH_glcm_asm_5x5,0.0037670121281210642,92,False,Sentinel-1 SAR,static_or_annual,texture
+20,4,DEM_hillshade,0.003284077290777877,93,False,DEM/topography,static_or_annual,topographic
+20,4,S1_VHdesc_std,0.003065624770652474,94,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,4,S1_VVminusVH_desc_p50,0.0025351737696687614,95,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,4,S1_VVdesc_std,0.0022997713790470025,96,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,4,DEM_aspect,0.0019366370918577189,97,False,DEM/topography,static_or_annual,topographic
+20,5,S2_dry_CVI,0.0245891458376002,1,True,Sentinel-2 optical,dry,spectral_index
+20,5,S2_dry_MNDWI,0.019448064646973268,2,True,Sentinel-2 optical,dry,spectral_index
+20,5,DEM_elevation,0.01879587051538236,3,True,DEM/topography,static_or_annual,topographic
+20,5,S2_wet_NBR2,0.018185656750228894,4,True,Sentinel-2 optical,wet,spectral_index
+20,5,S2_dry_B11,0.01683210005658176,5,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,5,S2_dry_B12,0.016571683039064942,6,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,5,S2_dry_B3,0.016548605410920337,7,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,5,L89_dry_SWIR1,0.016107739424020873,8,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+20,5,L89_dry_SWIR2,0.01607188716510913,9,True,Landsat 8/9 optical,dry,spectral_band_or_percentile
+20,5,S2_dry_B6,0.016053674276873486,10,True,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,5,S1_VHasc_p50,0.016031251736965228,11,True,Sentinel-1 SAR,ascending,sar_backscatter_metric
+20,5,S2_dry_NBR2,0.01595900952741462,12,True,Sentinel-2 optical,dry,spectral_index
+20,5,L89_dry_Red,0.015658607582624082,13,True,Landsat 8/9 optical,dry,spectral_band_or_percentile
+20,5,S2_wet_B12,0.015563279621253135,14,True,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,5,S2_dry_B8,0.014850533288259405,15,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,5,L89_dry_Green,0.01453513077167881,16,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+20,5,S2_wet_CVI,0.014431563244604257,17,True,Sentinel-2 optical,wet,spectral_index
+20,5,S2_dry_NDI,0.014112591905820746,18,True,Sentinel-2 optical,dry,spectral_index
+20,5,S2_dry_B2,0.013966175109006454,19,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,5,L89_dry_NBR2,0.01352841203367325,20,False,Landsat 8/9 optical,dry,spectral_index
+20,5,S2_dry_B7,0.013362652700003995,21,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,5,S2_dry_NLI,0.013335603157563502,22,True,Sentinel-2 optical,dry,spectral_index
+20,5,L89_dry_NBR,0.013283191576481562,23,False,Landsat 8/9 optical,dry,spectral_index
+20,5,L89_dry_BSI,0.013124135386188002,24,True,Landsat 8/9 optical,dry,spectral_index
+20,5,S2_wet_GNDVI,0.012862799748446946,25,True,Sentinel-2 optical,wet,spectral_index
+20,5,L89_dry_SWIR2_p75,0.012543111678837262,26,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+20,5,L89_dry_Blue,0.012406425423568847,27,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+20,5,S2_wet_NDWI,0.01234635099433417,28,False,Sentinel-2 optical,wet,spectral_index
+20,5,L89_dry_NDMI,0.012335406750086262,29,False,Landsat 8/9 optical,dry,spectral_index
+20,5,S1_VVasc_p50,0.012183808161135349,30,True,Sentinel-1 SAR,ascending,sar_backscatter_metric
+20,5,L89_wet_NBR2,0.012114467467374586,31,True,Landsat 8/9 optical,wet,spectral_index
+20,5,L89_dry_NIR,0.012025904497120958,32,False,Landsat 8/9 optical,dry,spectral_band_or_percentile
+20,5,S2_dry_NDVI_RE,0.012015220124152706,33,False,Sentinel-2 optical,dry,spectral_index
+20,5,S2_dry_NDWI,0.01198961457459882,34,False,Sentinel-2 optical,dry,spectral_index
+20,5,S2_dry_GNDVI,0.011794339093991156,35,False,Sentinel-2 optical,dry,spectral_index
+20,5,S2_wet_MSR,0.011777413831683795,36,False,Sentinel-2 optical,wet,spectral_index
+20,5,S2_dry_NDVI,0.011592481435663179,37,False,Sentinel-2 optical,dry,spectral_index
+20,5,S2_dry_B4,0.011530610904154717,38,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,5,S2_dry_MSR,0.011424028867366756,39,False,Sentinel-2 optical,dry,spectral_index
+20,5,S2_dry_SR,0.011386985456561211,40,False,Sentinel-2 optical,dry,spectral_index
+20,5,S2_wet_NBR,0.01098514132662232,41,False,Sentinel-2 optical,wet,spectral_index
+20,5,S2_dry_RDVI,0.010871812160564216,42,False,Sentinel-2 optical,dry,spectral_index
+20,5,S2_wet_B11,0.01084597249668814,43,True,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,5,DEM_slope,0.010587654222410769,44,True,DEM/topography,static_or_annual,topographic
+20,5,L89_dry_MSI,0.010498739313538853,45,True,Landsat 8/9 optical,dry,spectral_index
+20,5,S2_wet_B7,0.010461349851817561,46,True,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,5,S2_dry_NDMI,0.010443678972318142,47,True,Sentinel-2 optical,dry,spectral_index
+20,5,L89_dry_NDVI,0.01041937031102955,48,False,Landsat 8/9 optical,dry,spectral_index
+20,5,S2_wet_RDVI,0.010364195703378222,49,False,Sentinel-2 optical,wet,spectral_index
+20,5,S2_dry_PSRI,0.010223029052971207,50,True,Sentinel-2 optical,dry,spectral_index
+20,5,S2_wet_NLI,0.010093607228012278,51,False,Sentinel-2 optical,wet,spectral_index
+20,5,S2_dry_MTCI,0.009946610702336793,52,False,Sentinel-2 optical,dry,spectral_index
+20,5,S2_wet_SR,0.009921149713380603,53,False,Sentinel-2 optical,wet,spectral_index
+20,5,S2_wet_B6,0.009857899370257309,54,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,5,L89_wet_NDVI,0.009727656608069955,55,False,Landsat 8/9 optical,wet,spectral_index
+20,5,S2_dry_B5,0.009576155952408499,56,False,Sentinel-2 optical,dry,spectral_band_or_percentile
+20,5,S2_wet_NDVI,0.009375828900631936,57,False,Sentinel-2 optical,wet,spectral_index
+20,5,S2_wet_CI_RE,0.009373175832079916,58,False,Sentinel-2 optical,wet,spectral_index
+20,5,L89_wet_NBR,0.009314791718739217,59,False,Landsat 8/9 optical,wet,spectral_index
+20,5,S2_wet_NDVI_RE,0.009235533881673195,60,False,Sentinel-2 optical,wet,spectral_index
+20,5,S2_dry_CI_RE,0.00910017894399307,61,False,Sentinel-2 optical,dry,spectral_index
+20,5,S2_wet_MNDWI,0.008874351029128496,62,False,Sentinel-2 optical,wet,spectral_index
+20,5,S2_wet_B8,0.008699662018852996,63,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,5,S2_wet_MTCI,0.008611504950436681,64,False,Sentinel-2 optical,wet,spectral_index
+20,5,L89_wet_SWIR2,0.008210913678286925,65,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+20,5,S2_wet_B3,0.008199241585386492,66,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,5,S2_dry_NBR,0.008048504763793254,67,False,Sentinel-2 optical,dry,spectral_index
+20,5,L89_wet_NIR,0.00793457043598008,68,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+20,5,L89_wet_Red,0.007655714648980801,69,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+20,5,S2_wet_B4,0.007601427991987528,70,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,5,S2_wet_B2,0.007539609259785965,71,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,5,L89_wet_SWIR1,0.007436759971362973,72,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+20,5,S1_VH_glcm_contrast_5x5,0.007346201080453203,73,False,Sentinel-1 SAR,static_or_annual,texture
+20,5,S2_wet_NDMI,0.006937045383113508,74,False,Sentinel-2 optical,wet,spectral_index
+20,5,S1_VVminusVH_asc_p50,0.006658842300675958,75,False,Sentinel-1 SAR,ascending,sar_backscatter_metric
+20,5,S1_VHdesc_p25,0.006617545255201072,76,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,5,L89_wet_BSI,0.006541879628948796,77,False,Landsat 8/9 optical,wet,spectral_index
+20,5,L89_wet_SWIR2_p75,0.006500941759510401,78,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+20,5,S2_wet_NDI,0.006366174234636169,79,False,Sentinel-2 optical,wet,spectral_index
+20,5,L89_wet_NDMI,0.006281925595619551,80,False,Landsat 8/9 optical,wet,spectral_index
+20,5,L89_wet_Blue,0.006244751396187372,81,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+20,5,S1_VHdesc_p50,0.006238216724428409,82,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,5,L89_wet_MSI,0.0060366669794108836,83,False,Landsat 8/9 optical,wet,spectral_index
+20,5,S2_wet_B5,0.006020068933704969,84,False,Sentinel-2 optical,wet,spectral_band_or_percentile
+20,5,S1_VVdesc_p25,0.0057304626566652365,85,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,5,L89_wet_Green,0.005624134641904221,86,False,Landsat 8/9 optical,wet,spectral_band_or_percentile
+20,5,S1_VVdesc_p50,0.00483162167619375,87,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,5,S2_wet_PSRI,0.004600926247680779,88,False,Sentinel-2 optical,wet,spectral_index
+20,5,S1_VHdesc_p75,0.003867175293420959,89,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,5,S1_VVdesc_p75,0.003861507206700486,90,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,5,S1_VH_glcm_asm_5x5,0.0036682421376009167,91,False,Sentinel-1 SAR,static_or_annual,texture
+20,5,S1_VH_glcm_ent_5x5,0.0036275988688445754,92,False,Sentinel-1 SAR,static_or_annual,texture
+20,5,S1_VHdesc_std,0.0033613502491312247,93,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,5,DEM_hillshade,0.00308961416815022,94,False,DEM/topography,static_or_annual,topographic
+20,5,S1_VVminusVH_desc_p50,0.0023117878095383023,95,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,5,S1_VVdesc_std,0.0021894227015660933,96,False,Sentinel-1 SAR,descending,sar_backscatter_metric
+20,5,DEM_aspect,0.002134570700439946,97,False,DEM/topography,static_or_annual,topographic

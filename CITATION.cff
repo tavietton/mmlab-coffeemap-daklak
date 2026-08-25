@@ -1,0 +1,69 @@
+cff-version: 1.2.0
+message: "If you use this code or workflow, please cite the article below (and, if useful, this repository)."
+type: software
+title: "Coffee mapping workflow: Interpretable multi-sensor mapping of coffee production systems in Dak Lak, Vietnam"
+abstract: >-
+  Reproducible pipeline (Google Earth Engine scripts + Python notebooks) for a
+  provincial-scale, interpretable multi-sensor (Sentinel-1, Sentinel-2, Landsat
+  8/9, SRTM DEM) Random Forest classification of coffee production systems and
+  land cover in Dak Lak Province, Vietnam, including spatial block
+  cross-validation, SHAP-based interpretation, and Olofsson (2014) area-weighted
+  accuracy/area estimation.
+authors:
+  - family-names: "Nguyen"
+    given-names: "Trung Duc"
+    affiliation: "Graduate School of Bioresource and Bioenvironmental Sciences, Kyushu University, Japan; Vietnam National University of Agriculture, Vietnam"
+  - family-names: "Nguyen"
+    given-names: "Van Loc"
+    affiliation: "Vietnam National University of Agriculture, Vietnam"
+  - family-names: "Nguyen"
+    given-names: "Thi Hoai Linh"
+    affiliation: "International Institute for Carbon-Neutral Energy Research, Kyushu University, Japan"
+  - family-names: "Casse"
+    given-names: "Thorkil"
+    affiliation: "Graduate School of Bioresource and Bioenvironmental Sciences, Kyushu University, Japan; Department of Social Sciences and Business, Roskilde University, Denmark"
+  - family-names: "Ton"
+    given-names: "Thi Minh Khanh"
+    affiliation: "Graduate School of Bioresource and Bioenvironmental Sciences, Kyushu University, Japan; Vietnam National University of Agriculture, Vietnam"
+  - family-names: "Truong"
+    given-names: "Minh Hang"
+    affiliation: "Western Highlands Agriculture and Forestry Science Institute, Vietnam"
+  - family-names: "Nguyen"
+    given-names: "Thi Thu Ha"
+    affiliation: "Vietnam National University of Agriculture, Vietnam"
+  - family-names: "Ta"
+    given-names: "Viet Ton"
+    affiliation: "Graduate School of Bioresource and Bioenvironmental Sciences, Kyushu University, Japan; Vietnam National University of Agriculture, Vietnam"
+    email: "tavietton@agr.kyushu-u.ac.jp"
+license: MIT
+version: "0.1.0" # pre-release: pipeline validated against the manuscript's published numbers, repository not yet made public
+date-released: "2026-08-20"
+repository-code: "" # to be filled in once the repository is made public
+preferred-citation:
+  type: article
+  title: "Interpretable multi-sensor mapping of coffee production systems in Dak Lak, Vietnam: performance, spatial generalization, and uncertainty"
+  authors:
+    - family-names: "Nguyen"
+      given-names: "Trung Duc"
+    - family-names: "Nguyen"
+      given-names: "Van Loc"
+    - family-names: "Nguyen"
+      given-names: "Thi Hoai Linh"
+    - family-names: "Casse"
+      given-names: "Thorkil"
+    - family-names: "Ton"
+      given-names: "Thi Minh Khanh"
+    - family-names: "Truong"
+      given-names: "Minh Hang"
+    - family-names: "Nguyen"
+      given-names: "Thi Thu Ha"
+    - family-names: "Ta"
+      given-names: "Viet Ton"
+  journal: "Remote Sensing Applications: Society and Environment"
+  status: "in-review" # under major revision at time of writing; update to "advance-online" / add volume+DOI upon acceptance
+  doi: "" # to be filled in upon acceptance
+notes: >-
+  Code license is MIT (see LICENSE). Reference-point coordinates and raw
+  imagery are excluded from public release per the manuscript's data
+  availability statement; see REPRODUCIBILITY.md and MANIFEST.md for what
+  is and is not included/reproducible in this package.

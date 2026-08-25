@@ -1,0 +1,78 @@
+# Reconstructed configuration for the Dak Lak Coffee Mapping Paper 1 pipeline (v2).
+#
+# This file was rebuilt from how notebooks 00-07 consume `CONFIG`/`PATHS` (the
+# original config/paper1_config.yaml and src/coffeemap/ package were missing from
+# the project when this reconstruction was done). Values reflect the manuscript
+# text (revision.docx) and the pipeline's own output filenames wherever both were
+# available; see REPRODUCIBILITY.md for what has been validated by re-running a
+# notebook against existing results.
+
+project:
+  name: "Dak Lak Coffee Mapping Paper 1"
+  random_seed: 2024   # matches the RF random_state used throughout the manuscript (Table 3/4, Section 2.6)
+
+paths:
+  # NOTE: notebook 00's own hardcoded SEARCH_DIRS list (inside its cell code,
+  # not derived from this config) checks the literal paths "data/raw" and
+  # "data_DakLak_Statistics" relative to PROJECT_ROOT (this workflow/ folder).
+  # input_dir must match that literal path, or notebook 00 reports every
+  # GEE-exported file as MISSING even though config.yaml itself would resolve
+  # fine.
+  input_dir: "data/raw"
+  interim_dir: "data/processed"
+  # tables/, figures/, and supplementary/ are nested under workflow/results/,
+  # so every notebook writes its deliverables there rather than to a
+  # top-level sibling of workflow/.
+  tables_dir: "results/tables"
+  figures_dir: "results/figures"
+  supplementary_dir: "results/supplementary"
+  # internal workflow bookkeeping (run manifests) stays inside workflow/,
+  # since it isn't itself a citable deliverable.
+  metadata_dir: "metadata"
+
+columns:
+  true_label_candidates: ["class_id", "true_class_id", "label", "true_label", "y_true"]
+  prediction_candidates: ["classification", "predicted", "prediction", "pred_class", "pred_class_id", "classified"]
+  longitude_candidates: ["lon", "longitude", "x", "X", "POINT_X"]
+  latitude_candidates: ["lat", "latitude", "y", "Y", "POINT_Y"]
+
+classes:
+  coffee_class_ids: [1, 2, 3]
+  # Colors synced to the project's actual authoritative palette (the .clr/CSV
+  # colormap imported into ArcGIS Pro for the classified-map figures --
+  # ArcGIS_Coffee_Map/Result_2026/DakLak_2024_10class_labels_colormap/), not
+  # the placeholder CSS-named colors this reconstruction originally guessed.
+  # Rubber and Partially vegetative were further adjusted from the ArcGIS
+  # source (#9bd37a, #cde963) to #4caf82/#d4c86a: the original pair collapsed
+  # to near-identical hues under red-green color-vision-deficiency simulation.
+  definitions:
+    1:
+      name: "Sun coffee"
+      color: "#8c3b00"
+    2:
+      name: "Intercrop coffee"
+      color: "#ff8080"
+    3:
+      name: "Newly planted coffee"
+      color: "#ffb000"
+    4:
+      name: "Rubber"
+      color: "#4caf82"
+    5:
+      name: "Partially vegetative"
+      color: "#d4c86a"
+    6:
+      name: "Rice"
+      color: "#0087a8"
+    7:
+      name: "Other upland crops"
+      color: "#f2e6b8"
+    8:
+      name: "Forest"
+      color: "#1f4d2b"
+    9:
+      name: "Water"
+      color: "#00c8ff"
+    10:
+      name: "Built"
+      color: "#9a9a9a"

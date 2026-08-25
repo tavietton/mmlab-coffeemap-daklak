@@ -1,0 +1,35 @@
+﻿level,item,message
+PASS,training sample table,All required columns present: ['class_id']
+PASS,training sample table,"Class IDs OK: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]"
+PASS,training sample table,Feature count OK: 97
+PASS,training sample table,Feature prefixes OK: only S2_/S1_/L89_/DEM_ detected.
+PASS,training sample table,No feature has >5% missing values.
+PASS,training sample table,No feature has >50% zero values.
+PASS,validation sample table,All required columns present: ['class_id']
+PASS,validation sample table,"Class IDs OK: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]"
+PASS,validation sample table,Feature count OK: 97
+PASS,validation sample table,Feature prefixes OK: only S2_/S1_/L89_/DEM_ detected.
+PASS,validation sample table,No feature has >5% missing values.
+PASS,validation sample table,No feature has >50% zero values.
+PASS,train-validation feature alignment,Train and validation feature columns are identical.
+PASS,Table 4 / Figure 4 input,At least one prediction/confusion-matrix input is available.
+PASS,validation prediction file true classes,"Class IDs OK: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]"
+PASS,validation prediction file,"Prediction column detected: classification; predicted classes: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]"
+PASS,confusion matrix file,Long-format confusion matrix detected.
+PASS,official district statistics,"All required columns present: ['district_name_en', 'district_name', 'planted_area_ha']"
+PASS,official district statistics,planted_area_ha is numeric and non-negative.
+PASS,official district statistics,harvested_area_ha is numeric and non-negative.
+PASS,GEE district coffee area,"All required columns present: ['district_name_raw', 'mapped_coffee_area_ha', 'mapped_sun_coffee_area_ha', 'mapped_intercrop_coffee_area_ha', 'mapped_newly_planted_coffee_area_ha']"
+PASS,GEE district coffee area,mapped_coffee_area_ha is numeric and non-negative.
+PASS,GEE district coffee area,mapped_sun_coffee_area_ha is numeric and non-negative.
+PASS,GEE district coffee area,mapped_intercrop_coffee_area_ha is numeric and non-negative.
+PASS,GEE district coffee area,mapped_newly_planted_coffee_area_ha is numeric and non-negative.
+PASS,GEE district coffee area,Coffee total matches sum of three coffee subclasses within 1 ha.
+PASS,GEE class area statistics,"All required columns present: ['class_id', 'class_name', 'area_ha']"
+PASS,GEE class area statistics,"Class IDs OK: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]"
+PASS,GEE class area statistics,area_ha is numeric and non-negative.
+PASS,GEE class area statistics,area_pct is numeric and non-negative.
+PASS,official district statistics,District count OK: 15
+PASS,GEE district coffee area,District count OK: 15
+PASS,district-name matching,Official and GEE district keys match.
+PASS,coffee area consistency,Class-level and district-level coffee areas agree within 1%: 0.000%.

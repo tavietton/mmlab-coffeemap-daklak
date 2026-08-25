@@ -1,0 +1,24 @@
+\begin{tabular}{llllrrrrrl}
+\toprule
+metric & comparison & strategy_1 & strategy_2 & n_paired_units & mean_difference_strategy1_minus_strategy2 & wilcoxon_statistic & p_value_raw & p_value_holm & significance_holm \\
+\midrule
+Overall accuracy & RF_Pearson vs RF_VIF10 & RF_Pearson & RF_VIF10 & 5 & 0.003111 & 0.000000 & 0.125000 & 0.375000 & ns \\
+Overall accuracy & RF_Pearson vs RF_rank_only & RF_Pearson & RF_rank_only & 5 & 0.000444 & 4.000000 & 0.875000 & 0.875000 & ns \\
+Overall accuracy & RF_Pearson vs VIF10_only & RF_Pearson & VIF10_only & 5 & -0.002444 & 0.000000 & 0.250000 & 0.500000 & ns \\
+Overall accuracy & RF_VIF10 vs RF_rank_only & RF_VIF10 & RF_rank_only & 5 & -0.002667 & 0.000000 & 0.062500 & 0.375000 & ns \\
+Overall accuracy & RF_VIF10 vs VIF10_only & RF_VIF10 & VIF10_only & 5 & -0.005556 & 0.000000 & 0.062500 & 0.375000 & ns \\
+Overall accuracy & RF_rank_only vs VIF10_only & RF_rank_only & VIF10_only & 5 & -0.002889 & 0.000000 & 0.062500 & 0.375000 & ns \\
+Macro F1 & RF_Pearson vs RF_VIF10 & RF_Pearson & RF_VIF10 & 5 & 0.003027 & 1.000000 & 0.125000 & 0.375000 & ns \\
+Macro F1 & RF_Pearson vs RF_rank_only & RF_Pearson & RF_rank_only & 5 & 0.000352 & 5.000000 & 0.625000 & 0.625000 & ns \\
+Macro F1 & RF_Pearson vs VIF10_only & RF_Pearson & VIF10_only & 5 & -0.002438 & 2.000000 & 0.187500 & 0.375000 & ns \\
+Macro F1 & RF_VIF10 vs RF_rank_only & RF_VIF10 & RF_rank_only & 5 & -0.002675 & 0.000000 & 0.062500 & 0.375000 & ns \\
+Macro F1 & RF_VIF10 vs VIF10_only & RF_VIF10 & VIF10_only & 5 & -0.005465 & 0.000000 & 0.062500 & 0.375000 & ns \\
+Macro F1 & RF_rank_only vs VIF10_only & RF_rank_only & VIF10_only & 5 & -0.002790 & 0.000000 & 0.062500 & 0.375000 & ns \\
+Coffee F1 & RF_Pearson vs RF_VIF10 & RF_Pearson & RF_VIF10 & 5 & 0.016820 & 0.000000 & 0.062500 & 0.375000 & ns \\
+Coffee F1 & RF_Pearson vs RF_rank_only & RF_Pearson & RF_rank_only & 5 & 0.007211 & 0.000000 & 0.062500 & 0.375000 & ns \\
+Coffee F1 & RF_Pearson vs VIF10_only & RF_Pearson & VIF10_only & 5 & -0.003419 & 3.000000 & 0.312500 & 0.375000 & ns \\
+Coffee F1 & RF_VIF10 vs RF_rank_only & RF_VIF10 & RF_rank_only & 5 & -0.009610 & 0.000000 & 0.062500 & 0.375000 & ns \\
+Coffee F1 & RF_VIF10 vs VIF10_only & RF_VIF10 & VIF10_only & 5 & -0.020239 & 0.000000 & 0.062500 & 0.375000 & ns \\
+Coffee F1 & RF_rank_only vs VIF10_only & RF_rank_only & VIF10_only & 5 & -0.010630 & 0.000000 & 0.062500 & 0.375000 & ns \\
+\bottomrule
+\end{tabular}

@@ -1,0 +1,39 @@
+Table 3 cross-validated robustness run manifest
+================================================
+Important interpretation:
+  This table is a sensor-ablation / robustness analysis. It should not replace
+  the independent hold-out accuracy used to report the final mapped product.
+
+Train CSV: data\raw\Table_TrainSamples_FullFeatureSpace_2024.csv
+Validation CSV: data\raw\Table_ValSamples_FullFeatureSpace_2024.csv
+Combined valid samples: 3000
+Candidate numeric features: 97
+Requested folds: 5
+Effective folds: 5
+Random state: 2024
+RF trees: 2000
+RF max_features: 3
+RF max_samples: 0.65
+RF min_samples_leaf: 1
+Ranking RF trees: 250
+Correlation threshold: 0.9
+Max final features: 25
+
+Feature counts per sensor group:
+  S2: 52
+  S1: 15
+  L89: 26
+  DEM: 4
+
+Class counts:
+class_id
+1     300
+2     300
+3     300
+4     300
+5     300
+6     300
+7     300
+8     300
+9     300
+10    300

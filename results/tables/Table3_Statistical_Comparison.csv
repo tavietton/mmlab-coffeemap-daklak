@@ -1,0 +1,7 @@
+﻿metric,comparison,n_folds,mean_difference,wilcoxon_statistic,p_value_raw,p_value_holm
+Overall accuracy,Sentinel-1 + Sentinel-2 + Landsat + DEM vs Sentinel-2 only,5,0.033666666666666664,0.0,0.0625,0.1875
+Overall accuracy,Sentinel-1 + Sentinel-2 + Landsat + DEM vs Sentinel-1 only,5,0.30766666666666664,0.0,0.0625,0.1875
+Overall accuracy,Sentinel-1 + Sentinel-2 + Landsat + DEM vs Landsat only,5,0.03500000000000001,0.0,0.0625,0.1875
+Macro F1,Sentinel-1 + Sentinel-2 + Landsat + DEM vs Sentinel-2 only,5,0.03433975944293381,0.0,0.0625,0.1875
+Macro F1,Sentinel-1 + Sentinel-2 + Landsat + DEM vs Sentinel-1 only,5,0.3102778727848052,0.0,0.0625,0.1875
+Macro F1,Sentinel-1 + Sentinel-2 + Landsat + DEM vs Landsat only,5,0.0352007271154879,0.0,0.0625,0.1875

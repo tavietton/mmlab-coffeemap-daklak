@@ -1,0 +1,410 @@
+strategy,feature_count_target,n_selected,rank_selected,feature,source_group
+RF_rank_only,20,20,1,S2_dry_CVI,Sentinel-2
+RF_rank_only,20,20,2,DEM_elevation,DEM
+RF_rank_only,20,20,3,S2_dry_MNDWI,Sentinel-2
+RF_rank_only,20,20,4,S1_VHasc_p50,Sentinel-1
+RF_rank_only,20,20,5,S2_dry_B11,Sentinel-2
+RF_rank_only,20,20,6,L89_dry_Red,Landsat 8/9
+RF_rank_only,20,20,7,S2_wet_NBR2,Sentinel-2
+RF_rank_only,20,20,8,L89_dry_SWIR2_p75,Landsat 8/9
+RF_rank_only,20,20,9,L89_dry_SWIR1,Landsat 8/9
+RF_rank_only,20,20,10,S2_dry_B2,Sentinel-2
+RF_rank_only,20,20,11,L89_dry_Blue,Landsat 8/9
+RF_rank_only,20,20,12,L89_dry_Green,Landsat 8/9
+RF_rank_only,20,20,13,L89_dry_NBR2,Landsat 8/9
+RF_rank_only,20,20,14,S2_dry_B3,Sentinel-2
+RF_rank_only,20,20,15,S1_VVasc_p50,Sentinel-1
+RF_rank_only,20,20,16,L89_dry_SWIR2,Landsat 8/9
+RF_rank_only,20,20,17,S2_dry_NBR2,Sentinel-2
+RF_rank_only,20,20,18,S2_dry_B12,Sentinel-2
+RF_rank_only,20,20,19,S2_wet_GNDVI,Sentinel-2
+RF_rank_only,20,20,20,L89_dry_NBR,Landsat 8/9
+RF_rank_only,25,25,1,S2_dry_CVI,Sentinel-2
+RF_rank_only,25,25,2,DEM_elevation,DEM
+RF_rank_only,25,25,3,S2_dry_MNDWI,Sentinel-2
+RF_rank_only,25,25,4,S1_VHasc_p50,Sentinel-1
+RF_rank_only,25,25,5,S2_dry_B11,Sentinel-2
+RF_rank_only,25,25,6,L89_dry_Red,Landsat 8/9
+RF_rank_only,25,25,7,S2_wet_NBR2,Sentinel-2
+RF_rank_only,25,25,8,L89_dry_SWIR2_p75,Landsat 8/9
+RF_rank_only,25,25,9,L89_dry_SWIR1,Landsat 8/9
+RF_rank_only,25,25,10,S2_dry_B2,Sentinel-2
+RF_rank_only,25,25,11,L89_dry_Blue,Landsat 8/9
+RF_rank_only,25,25,12,L89_dry_Green,Landsat 8/9
+RF_rank_only,25,25,13,L89_dry_NBR2,Landsat 8/9
+RF_rank_only,25,25,14,S2_dry_B3,Sentinel-2
+RF_rank_only,25,25,15,S1_VVasc_p50,Sentinel-1
+RF_rank_only,25,25,16,L89_dry_SWIR2,Landsat 8/9
+RF_rank_only,25,25,17,S2_dry_NBR2,Sentinel-2
+RF_rank_only,25,25,18,S2_dry_B12,Sentinel-2
+RF_rank_only,25,25,19,S2_wet_GNDVI,Sentinel-2
+RF_rank_only,25,25,20,L89_dry_NBR,Landsat 8/9
+RF_rank_only,25,25,21,S2_dry_MTCI,Sentinel-2
+RF_rank_only,25,25,22,S2_wet_NDWI,Sentinel-2
+RF_rank_only,25,25,23,S2_dry_B8,Sentinel-2
+RF_rank_only,25,25,24,S2_dry_B6,Sentinel-2
+RF_rank_only,25,25,25,S2_wet_NBR,Sentinel-2
+RF_rank_only,30,30,1,S2_dry_CVI,Sentinel-2
+RF_rank_only,30,30,2,DEM_elevation,DEM
+RF_rank_only,30,30,3,S2_dry_MNDWI,Sentinel-2
+RF_rank_only,30,30,4,S1_VHasc_p50,Sentinel-1
+RF_rank_only,30,30,5,S2_dry_B11,Sentinel-2
+RF_rank_only,30,30,6,L89_dry_Red,Landsat 8/9
+RF_rank_only,30,30,7,S2_wet_NBR2,Sentinel-2
+RF_rank_only,30,30,8,L89_dry_SWIR2_p75,Landsat 8/9
+RF_rank_only,30,30,9,L89_dry_SWIR1,Landsat 8/9
+RF_rank_only,30,30,10,S2_dry_B2,Sentinel-2
+RF_rank_only,30,30,11,L89_dry_Blue,Landsat 8/9
+RF_rank_only,30,30,12,L89_dry_Green,Landsat 8/9
+RF_rank_only,30,30,13,L89_dry_NBR2,Landsat 8/9
+RF_rank_only,30,30,14,S2_dry_B3,Sentinel-2
+RF_rank_only,30,30,15,S1_VVasc_p50,Sentinel-1
+RF_rank_only,30,30,16,L89_dry_SWIR2,Landsat 8/9
+RF_rank_only,30,30,17,S2_dry_NBR2,Sentinel-2
+RF_rank_only,30,30,18,S2_dry_B12,Sentinel-2
+RF_rank_only,30,30,19,S2_wet_GNDVI,Sentinel-2
+RF_rank_only,30,30,20,L89_dry_NBR,Landsat 8/9
+RF_rank_only,30,30,21,S2_dry_MTCI,Sentinel-2
+RF_rank_only,30,30,22,S2_wet_NDWI,Sentinel-2
+RF_rank_only,30,30,23,S2_dry_B8,Sentinel-2
+RF_rank_only,30,30,24,S2_dry_B6,Sentinel-2
+RF_rank_only,30,30,25,S2_wet_NBR,Sentinel-2
+RF_rank_only,30,30,26,S2_dry_NDI,Sentinel-2
+RF_rank_only,30,30,27,L89_dry_BSI,Landsat 8/9
+RF_rank_only,30,30,28,S2_dry_B7,Sentinel-2
+RF_rank_only,30,30,29,L89_dry_NDMI,Landsat 8/9
+RF_rank_only,30,30,30,S2_dry_NDWI,Sentinel-2
+RF_rank_only,35,35,1,S2_dry_CVI,Sentinel-2
+RF_rank_only,35,35,2,DEM_elevation,DEM
+RF_rank_only,35,35,3,S2_dry_MNDWI,Sentinel-2
+RF_rank_only,35,35,4,S1_VHasc_p50,Sentinel-1
+RF_rank_only,35,35,5,S2_dry_B11,Sentinel-2
+RF_rank_only,35,35,6,L89_dry_Red,Landsat 8/9
+RF_rank_only,35,35,7,S2_wet_NBR2,Sentinel-2
+RF_rank_only,35,35,8,L89_dry_SWIR2_p75,Landsat 8/9
+RF_rank_only,35,35,9,L89_dry_SWIR1,Landsat 8/9
+RF_rank_only,35,35,10,S2_dry_B2,Sentinel-2
+RF_rank_only,35,35,11,L89_dry_Blue,Landsat 8/9
+RF_rank_only,35,35,12,L89_dry_Green,Landsat 8/9
+RF_rank_only,35,35,13,L89_dry_NBR2,Landsat 8/9
+RF_rank_only,35,35,14,S2_dry_B3,Sentinel-2
+RF_rank_only,35,35,15,S1_VVasc_p50,Sentinel-1
+RF_rank_only,35,35,16,L89_dry_SWIR2,Landsat 8/9
+RF_rank_only,35,35,17,S2_dry_NBR2,Sentinel-2
+RF_rank_only,35,35,18,S2_dry_B12,Sentinel-2
+RF_rank_only,35,35,19,S2_wet_GNDVI,Sentinel-2
+RF_rank_only,35,35,20,L89_dry_NBR,Landsat 8/9
+RF_rank_only,35,35,21,S2_dry_MTCI,Sentinel-2
+RF_rank_only,35,35,22,S2_wet_NDWI,Sentinel-2
+RF_rank_only,35,35,23,S2_dry_B8,Sentinel-2
+RF_rank_only,35,35,24,S2_dry_B6,Sentinel-2
+RF_rank_only,35,35,25,S2_wet_NBR,Sentinel-2
+RF_rank_only,35,35,26,S2_dry_NDI,Sentinel-2
+RF_rank_only,35,35,27,L89_dry_BSI,Landsat 8/9
+RF_rank_only,35,35,28,S2_dry_B7,Sentinel-2
+RF_rank_only,35,35,29,L89_dry_NDMI,Landsat 8/9
+RF_rank_only,35,35,30,S2_dry_NDWI,Sentinel-2
+RF_rank_only,35,35,31,L89_dry_MSI,Landsat 8/9
+RF_rank_only,35,35,32,S2_dry_GNDVI,Sentinel-2
+RF_rank_only,35,35,33,L89_dry_NDVI,Landsat 8/9
+RF_rank_only,35,35,34,S2_dry_SR,Sentinel-2
+RF_rank_only,35,35,35,S2_wet_B12,Sentinel-2
+RF_rank_only,40,40,1,S2_dry_CVI,Sentinel-2
+RF_rank_only,40,40,2,DEM_elevation,DEM
+RF_rank_only,40,40,3,S2_dry_MNDWI,Sentinel-2
+RF_rank_only,40,40,4,S1_VHasc_p50,Sentinel-1
+RF_rank_only,40,40,5,S2_dry_B11,Sentinel-2
+RF_rank_only,40,40,6,L89_dry_Red,Landsat 8/9
+RF_rank_only,40,40,7,S2_wet_NBR2,Sentinel-2
+RF_rank_only,40,40,8,L89_dry_SWIR2_p75,Landsat 8/9
+RF_rank_only,40,40,9,L89_dry_SWIR1,Landsat 8/9
+RF_rank_only,40,40,10,S2_dry_B2,Sentinel-2
+RF_rank_only,40,40,11,L89_dry_Blue,Landsat 8/9
+RF_rank_only,40,40,12,L89_dry_Green,Landsat 8/9
+RF_rank_only,40,40,13,L89_dry_NBR2,Landsat 8/9
+RF_rank_only,40,40,14,S2_dry_B3,Sentinel-2
+RF_rank_only,40,40,15,S1_VVasc_p50,Sentinel-1
+RF_rank_only,40,40,16,L89_dry_SWIR2,Landsat 8/9
+RF_rank_only,40,40,17,S2_dry_NBR2,Sentinel-2
+RF_rank_only,40,40,18,S2_dry_B12,Sentinel-2
+RF_rank_only,40,40,19,S2_wet_GNDVI,Sentinel-2
+RF_rank_only,40,40,20,L89_dry_NBR,Landsat 8/9
+RF_rank_only,40,40,21,S2_dry_MTCI,Sentinel-2
+RF_rank_only,40,40,22,S2_wet_NDWI,Sentinel-2
+RF_rank_only,40,40,23,S2_dry_B8,Sentinel-2
+RF_rank_only,40,40,24,S2_dry_B6,Sentinel-2
+RF_rank_only,40,40,25,S2_wet_NBR,Sentinel-2
+RF_rank_only,40,40,26,S2_dry_NDI,Sentinel-2
+RF_rank_only,40,40,27,L89_dry_BSI,Landsat 8/9
+RF_rank_only,40,40,28,S2_dry_B7,Sentinel-2
+RF_rank_only,40,40,29,L89_dry_NDMI,Landsat 8/9
+RF_rank_only,40,40,30,S2_dry_NDWI,Sentinel-2
+RF_rank_only,40,40,31,L89_dry_MSI,Landsat 8/9
+RF_rank_only,40,40,32,S2_dry_GNDVI,Sentinel-2
+RF_rank_only,40,40,33,L89_dry_NDVI,Landsat 8/9
+RF_rank_only,40,40,34,S2_dry_SR,Sentinel-2
+RF_rank_only,40,40,35,S2_wet_B12,Sentinel-2
+RF_rank_only,40,40,36,L89_wet_NBR2,Landsat 8/9
+RF_rank_only,40,40,37,L89_dry_NIR,Landsat 8/9
+RF_rank_only,40,40,38,S2_dry_MSR,Sentinel-2
+RF_rank_only,40,40,39,S2_wet_CVI,Sentinel-2
+RF_rank_only,40,40,40,S2_wet_B11,Sentinel-2
+RF_Pearson,20,20,1,S2_dry_CVI,Sentinel-2
+RF_Pearson,20,20,2,DEM_elevation,DEM
+RF_Pearson,20,20,3,S2_dry_MNDWI,Sentinel-2
+RF_Pearson,20,20,4,S1_VHasc_p50,Sentinel-1
+RF_Pearson,20,20,5,S2_dry_B11,Sentinel-2
+RF_Pearson,20,20,6,L89_dry_Red,Landsat 8/9
+RF_Pearson,20,20,7,S2_wet_NBR2,Sentinel-2
+RF_Pearson,20,20,8,L89_dry_SWIR2_p75,Landsat 8/9
+RF_Pearson,20,20,9,S2_dry_B2,Sentinel-2
+RF_Pearson,20,20,10,L89_dry_NBR2,Landsat 8/9
+RF_Pearson,20,20,11,S1_VVasc_p50,Sentinel-1
+RF_Pearson,20,20,12,S2_wet_GNDVI,Sentinel-2
+RF_Pearson,20,20,13,S2_dry_MTCI,Sentinel-2
+RF_Pearson,20,20,14,S2_dry_B8,Sentinel-2
+RF_Pearson,20,20,15,S2_dry_NDI,Sentinel-2
+RF_Pearson,20,20,16,L89_dry_BSI,Landsat 8/9
+RF_Pearson,20,20,17,S2_dry_NDWI,Sentinel-2
+RF_Pearson,20,20,18,L89_dry_MSI,Landsat 8/9
+RF_Pearson,20,20,19,L89_dry_NDVI,Landsat 8/9
+RF_Pearson,20,20,20,S2_dry_SR,Sentinel-2
+RF_Pearson,25,25,1,S2_dry_CVI,Sentinel-2
+RF_Pearson,25,25,2,DEM_elevation,DEM
+RF_Pearson,25,25,3,S2_dry_MNDWI,Sentinel-2
+RF_Pearson,25,25,4,S1_VHasc_p50,Sentinel-1
+RF_Pearson,25,25,5,S2_dry_B11,Sentinel-2
+RF_Pearson,25,25,6,L89_dry_Red,Landsat 8/9
+RF_Pearson,25,25,7,S2_wet_NBR2,Sentinel-2
+RF_Pearson,25,25,8,L89_dry_SWIR2_p75,Landsat 8/9
+RF_Pearson,25,25,9,S2_dry_B2,Sentinel-2
+RF_Pearson,25,25,10,L89_dry_NBR2,Landsat 8/9
+RF_Pearson,25,25,11,S1_VVasc_p50,Sentinel-1
+RF_Pearson,25,25,12,S2_wet_GNDVI,Sentinel-2
+RF_Pearson,25,25,13,S2_dry_MTCI,Sentinel-2
+RF_Pearson,25,25,14,S2_dry_B8,Sentinel-2
+RF_Pearson,25,25,15,S2_dry_NDI,Sentinel-2
+RF_Pearson,25,25,16,L89_dry_BSI,Landsat 8/9
+RF_Pearson,25,25,17,S2_dry_NDWI,Sentinel-2
+RF_Pearson,25,25,18,L89_dry_MSI,Landsat 8/9
+RF_Pearson,25,25,19,L89_dry_NDVI,Landsat 8/9
+RF_Pearson,25,25,20,S2_dry_SR,Sentinel-2
+RF_Pearson,25,25,21,S2_wet_B12,Sentinel-2
+RF_Pearson,25,25,22,L89_wet_NBR2,Landsat 8/9
+RF_Pearson,25,25,23,S2_wet_CVI,Sentinel-2
+RF_Pearson,25,25,24,S2_wet_B11,Sentinel-2
+RF_Pearson,25,25,25,S2_dry_B5,Sentinel-2
+RF_Pearson,30,30,1,S2_dry_CVI,Sentinel-2
+RF_Pearson,30,30,2,DEM_elevation,DEM
+RF_Pearson,30,30,3,S2_dry_MNDWI,Sentinel-2
+RF_Pearson,30,30,4,S1_VHasc_p50,Sentinel-1
+RF_Pearson,30,30,5,S2_dry_B11,Sentinel-2
+RF_Pearson,30,30,6,L89_dry_Red,Landsat 8/9
+RF_Pearson,30,30,7,S2_wet_NBR2,Sentinel-2
+RF_Pearson,30,30,8,L89_dry_SWIR2_p75,Landsat 8/9
+RF_Pearson,30,30,9,S2_dry_B2,Sentinel-2
+RF_Pearson,30,30,10,L89_dry_NBR2,Landsat 8/9
+RF_Pearson,30,30,11,S1_VVasc_p50,Sentinel-1
+RF_Pearson,30,30,12,S2_wet_GNDVI,Sentinel-2
+RF_Pearson,30,30,13,S2_dry_MTCI,Sentinel-2
+RF_Pearson,30,30,14,S2_dry_B8,Sentinel-2
+RF_Pearson,30,30,15,S2_dry_NDI,Sentinel-2
+RF_Pearson,30,30,16,L89_dry_BSI,Landsat 8/9
+RF_Pearson,30,30,17,S2_dry_NDWI,Sentinel-2
+RF_Pearson,30,30,18,L89_dry_MSI,Landsat 8/9
+RF_Pearson,30,30,19,L89_dry_NDVI,Landsat 8/9
+RF_Pearson,30,30,20,S2_dry_SR,Sentinel-2
+RF_Pearson,30,30,21,S2_wet_B12,Sentinel-2
+RF_Pearson,30,30,22,L89_wet_NBR2,Landsat 8/9
+RF_Pearson,30,30,23,S2_wet_CVI,Sentinel-2
+RF_Pearson,30,30,24,S2_wet_B11,Sentinel-2
+RF_Pearson,30,30,25,S2_dry_B5,Sentinel-2
+RF_Pearson,30,30,26,S2_wet_MTCI,Sentinel-2
+RF_Pearson,30,30,27,S2_wet_CI_RE,Sentinel-2
+RF_Pearson,30,30,28,S2_dry_NDMI,Sentinel-2
+RF_Pearson,30,30,29,L89_wet_SWIR2,Landsat 8/9
+RF_Pearson,30,30,30,S2_wet_B6,Sentinel-2
+RF_Pearson,35,35,1,S2_dry_CVI,Sentinel-2
+RF_Pearson,35,35,2,DEM_elevation,DEM
+RF_Pearson,35,35,3,S2_dry_MNDWI,Sentinel-2
+RF_Pearson,35,35,4,S1_VHasc_p50,Sentinel-1
+RF_Pearson,35,35,5,S2_dry_B11,Sentinel-2
+RF_Pearson,35,35,6,L89_dry_Red,Landsat 8/9
+RF_Pearson,35,35,7,S2_wet_NBR2,Sentinel-2
+RF_Pearson,35,35,8,L89_dry_SWIR2_p75,Landsat 8/9
+RF_Pearson,35,35,9,S2_dry_B2,Sentinel-2
+RF_Pearson,35,35,10,L89_dry_NBR2,Landsat 8/9
+RF_Pearson,35,35,11,S1_VVasc_p50,Sentinel-1
+RF_Pearson,35,35,12,S2_wet_GNDVI,Sentinel-2
+RF_Pearson,35,35,13,S2_dry_MTCI,Sentinel-2
+RF_Pearson,35,35,14,S2_dry_B8,Sentinel-2
+RF_Pearson,35,35,15,S2_dry_NDI,Sentinel-2
+RF_Pearson,35,35,16,L89_dry_BSI,Landsat 8/9
+RF_Pearson,35,35,17,S2_dry_NDWI,Sentinel-2
+RF_Pearson,35,35,18,L89_dry_MSI,Landsat 8/9
+RF_Pearson,35,35,19,L89_dry_NDVI,Landsat 8/9
+RF_Pearson,35,35,20,S2_dry_SR,Sentinel-2
+RF_Pearson,35,35,21,S2_wet_B12,Sentinel-2
+RF_Pearson,35,35,22,L89_wet_NBR2,Landsat 8/9
+RF_Pearson,35,35,23,S2_wet_CVI,Sentinel-2
+RF_Pearson,35,35,24,S2_wet_B11,Sentinel-2
+RF_Pearson,35,35,25,S2_dry_B5,Sentinel-2
+RF_Pearson,35,35,26,S2_wet_MTCI,Sentinel-2
+RF_Pearson,35,35,27,S2_wet_CI_RE,Sentinel-2
+RF_Pearson,35,35,28,S2_dry_NDMI,Sentinel-2
+RF_Pearson,35,35,29,L89_wet_SWIR2,Landsat 8/9
+RF_Pearson,35,35,30,S2_wet_B6,Sentinel-2
+RF_Pearson,35,35,31,S2_wet_NDI,Sentinel-2
+RF_Pearson,35,35,32,S2_dry_PSRI,Sentinel-2
+RF_Pearson,35,35,33,S2_wet_NDMI,Sentinel-2
+RF_Pearson,35,35,34,L89_wet_NDVI,Landsat 8/9
+RF_Pearson,35,35,35,DEM_slope,DEM
+RF_Pearson,40,40,1,S2_dry_CVI,Sentinel-2
+RF_Pearson,40,40,2,DEM_elevation,DEM
+RF_Pearson,40,40,3,S2_dry_MNDWI,Sentinel-2
+RF_Pearson,40,40,4,S1_VHasc_p50,Sentinel-1
+RF_Pearson,40,40,5,S2_dry_B11,Sentinel-2
+RF_Pearson,40,40,6,L89_dry_Red,Landsat 8/9
+RF_Pearson,40,40,7,S2_wet_NBR2,Sentinel-2
+RF_Pearson,40,40,8,L89_dry_SWIR2_p75,Landsat 8/9
+RF_Pearson,40,40,9,S2_dry_B2,Sentinel-2
+RF_Pearson,40,40,10,L89_dry_NBR2,Landsat 8/9
+RF_Pearson,40,40,11,S1_VVasc_p50,Sentinel-1
+RF_Pearson,40,40,12,S2_wet_GNDVI,Sentinel-2
+RF_Pearson,40,40,13,S2_dry_MTCI,Sentinel-2
+RF_Pearson,40,40,14,S2_dry_B8,Sentinel-2
+RF_Pearson,40,40,15,S2_dry_NDI,Sentinel-2
+RF_Pearson,40,40,16,L89_dry_BSI,Landsat 8/9
+RF_Pearson,40,40,17,S2_dry_NDWI,Sentinel-2
+RF_Pearson,40,40,18,L89_dry_MSI,Landsat 8/9
+RF_Pearson,40,40,19,L89_dry_NDVI,Landsat 8/9
+RF_Pearson,40,40,20,S2_dry_SR,Sentinel-2
+RF_Pearson,40,40,21,S2_wet_B12,Sentinel-2
+RF_Pearson,40,40,22,L89_wet_NBR2,Landsat 8/9
+RF_Pearson,40,40,23,S2_wet_CVI,Sentinel-2
+RF_Pearson,40,40,24,S2_wet_B11,Sentinel-2
+RF_Pearson,40,40,25,S2_dry_B5,Sentinel-2
+RF_Pearson,40,40,26,S2_wet_MTCI,Sentinel-2
+RF_Pearson,40,40,27,S2_wet_CI_RE,Sentinel-2
+RF_Pearson,40,40,28,S2_dry_NDMI,Sentinel-2
+RF_Pearson,40,40,29,L89_wet_SWIR2,Landsat 8/9
+RF_Pearson,40,40,30,S2_wet_B6,Sentinel-2
+RF_Pearson,40,40,31,S2_wet_NDI,Sentinel-2
+RF_Pearson,40,40,32,S2_dry_PSRI,Sentinel-2
+RF_Pearson,40,40,33,S2_wet_NDMI,Sentinel-2
+RF_Pearson,40,40,34,L89_wet_NDVI,Landsat 8/9
+RF_Pearson,40,40,35,DEM_slope,DEM
+RF_Pearson,40,40,36,S2_wet_B4,Sentinel-2
+RF_Pearson,40,40,37,L89_wet_BSI,Landsat 8/9
+RF_Pearson,40,40,38,S2_wet_B5,Sentinel-2
+RF_Pearson,40,40,39,S1_VHdesc_p50,Sentinel-1
+RF_Pearson,40,40,40,S2_wet_B2,Sentinel-2
+RF_VIF10,20,15,1,S2_dry_CVI,Sentinel-2
+RF_VIF10,20,15,2,DEM_elevation,DEM
+RF_VIF10,20,15,3,S2_dry_MNDWI,Sentinel-2
+RF_VIF10,20,15,4,S1_VHasc_p50,Sentinel-1
+RF_VIF10,20,15,5,S2_dry_B11,Sentinel-2
+RF_VIF10,20,15,6,L89_dry_Red,Landsat 8/9
+RF_VIF10,20,15,7,S2_wet_NBR2,Sentinel-2
+RF_VIF10,20,15,8,L89_dry_NBR2,Landsat 8/9
+RF_VIF10,20,15,9,S1_VVasc_p50,Sentinel-1
+RF_VIF10,20,15,10,S2_dry_MTCI,Sentinel-2
+RF_VIF10,20,15,11,S2_dry_B6,Sentinel-2
+RF_VIF10,20,15,12,S2_dry_SR,Sentinel-2
+RF_VIF10,20,15,13,S2_wet_SR,Sentinel-2
+RF_VIF10,20,15,14,L89_wet_NBR,Landsat 8/9
+RF_VIF10,20,15,15,S2_wet_B4,Sentinel-2
+RF_VIF10,25,15,1,S2_dry_CVI,Sentinel-2
+RF_VIF10,25,15,2,DEM_elevation,DEM
+RF_VIF10,25,15,3,S2_dry_MNDWI,Sentinel-2
+RF_VIF10,25,15,4,S1_VHasc_p50,Sentinel-1
+RF_VIF10,25,15,5,S2_dry_B11,Sentinel-2
+RF_VIF10,25,15,6,L89_dry_Red,Landsat 8/9
+RF_VIF10,25,15,7,S2_wet_NBR2,Sentinel-2
+RF_VIF10,25,15,8,L89_dry_NBR2,Landsat 8/9
+RF_VIF10,25,15,9,S1_VVasc_p50,Sentinel-1
+RF_VIF10,25,15,10,S2_dry_MTCI,Sentinel-2
+RF_VIF10,25,15,11,S2_dry_B6,Sentinel-2
+RF_VIF10,25,15,12,S2_dry_SR,Sentinel-2
+RF_VIF10,25,15,13,S2_wet_SR,Sentinel-2
+RF_VIF10,25,15,14,L89_wet_NBR,Landsat 8/9
+RF_VIF10,25,15,15,S2_wet_B4,Sentinel-2
+RF_VIF10,30,15,1,S2_dry_CVI,Sentinel-2
+RF_VIF10,30,15,2,DEM_elevation,DEM
+RF_VIF10,30,15,3,S2_dry_MNDWI,Sentinel-2
+RF_VIF10,30,15,4,S1_VHasc_p50,Sentinel-1
+RF_VIF10,30,15,5,S2_dry_B11,Sentinel-2
+RF_VIF10,30,15,6,L89_dry_Red,Landsat 8/9
+RF_VIF10,30,15,7,S2_wet_NBR2,Sentinel-2
+RF_VIF10,30,15,8,L89_dry_NBR2,Landsat 8/9
+RF_VIF10,30,15,9,S1_VVasc_p50,Sentinel-1
+RF_VIF10,30,15,10,S2_dry_MTCI,Sentinel-2
+RF_VIF10,30,15,11,S2_dry_B6,Sentinel-2
+RF_VIF10,30,15,12,S2_dry_SR,Sentinel-2
+RF_VIF10,30,15,13,S2_wet_SR,Sentinel-2
+RF_VIF10,30,15,14,L89_wet_NBR,Landsat 8/9
+RF_VIF10,30,15,15,S2_wet_B4,Sentinel-2
+RF_VIF10,35,15,1,S2_dry_CVI,Sentinel-2
+RF_VIF10,35,15,2,DEM_elevation,DEM
+RF_VIF10,35,15,3,S2_dry_MNDWI,Sentinel-2
+RF_VIF10,35,15,4,S1_VHasc_p50,Sentinel-1
+RF_VIF10,35,15,5,S2_dry_B11,Sentinel-2
+RF_VIF10,35,15,6,L89_dry_Red,Landsat 8/9
+RF_VIF10,35,15,7,S2_wet_NBR2,Sentinel-2
+RF_VIF10,35,15,8,L89_dry_NBR2,Landsat 8/9
+RF_VIF10,35,15,9,S1_VVasc_p50,Sentinel-1
+RF_VIF10,35,15,10,S2_dry_MTCI,Sentinel-2
+RF_VIF10,35,15,11,S2_dry_B6,Sentinel-2
+RF_VIF10,35,15,12,S2_dry_SR,Sentinel-2
+RF_VIF10,35,15,13,S2_wet_SR,Sentinel-2
+RF_VIF10,35,15,14,L89_wet_NBR,Landsat 8/9
+RF_VIF10,35,15,15,S2_wet_B4,Sentinel-2
+RF_VIF10,40,15,1,S2_dry_CVI,Sentinel-2
+RF_VIF10,40,15,2,DEM_elevation,DEM
+RF_VIF10,40,15,3,S2_dry_MNDWI,Sentinel-2
+RF_VIF10,40,15,4,S1_VHasc_p50,Sentinel-1
+RF_VIF10,40,15,5,S2_dry_B11,Sentinel-2
+RF_VIF10,40,15,6,L89_dry_Red,Landsat 8/9
+RF_VIF10,40,15,7,S2_wet_NBR2,Sentinel-2
+RF_VIF10,40,15,8,L89_dry_NBR2,Landsat 8/9
+RF_VIF10,40,15,9,S1_VVasc_p50,Sentinel-1
+RF_VIF10,40,15,10,S2_dry_MTCI,Sentinel-2
+RF_VIF10,40,15,11,S2_dry_B6,Sentinel-2
+RF_VIF10,40,15,12,S2_dry_SR,Sentinel-2
+RF_VIF10,40,15,13,S2_wet_SR,Sentinel-2
+RF_VIF10,40,15,14,L89_wet_NBR,Landsat 8/9
+RF_VIF10,40,15,15,S2_wet_B4,Sentinel-2
+VIF10_only,34,34,1,DEM_aspect,DEM
+VIF10_only,34,34,2,DEM_elevation,DEM
+VIF10_only,34,34,3,DEM_hillshade,DEM
+VIF10_only,34,34,4,DEM_slope,DEM
+VIF10_only,34,34,5,L89_dry_Blue,Landsat 8/9
+VIF10_only,34,34,6,L89_dry_NIR,Landsat 8/9
+VIF10_only,34,34,7,L89_wet_Blue,Landsat 8/9
+VIF10_only,34,34,8,L89_wet_MSI,Landsat 8/9
+VIF10_only,34,34,9,L89_wet_NDMI,Landsat 8/9
+VIF10_only,34,34,10,L89_wet_NIR,Landsat 8/9
+VIF10_only,34,34,11,L89_wet_SWIR2_p75,Landsat 8/9
+VIF10_only,34,34,12,S1_VH_glcm_asm_5x5,Sentinel-1
+VIF10_only,34,34,13,S1_VH_glcm_contrast_5x5,Sentinel-1
+VIF10_only,34,34,14,S1_VHdesc_p50,Sentinel-1
+VIF10_only,34,34,15,S1_VHdesc_p75,Sentinel-1
+VIF10_only,34,34,16,S1_VHdesc_std,Sentinel-1
+VIF10_only,34,34,17,S1_VVasc_p50,Sentinel-1
+VIF10_only,34,34,18,S1_VVdesc_p50,Sentinel-1
+VIF10_only,34,34,19,S1_VVdesc_std,Sentinel-1
+VIF10_only,34,34,20,S1_VVminusVH_asc_p50,Sentinel-1
+VIF10_only,34,34,21,S2_dry_B2,Sentinel-2
+VIF10_only,34,34,22,S2_dry_CVI,Sentinel-2
+VIF10_only,34,34,23,S2_dry_MTCI,Sentinel-2
+VIF10_only,34,34,24,S2_dry_NDMI,Sentinel-2
+VIF10_only,34,34,25,S2_dry_PSRI,Sentinel-2
+VIF10_only,34,34,26,S2_dry_SR,Sentinel-2
+VIF10_only,34,34,27,S2_wet_B2,Sentinel-2
+VIF10_only,34,34,28,S2_wet_B5,Sentinel-2
+VIF10_only,34,34,29,S2_wet_B6,Sentinel-2
+VIF10_only,34,34,30,S2_wet_CVI,Sentinel-2
+VIF10_only,34,34,31,S2_wet_MTCI,Sentinel-2
+VIF10_only,34,34,32,S2_wet_NDMI,Sentinel-2
+VIF10_only,34,34,33,S2_wet_PSRI,Sentinel-2
+VIF10_only,34,34,34,S2_wet_SR,Sentinel-2

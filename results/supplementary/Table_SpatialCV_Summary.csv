@@ -1,0 +1,3 @@
+﻿method,overall_accuracy_mean,overall_accuracy_sd
+Random stratified CV,0.9628571428571429,0.015114828807718009
+Spatial group CV,0.6173197654286657,0.24900164455155105

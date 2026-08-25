@@ -1,0 +1,2 @@
+﻿sample_file,n_rows,label_col,x_col,y_col,n_candidate_features,n_classes
+Table_TrainSamples_RF_Final_2024.csv,2100,class_id,_lon_geo,_lat_geo,25,10

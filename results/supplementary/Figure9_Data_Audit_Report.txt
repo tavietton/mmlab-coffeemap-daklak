@@ -1,0 +1,43 @@
+Figure 8 data audit
+===================
+
+Official statistics file:
+  data\raw\data_DakLak_Statistics\daklak_coffee_mapping_validation_2024.csv
+
+GEE district-area file:
+  data\raw\GEE_DakLak_Coffee_Area_By_District_2024.csv
+
+GEE class-area file:
+  data\raw\Table_AreaStatistics_DakLak2024.csv
+
+Matched districts:
+  15 / 15
+
+Unmatched districts:
+  none
+
+District-total mapped coffee area:
+  227,720.74 ha
+
+Per-class-table mapped coffee area:
+  227,720.74 ha
+
+Difference:
+  -0.00 ha
+  -0.0000 %
+
+Official planted coffee area:
+  214,006.00 ha
+
+Mapped coffee area:
+  227,720.74 ha
+
+Total bias:
+  +13,714.74 ha
+  +6.41 %
+
+Interpretation:
+  positive bias / overestimation
+
+Important note:
+  This is an area-level consistency assessment, not pixel-level accuracy.

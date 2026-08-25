@@ -1,0 +1,13 @@
+source_group,season_or_orbit,feature_family,n_features
+DEM/topography,static_or_annual,topographic,4
+Landsat 8/9 optical,dry,spectral_band_or_percentile,7
+Landsat 8/9 optical,dry,spectral_index,6
+Landsat 8/9 optical,wet,spectral_band_or_percentile,7
+Landsat 8/9 optical,wet,spectral_index,6
+Sentinel-1 SAR,ascending,sar_backscatter_metric,3
+Sentinel-1 SAR,descending,sar_backscatter_metric,9
+Sentinel-1 SAR,static_or_annual,texture,3
+Sentinel-2 optical,dry,spectral_band_or_percentile,9
+Sentinel-2 optical,dry,spectral_index,17
+Sentinel-2 optical,wet,spectral_band_or_percentile,9
+Sentinel-2 optical,wet,spectral_index,17

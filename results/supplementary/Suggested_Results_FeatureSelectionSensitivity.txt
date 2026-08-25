@@ -1,0 +1,3 @@
+Suggested Results placeholder:
+
+Feature-count sensitivity analysis showed whether increasing the selected predictor set beyond Top 25 produced meaningful gains in validation performance. The RF-ranking plus Pearson-correlation strategy was compared across Top 20, 25, 30, 35 and 40 predictors, and VIF-based alternatives were evaluated as supplementary robustness checks. The final model should be retained as Top 25 when larger feature sets provide only marginal gains in coffee-subclass macro F1 or overall accuracy, because the Top-25 model offers a better balance between accuracy, parsimony and interpretability.

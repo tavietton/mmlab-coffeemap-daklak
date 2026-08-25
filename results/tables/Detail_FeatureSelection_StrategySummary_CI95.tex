@@ -1,0 +1,14 @@
+\begin{tabular}{lrrrrrrrrrrrrrrrl}
+\toprule
+strategy & feature_count_target & n_selected & n_runs & OA_mean & OA_sd & MacroF1_mean & MacroF1_sd & CoffeeF1_mean & CoffeeF1_sd & OA_se & OA_ci95 & MacroF1_se & MacroF1_ci95 & CoffeeF1_se & CoffeeF1_ci95 & strategy_label \\
+\midrule
+RF_Pearson & 25 & 25 & 5 & 0.928000 & 0.002767 & 0.927869 & 0.002789 & 0.882606 & 0.003657 & 0.001237 & 0.002425 & 0.001247 & 0.002444 & 0.001636 & 0.003206 & RF_Pearson
+(n=25) \\
+RF_VIF10 & 25 & 15 & 5 & 0.924889 & 0.001267 & 0.924842 & 0.001179 & 0.865786 & 0.003932 & 0.000567 & 0.001110 & 0.000527 & 0.001034 & 0.001758 & 0.003447 & RF_VIF10
+(n=15) \\
+RF_rank_only & 25 & 25 & 5 & 0.927556 & 0.000930 & 0.927517 & 0.000862 & 0.875395 & 0.001493 & 0.000416 & 0.000815 & 0.000385 & 0.000755 & 0.000668 & 0.001308 & RF_rank_only
+(n=25) \\
+VIF10_only & 34 & 34 & 5 & 0.930444 & 0.000994 & 0.930307 & 0.000980 & 0.886025 & 0.003456 & 0.000444 & 0.000871 & 0.000438 & 0.000859 & 0.001546 & 0.003029 & VIF10_only
+(n=34) \\
+\bottomrule
+\end{tabular}

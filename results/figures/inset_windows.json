@@ -1,0 +1,44 @@
+{
+  "cu_mgar": {
+    "dist": 0.19247756873848632,
+    "fracs": {
+      "sun_coffee": 0.250896,
+      "intercrop_coffee": 0.176116,
+      "newly_planted_coffee": 0.030856,
+      "rubber": 0.006284,
+      "partially_vegetative": 0.218924,
+      "rice": 0.052044,
+      "other_upland_crops": 0.072,
+      "forest": 0.08368,
+      "water": 0.038656,
+      "built": 0.070544
+    },
+    "utm_extent": [
+      171280.0,
+      1421430.0,
+      176280.0,
+      1426430.0
+    ]
+  },
+  "krong_pak": {
+    "dist": 0.27775539350215234,
+    "fracs": {
+      "sun_coffee": 0.110712,
+      "intercrop_coffee": 0.131688,
+      "newly_planted_coffee": 0.008468,
+      "rubber": 0.002604,
+      "partially_vegetative": 0.266892,
+      "rice": 0.149168,
+      "other_upland_crops": 0.04426,
+      "forest": 0.06558,
+      "water": 0.0684,
+      "built": 0.152228
+    },
+    "utm_extent": [
+      197290.0,
+      1390190.0,
+      202290.0,
+      1395190.0
+    ]
+  }
+}

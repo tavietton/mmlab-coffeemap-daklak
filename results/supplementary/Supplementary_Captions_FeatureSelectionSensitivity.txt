@@ -1,0 +1,17 @@
+Supplementary Table Sx. Feature-count sensitivity of the RF-ranking plus Pearson-correlation selected-feature strategy.
+The table compares Top 20, 25, 30, 35 and 40 predictors selected using Random Forest ranking followed by Pearson-correlation filtering with |r| < 0.9. Values are mean ± SD across 5 Random Forest fitting seeds.
+
+Supplementary Table Sy. Feature-selection strategy comparison.
+The table compares the main RF + Pearson Top-25 strategy with RF-ranking only, RF + VIF, and VIF-only alternatives. VIF-based filtering used a threshold of VIF ≤ 10.0 and was included as a supplementary sensitivity analysis following the logic of previous coffee-mapping work in Dak Lak.
+
+Supplementary Table Sz. Class-wise F1 for key feature-selection strategies.
+The table reports class-wise F1-scores for the main RF + Pearson Top-25 strategy and VIF-based alternatives.
+
+Supplementary Table Sa. Selected predictors for key feature-selection strategies.
+The table lists predictors retained by the main RF + Pearson Top-25 strategy and the VIF-based alternatives, together with their sensor/source group.
+
+Supplementary Figure Sx. Feature-count sensitivity of the RF + Pearson selected-feature model.
+(A) Overall accuracy, macro F1 and coffee-subclass macro F1 across Top 20, 25, 30, 35 and 40 selected predictors. The dashed vertical line indicates the final Top-25 model. (B) Class-wise F1 for the three coffee production systems across feature counts.
+
+Supplementary Figure Sy. Feature-selection strategy comparison and sensor composition.
+(A) Overall accuracy, macro F1 and coffee-subclass macro F1 for RF-ranking only, RF + Pearson, RF + VIF and VIF-only strategies. (B) Sensor composition of the selected predictors for the same strategies.

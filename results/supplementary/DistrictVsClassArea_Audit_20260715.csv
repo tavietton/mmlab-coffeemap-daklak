@@ -1,0 +1,5 @@
+﻿check,district_aggregation_ha,per_class_table_ha,difference_ha,relative_difference_percent
+Total coffee: district aggregation vs per-class table,227720.74075464896,227720.74075464898,-2.9103830456733704e-11,-1.2780491737505267e-14
+Sun coffee,168126.6589086855,168126.6589086855,0.0,0.0
+Intercrop coffee,49379.48908004801,49379.48908004801,0.0,0.0
+Newly planted coffee,10214.59276591546,10214.59276591546,0.0,0.0

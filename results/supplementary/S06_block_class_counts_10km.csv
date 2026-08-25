@@ -1,0 +1,150 @@
+block_id,class_id,n_samples,class_name
+12_142,8,2,Forest
+12_143,8,7,Forest
+12_143,9,4,Water
+12_144,8,17,Forest
+12_144,9,3,Water
+12_145,9,5,Water
+13_142,8,7,Forest
+13_143,9,8,Water
+13_144,8,2,Forest
+13_145,7,27,Other upland crops
+13_145,9,48,Water
+13_146,7,60,Other upland crops
+13_147,7,2,Other upland crops
+14_142,8,2,Forest
+14_142,9,3,Water
+14_143,8,5,Forest
+14_143,9,3,Water
+14_146,7,21,Other upland crops
+14_147,7,38,Other upland crops
+15_141,7,1,Other upland crops
+15_142,7,8,Other upland crops
+15_142,9,8,Water
+15_143,9,3,Water
+15_146,8,5,Forest
+15_147,7,17,Other upland crops
+15_147,8,6,Forest
+15_148,7,3,Other upland crops
+16_137,8,3,Forest
+16_138,9,14,Water
+16_139,10,35,Built
+16_141,6,24,Rice
+16_141,9,5,Water
+16_142,7,11,Other upland crops
+16_144,9,5,Water
+16_148,8,2,Forest
+17_136,8,27,Forest
+17_139,10,42,Built
+17_140,10,37,Built
+17_141,6,104,Rice
+17_142,5,17,Partially vegetative
+17_142,6,26,Rice
+17_145,8,1,Forest
+17_146,8,5,Forest
+18_135,8,2,Forest
+18_135,9,13,Water
+18_136,8,5,Forest
+18_138,4,8,Rubber
+18_139,4,29,Rubber
+18_140,1,90,Sun coffee
+18_140,2,76,Intercrop coffee
+18_140,3,66,Newly planted coffee
+18_140,5,65,Partially vegetative
+18_140,10,12,Built
+18_141,2,41,Intercrop coffee
+18_141,6,20,Rice
+18_141,9,11,Water
+18_142,1,107,Sun coffee
+18_142,2,130,Intercrop coffee
+18_142,3,207,Newly planted coffee
+18_142,4,206,Rubber
+18_142,5,167,Partially vegetative
+18_142,6,58,Rice
+18_142,7,82,Other upland crops
+18_142,9,3,Water
+18_143,1,41,Sun coffee
+18_143,2,50,Intercrop coffee
+18_143,3,27,Newly planted coffee
+18_143,4,11,Rubber
+18_143,5,51,Partially vegetative
+18_144,9,9,Water
+18_146,8,2,Forest
+18_147,8,11,Forest
+19_135,8,6,Forest
+19_135,9,1,Water
+19_136,8,1,Forest
+19_137,9,17,Water
+19_138,4,15,Rubber
+19_138,9,41,Water
+19_139,1,20,Sun coffee
+19_139,2,3,Intercrop coffee
+19_139,4,1,Rubber
+19_139,8,1,Forest
+19_140,9,10,Water
+19_141,4,26,Rubber
+19_141,9,8,Water
+19_142,1,42,Sun coffee
+19_144,9,9,Water
+20_135,8,6,Forest
+20_136,8,3,Forest
+20_137,8,1,Forest
+20_138,9,7,Water
+20_139,8,4,Forest
+20_140,6,14,Rice
+20_140,8,11,Forest
+20_140,9,3,Water
+20_140,10,35,Built
+20_141,4,4,Rubber
+20_141,9,3,Water
+20_141,10,44,Built
+20_142,10,61,Built
+20_143,9,8,Water
+21_135,8,4,Forest
+21_136,8,5,Forest
+21_137,8,2,Forest
+21_138,7,30,Other upland crops
+21_138,8,1,Forest
+21_139,6,7,Rice
+21_139,10,4,Built
+21_140,6,35,Rice
+21_141,9,3,Water
+21_141,10,20,Built
+21_143,9,3,Water
+22_135,8,1,Forest
+22_136,8,4,Forest
+22_137,8,2,Forest
+22_140,6,10,Rice
+22_140,9,1,Water
+22_140,10,5,Built
+22_141,6,2,Rice
+22_141,9,5,Water
+22_141,10,5,Built
+22_143,8,5,Forest
+22_144,8,16,Forest
+23_136,8,9,Forest
+23_138,8,1,Forest
+23_139,9,4,Water
+23_141,9,4,Water
+23_143,8,14,Forest
+24_136,8,14,Forest
+24_137,8,12,Forest
+24_138,8,6,Forest
+24_139,8,11,Forest
+24_139,9,4,Water
+24_140,8,11,Forest
+24_141,8,2,Forest
+24_142,9,14,Water
+24_143,8,8,Forest
+25_139,8,2,Forest
+25_140,8,3,Forest
+25_142,8,4,Forest
+25_142,9,7,Water
+25_143,9,3,Water
+26_140,8,1,Forest
+26_141,8,1,Forest
+26_142,8,5,Forest
+27_140,8,8,Forest
+27_141,8,1,Forest
+28_140,8,2,Forest
+28_141,8,1,Forest

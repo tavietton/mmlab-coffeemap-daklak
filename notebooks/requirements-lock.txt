@@ -1,0 +1,24 @@
+# Exact versions verified against this repository's current results (generated
+# 2026-08-20 via `pip show` on the environment that reproduced Tables 3-6 and
+# Figures 5-10 -- see REPRODUCIBILITY.md). Prefer this over requirements.txt's
+# loose >= bounds when bit-identical reproduction matters more than picking up
+# newer library releases; a documented xgboost/scikit-learn version drift
+# already caused one real, non-bit-identical result (Supplementary Table S10,
+# see REPRODUCIBILITY.md).
+numpy==2.4.6
+pandas==2.2.3
+scipy==1.18.0
+scikit-learn==1.9.0
+matplotlib==3.11.1
+openpyxl==3.1.5
+pyyaml==6.0.2
+jupyter==1.1.1
+nbconvert==7.16.4
+nbclient==0.10.0
+ipykernel==6.29.5
+shap==0.48.0
+statsmodels==0.14.6
+tabulate==0.10.0
+pyproj==3.7.2
+pytest==9.1.1
+adjustText==1.4.0

@@ -1,0 +1,2 @@
+status,reason,detected_label_col,required_action
+not_available,"Sample table found, but coordinate columns were not detected.",class_id,"Add x/y, lon/lat, or UTM coordinate columns to the sample export."

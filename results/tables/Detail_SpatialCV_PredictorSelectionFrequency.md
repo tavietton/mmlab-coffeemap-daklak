@@ -1,0 +1,62 @@
+| Predictor         | Source group        | Season/orbit     | Feature family              |   10 km |   15 km |   20 km |   Total selected count |   Overall selection frequency (%) |
+|:------------------|:--------------------|:-----------------|:----------------------------|--------:|--------:|--------:|-----------------------:|----------------------------------:|
+| DEM_elevation     | DEM/topography      | static_or_annual | topographic                 |       5 |       5 |       5 |                     15 |                         100       |
+| L89_dry_MSI       | Landsat 8/9 optical | dry              | spectral_index              |       5 |       5 |       5 |                     15 |                         100       |
+| L89_wet_NBR2      | Landsat 8/9 optical | wet              | spectral_index              |       5 |       5 |       5 |                     15 |                         100       |
+| S2_dry_CVI        | Sentinel-2 optical  | dry              | spectral_index              |       5 |       5 |       5 |                     15 |                         100       |
+| S2_dry_MNDWI      | Sentinel-2 optical  | dry              | spectral_index              |       5 |       5 |       5 |                     15 |                         100       |
+| S2_dry_NDI        | Sentinel-2 optical  | dry              | spectral_index              |       5 |       5 |       5 |                     15 |                         100       |
+| S2_wet_NBR2       | Sentinel-2 optical  | wet              | spectral_index              |       5 |       5 |       5 |                     15 |                         100       |
+| S1_VHasc_p50      | Sentinel-1 SAR      | ascending        | sar_backscatter_metric      |       5 |       5 |       4 |                     14 |                          93.3333  |
+| S2_wet_B12        | Sentinel-2 optical  | wet              | spectral_band_or_percentile |       5 |       5 |       4 |                     14 |                          93.3333  |
+| S1_VVasc_p50      | Sentinel-1 SAR      | ascending        | sar_backscatter_metric      |       5 |       4 |       4 |                     13 |                          86.6667  |
+| S2_dry_B11        | Sentinel-2 optical  | dry              | spectral_band_or_percentile |       4 |       5 |       4 |                     13 |                          86.6667  |
+| S2_dry_B2         | Sentinel-2 optical  | dry              | spectral_band_or_percentile |       4 |       5 |       4 |                     13 |                          86.6667  |
+| S2_wet_CVI        | Sentinel-2 optical  | wet              | spectral_index              |       5 |       4 |       4 |                     13 |                          86.6667  |
+| S2_dry_NBR2       | Sentinel-2 optical  | dry              | spectral_index              |       4 |       3 |       5 |                     12 |                          80       |
+| L89_dry_NDVI      | Landsat 8/9 optical | dry              | spectral_index              |       2 |       4 |       4 |                     10 |                          66.6667  |
+| L89_dry_Green     | Landsat 8/9 optical | dry              | spectral_band_or_percentile |       3 |       4 |       2 |                      9 |                          60       |
+| S2_dry_PSRI       | Sentinel-2 optical  | dry              | spectral_index              |       3 |       2 |       4 |                      9 |                          60       |
+| S2_dry_SR         | Sentinel-2 optical  | dry              | spectral_index              |       3 |       3 |       3 |                      9 |                          60       |
+| L89_dry_NDMI      | Landsat 8/9 optical | dry              | spectral_index              |       5 |       1 |       2 |                      8 |                          53.3333  |
+| L89_dry_SWIR2     | Landsat 8/9 optical | dry              | spectral_band_or_percentile |       3 |       2 |       2 |                      7 |                          46.6667  |
+| S2_dry_B5         | Sentinel-2 optical  | dry              | spectral_band_or_percentile |       3 |       3 |       1 |                      7 |                          46.6667  |
+| S2_dry_B6         | Sentinel-2 optical  | dry              | spectral_band_or_percentile |       2 |       3 |       2 |                      7 |                          46.6667  |
+| S2_dry_NDMI       | Sentinel-2 optical  | dry              | spectral_index              |       1 |       2 |       4 |                      7 |                          46.6667  |
+| S2_wet_B11        | Sentinel-2 optical  | wet              | spectral_band_or_percentile |       2 |       1 |       3 |                      6 |                          40       |
+| S2_wet_GNDVI      | Sentinel-2 optical  | wet              | spectral_index              |       2 |       2 |       2 |                      6 |                          40       |
+| S2_wet_NDWI       | Sentinel-2 optical  | wet              | spectral_index              |       2 |       1 |       3 |                      6 |                          40       |
+| S2_wet_NLI        | Sentinel-2 optical  | wet              | spectral_index              |       3 |       1 |       2 |                      6 |                          40       |
+| S2_dry_GNDVI      | Sentinel-2 optical  | dry              | spectral_index              |       2 |       1 |       2 |                      5 |                          33.3333  |
+| L89_dry_BSI       | Landsat 8/9 optical | dry              | spectral_index              |       0 |       2 |       2 |                      4 |                          26.6667  |
+| L89_dry_Red       | Landsat 8/9 optical | dry              | spectral_band_or_percentile |       2 |       0 |       2 |                      4 |                          26.6667  |
+| L89_dry_SWIR2_p75 | Landsat 8/9 optical | dry              | spectral_band_or_percentile |       1 |       1 |       2 |                      4 |                          26.6667  |
+| S2_wet_CI_RE      | Sentinel-2 optical  | wet              | spectral_index              |       0 |       3 |       1 |                      4 |                          26.6667  |
+| S2_wet_SR         | Sentinel-2 optical  | wet              | spectral_index              |       1 |       1 |       2 |                      4 |                          26.6667  |
+| DEM_slope         | DEM/topography      | static_or_annual | topographic                 |       0 |       2 |       1 |                      3 |                          20       |
+| L89_dry_NIR       | Landsat 8/9 optical | dry              | spectral_band_or_percentile |       1 |       1 |       1 |                      3 |                          20       |
+| S2_dry_B12        | Sentinel-2 optical  | dry              | spectral_band_or_percentile |       1 |       1 |       1 |                      3 |                          20       |
+| S2_dry_B4         | Sentinel-2 optical  | dry              | spectral_band_or_percentile |       2 |       1 |       0 |                      3 |                          20       |
+| S2_dry_B7         | Sentinel-2 optical  | dry              | spectral_band_or_percentile |       2 |       0 |       1 |                      3 |                          20       |
+| S2_dry_MTCI       | Sentinel-2 optical  | dry              | spectral_index              |       3 |       0 |       0 |                      3 |                          20       |
+| S2_dry_NDWI       | Sentinel-2 optical  | dry              | spectral_index              |       0 |       2 |       1 |                      3 |                          20       |
+| S2_dry_NLI        | Sentinel-2 optical  | dry              | spectral_index              |       2 |       0 |       1 |                      3 |                          20       |
+| S2_wet_B8         | Sentinel-2 optical  | wet              | spectral_band_or_percentile |       1 |       2 |       0 |                      3 |                          20       |
+| S2_wet_MTCI       | Sentinel-2 optical  | wet              | spectral_index              |       1 |       2 |       0 |                      3 |                          20       |
+| S2_wet_NBR        | Sentinel-2 optical  | wet              | spectral_index              |       0 |       1 |       2 |                      3 |                          20       |
+| L89_dry_Blue      | Landsat 8/9 optical | dry              | spectral_band_or_percentile |       0 |       1 |       1 |                      2 |                          13.3333  |
+| L89_dry_NBR2      | Landsat 8/9 optical | dry              | spectral_index              |       1 |       1 |       0 |                      2 |                          13.3333  |
+| L89_wet_SWIR2     | Landsat 8/9 optical | wet              | spectral_band_or_percentile |       1 |       1 |       0 |                      2 |                          13.3333  |
+| S2_dry_B3         | Sentinel-2 optical  | dry              | spectral_band_or_percentile |       1 |       0 |       1 |                      2 |                          13.3333  |
+| S2_dry_B8         | Sentinel-2 optical  | dry              | spectral_band_or_percentile |       0 |       1 |       1 |                      2 |                          13.3333  |
+| S2_wet_B6         | Sentinel-2 optical  | wet              | spectral_band_or_percentile |       0 |       1 |       1 |                      2 |                          13.3333  |
+| S2_wet_B7         | Sentinel-2 optical  | wet              | spectral_band_or_percentile |       0 |       0 |       2 |                      2 |                          13.3333  |
+| L89_dry_NBR       | Landsat 8/9 optical | dry              | spectral_index              |       0 |       1 |       0 |                      1 |                           6.66667 |
+| L89_dry_SWIR1     | Landsat 8/9 optical | dry              | spectral_band_or_percentile |       0 |       0 |       1 |                      1 |                           6.66667 |
+| L89_wet_NBR       | Landsat 8/9 optical | wet              | spectral_index              |       0 |       1 |       0 |                      1 |                           6.66667 |
+| S2_dry_CI_RE      | Sentinel-2 optical  | dry              | spectral_index              |       0 |       1 |       0 |                      1 |                           6.66667 |
+| S2_dry_NBR        | Sentinel-2 optical  | dry              | spectral_index              |       0 |       1 |       0 |                      1 |                           6.66667 |
+| S2_dry_RDVI       | Sentinel-2 optical  | dry              | spectral_index              |       1 |       0 |       0 |                      1 |                           6.66667 |
+| S2_wet_MSR        | Sentinel-2 optical  | wet              | spectral_index              |       0 |       0 |       1 |                      1 |                           6.66667 |
+| S2_wet_NDVI_RE    | Sentinel-2 optical  | wet              | spectral_index              |       0 |       1 |       0 |                      1 |                           6.66667 |
+| S2_wet_RDVI       | Sentinel-2 optical  | wet              | spectral_index              |       1 |       0 |       0 |                      1 |                           6.66667 |

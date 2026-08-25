@@ -1,0 +1,2 @@
+﻿model,OA,Kappa,MacroF1,CoffeeBinaryF1,CoffeeSubclassMacroF1,n_train,n_val,n_features,rf_trees,rf_max_features,rf_max_samples,rf_min_samples_leaf,random_state
+Python_RF_interpretation_clone,0.9355555555555556,0.928395061728395,0.9353393103833463,0.9740740740740741,0.9027954501638712,2100,900,25,2000,3,0.65,1,2024

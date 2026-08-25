@@ -1,0 +1,21 @@
+split_origin,class_id,n,class_name
+GEE_train_export,1,210,Sun coffee
+GEE_train_export,2,210,Intercrop coffee
+GEE_train_export,3,210,Newly planted coffee
+GEE_train_export,4,210,Rubber
+GEE_train_export,5,210,Partially vegetative
+GEE_train_export,6,210,Rice
+GEE_train_export,7,210,Other upland crops
+GEE_train_export,8,210,Forest
+GEE_train_export,9,210,Water
+GEE_train_export,10,210,Built
+GEE_validation_export,1,90,Sun coffee
+GEE_validation_export,2,90,Intercrop coffee
+GEE_validation_export,3,90,Newly planted coffee
+GEE_validation_export,4,90,Rubber
+GEE_validation_export,5,90,Partially vegetative
+GEE_validation_export,6,90,Rice
+GEE_validation_export,7,90,Other upland crops
+GEE_validation_export,8,90,Forest
+GEE_validation_export,9,90,Water
+GEE_validation_export,10,90,Built

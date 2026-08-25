@@ -1,0 +1,21 @@
+{
+  "n_samples_model": 3000,
+  "n_features_raw": 97,
+  "n_features_used": 97,
+  "dedupe_mode": "audit_only",
+  "drop_invalid_geometry": true,
+  "drop_global_bad_features": true,
+  "n_bad_global_features": 0,
+  "class_counts": {
+    "1": 300,
+    "2": 300,
+    "3": 300,
+    "4": 300,
+    "5": 300,
+    "6": 300,
+    "7": 300,
+    "8": 300,
+    "9": 300,
+    "10": 300
+  }
+}

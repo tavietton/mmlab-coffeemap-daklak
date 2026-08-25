@@ -1,0 +1,11 @@
+﻿method,fold,overall_accuracy
+Random stratified CV,1,0.9571428571428572
+Random stratified CV,2,0.9523809523809523
+Random stratified CV,3,0.9476190476190476
+Random stratified CV,4,0.9738095238095238
+Random stratified CV,5,0.9833333333333333
+Spatial group CV,1,0.3283582089552239
+Spatial group CV,2,0.43705463182897863
+Spatial group CV,3,0.5761421319796954
+Spatial group CV,4,0.8780487804878049
+Spatial group CV,5,0.8669950738916257

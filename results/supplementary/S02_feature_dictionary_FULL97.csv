@@ -1,0 +1,98 @@
+feature,source_group,season_or_orbit,feature_family
+DEM_aspect,DEM/topography,static_or_annual,topographic
+DEM_elevation,DEM/topography,static_or_annual,topographic
+DEM_hillshade,DEM/topography,static_or_annual,topographic
+DEM_slope,DEM/topography,static_or_annual,topographic
+L89_dry_Blue,Landsat 8/9 optical,dry,spectral_band_or_percentile
+L89_dry_Green,Landsat 8/9 optical,dry,spectral_band_or_percentile
+L89_dry_NIR,Landsat 8/9 optical,dry,spectral_band_or_percentile
+L89_dry_Red,Landsat 8/9 optical,dry,spectral_band_or_percentile
+L89_dry_SWIR1,Landsat 8/9 optical,dry,spectral_band_or_percentile
+L89_dry_SWIR2,Landsat 8/9 optical,dry,spectral_band_or_percentile
+L89_dry_SWIR2_p75,Landsat 8/9 optical,dry,spectral_band_or_percentile
+L89_dry_BSI,Landsat 8/9 optical,dry,spectral_index
+L89_dry_MSI,Landsat 8/9 optical,dry,spectral_index
+L89_dry_NBR,Landsat 8/9 optical,dry,spectral_index
+L89_dry_NBR2,Landsat 8/9 optical,dry,spectral_index
+L89_dry_NDMI,Landsat 8/9 optical,dry,spectral_index
+L89_dry_NDVI,Landsat 8/9 optical,dry,spectral_index
+L89_wet_Blue,Landsat 8/9 optical,wet,spectral_band_or_percentile
+L89_wet_Green,Landsat 8/9 optical,wet,spectral_band_or_percentile
+L89_wet_NIR,Landsat 8/9 optical,wet,spectral_band_or_percentile
+L89_wet_Red,Landsat 8/9 optical,wet,spectral_band_or_percentile
+L89_wet_SWIR1,Landsat 8/9 optical,wet,spectral_band_or_percentile
+L89_wet_SWIR2,Landsat 8/9 optical,wet,spectral_band_or_percentile
+L89_wet_SWIR2_p75,Landsat 8/9 optical,wet,spectral_band_or_percentile
+L89_wet_BSI,Landsat 8/9 optical,wet,spectral_index
+L89_wet_MSI,Landsat 8/9 optical,wet,spectral_index
+L89_wet_NBR,Landsat 8/9 optical,wet,spectral_index
+L89_wet_NBR2,Landsat 8/9 optical,wet,spectral_index
+L89_wet_NDMI,Landsat 8/9 optical,wet,spectral_index
+L89_wet_NDVI,Landsat 8/9 optical,wet,spectral_index
+S1_VHasc_p50,Sentinel-1 SAR,ascending,sar_backscatter_metric
+S1_VVasc_p50,Sentinel-1 SAR,ascending,sar_backscatter_metric
+S1_VVminusVH_asc_p50,Sentinel-1 SAR,ascending,sar_backscatter_metric
+S1_VHdesc_p25,Sentinel-1 SAR,descending,sar_backscatter_metric
+S1_VHdesc_p50,Sentinel-1 SAR,descending,sar_backscatter_metric
+S1_VHdesc_p75,Sentinel-1 SAR,descending,sar_backscatter_metric
+S1_VHdesc_std,Sentinel-1 SAR,descending,sar_backscatter_metric
+S1_VVdesc_p25,Sentinel-1 SAR,descending,sar_backscatter_metric
+S1_VVdesc_p50,Sentinel-1 SAR,descending,sar_backscatter_metric
+S1_VVdesc_p75,Sentinel-1 SAR,descending,sar_backscatter_metric
+S1_VVdesc_std,Sentinel-1 SAR,descending,sar_backscatter_metric
+S1_VVminusVH_desc_p50,Sentinel-1 SAR,descending,sar_backscatter_metric
+S1_VH_glcm_asm_5x5,Sentinel-1 SAR,static_or_annual,texture
+S1_VH_glcm_contrast_5x5,Sentinel-1 SAR,static_or_annual,texture
+S1_VH_glcm_ent_5x5,Sentinel-1 SAR,static_or_annual,texture
+S2_dry_B11,Sentinel-2 optical,dry,spectral_band_or_percentile
+S2_dry_B12,Sentinel-2 optical,dry,spectral_band_or_percentile
+S2_dry_B2,Sentinel-2 optical,dry,spectral_band_or_percentile
+S2_dry_B3,Sentinel-2 optical,dry,spectral_band_or_percentile
+S2_dry_B4,Sentinel-2 optical,dry,spectral_band_or_percentile
+S2_dry_B5,Sentinel-2 optical,dry,spectral_band_or_percentile
+S2_dry_B6,Sentinel-2 optical,dry,spectral_band_or_percentile
+S2_dry_B7,Sentinel-2 optical,dry,spectral_band_or_percentile
+S2_dry_B8,Sentinel-2 optical,dry,spectral_band_or_percentile
+S2_dry_CI_RE,Sentinel-2 optical,dry,spectral_index
+S2_dry_CVI,Sentinel-2 optical,dry,spectral_index
+S2_dry_GNDVI,Sentinel-2 optical,dry,spectral_index
+S2_dry_MNDWI,Sentinel-2 optical,dry,spectral_index
+S2_dry_MSR,Sentinel-2 optical,dry,spectral_index
+S2_dry_MTCI,Sentinel-2 optical,dry,spectral_index
+S2_dry_NBR,Sentinel-2 optical,dry,spectral_index
+S2_dry_NBR2,Sentinel-2 optical,dry,spectral_index
+S2_dry_NDI,Sentinel-2 optical,dry,spectral_index
+S2_dry_NDMI,Sentinel-2 optical,dry,spectral_index
+S2_dry_NDVI,Sentinel-2 optical,dry,spectral_index
+S2_dry_NDVI_RE,Sentinel-2 optical,dry,spectral_index
+S2_dry_NDWI,Sentinel-2 optical,dry,spectral_index
+S2_dry_NLI,Sentinel-2 optical,dry,spectral_index
+S2_dry_PSRI,Sentinel-2 optical,dry,spectral_index
+S2_dry_RDVI,Sentinel-2 optical,dry,spectral_index
+S2_dry_SR,Sentinel-2 optical,dry,spectral_index
+S2_wet_B11,Sentinel-2 optical,wet,spectral_band_or_percentile
+S2_wet_B12,Sentinel-2 optical,wet,spectral_band_or_percentile
+S2_wet_B2,Sentinel-2 optical,wet,spectral_band_or_percentile
+S2_wet_B3,Sentinel-2 optical,wet,spectral_band_or_percentile
+S2_wet_B4,Sentinel-2 optical,wet,spectral_band_or_percentile
+S2_wet_B5,Sentinel-2 optical,wet,spectral_band_or_percentile
+S2_wet_B6,Sentinel-2 optical,wet,spectral_band_or_percentile
+S2_wet_B7,Sentinel-2 optical,wet,spectral_band_or_percentile
+S2_wet_B8,Sentinel-2 optical,wet,spectral_band_or_percentile
+S2_wet_CI_RE,Sentinel-2 optical,wet,spectral_index
+S2_wet_CVI,Sentinel-2 optical,wet,spectral_index
+S2_wet_GNDVI,Sentinel-2 optical,wet,spectral_index
+S2_wet_MNDWI,Sentinel-2 optical,wet,spectral_index
+S2_wet_MSR,Sentinel-2 optical,wet,spectral_index
+S2_wet_MTCI,Sentinel-2 optical,wet,spectral_index
+S2_wet_NBR,Sentinel-2 optical,wet,spectral_index
+S2_wet_NBR2,Sentinel-2 optical,wet,spectral_index
+S2_wet_NDI,Sentinel-2 optical,wet,spectral_index
+S2_wet_NDMI,Sentinel-2 optical,wet,spectral_index
+S2_wet_NDVI,Sentinel-2 optical,wet,spectral_index
+S2_wet_NDVI_RE,Sentinel-2 optical,wet,spectral_index
+S2_wet_NDWI,Sentinel-2 optical,wet,spectral_index
+S2_wet_NLI,Sentinel-2 optical,wet,spectral_index
+S2_wet_PSRI,Sentinel-2 optical,wet,spectral_index
+S2_wet_RDVI,Sentinel-2 optical,wet,spectral_index
+S2_wet_SR,Sentinel-2 optical,wet,spectral_index

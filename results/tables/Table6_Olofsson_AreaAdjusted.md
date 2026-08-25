@@ -1,0 +1,15 @@
+Table 6. Error-adjusted area estimates for land-cover and coffee production system classes in Dak Lak Province, Vietnam, 2024, following the estimator of Olofsson et al. (2014). Adjusted area = A_total × Σ_i W_i × q_ij, where W_i is the mapped area proportion of class i and q_ij is the confusion-matrix row proportion. 95% confidence intervals are computed from the variance estimator of Olofsson et al. (2014) Eq. 25.
+
+| Class ID   | Class                | Coffee subtype   |   Mapped area (ha) |   Mapped area (%) |   Adjusted area (ha) | Adj. area 95% CI (ha)   |   Adj. area (%) |   Bias (ha) |   Bias (%) |
+|:-----------|:---------------------|:-----------------|-------------------:|------------------:|---------------------:|:------------------------|----------------:|------------:|-----------:|
+| 1          | Sun coffee           | Coffee           |             168127 |             12.9  |               167974 | 18934                   |           12.89 |        -153 |       -0.1 |
+| 2          | Intercrop coffee     | Coffee           |              49379 |              3.79 |                57211 | 14100                   |            4.39 |        7832 |       15.9 |
+| 3          | Newly planted coffee | Coffee           |              10215 |              0.78 |                14868 | 5859                    |            1.14 |        4653 |       45.6 |
+| 4          | Rubber               | —                |              21315 |              1.64 |                50359 | 21857                   |            3.87 |       29044 |      136.3 |
+| 5          | Partially vegetative | —                |             185967 |             14.27 |               174424 | 10729                   |           13.39 |      -11543 |       -6.2 |
+| 6          | Rice                 | —                |              78547 |              6.03 |                87721 | 6954                    |            6.73 |        9174 |       11.7 |
+| 7          | Other upland crops   | —                |             166205 |             12.76 |               171577 | 17391                   |           13.17 |        5372 |        3.2 |
+| 8          | Forest               | —                |             511562 |             39.26 |               468054 | 30187                   |           35.92 |      -43508 |       -8.5 |
+| 9          | Water                | —                |              34455 |              2.64 |                37422 | 5488                    |            2.87 |        2967 |        8.6 |
+| 10         | Built                | —                |              77096 |              5.92 |                73258 | 4074                    |            5.62 |       -3838 |       -5   |
+| —          | TOTAL                | —                |            1302869 |            100    |              1302869 | —                       |          100    |           0 |        0   |

@@ -1,0 +1,5 @@
+| metric | test | n_paired_units | statistic | p_value |
+| --- | --- | --- | --- | --- |
+| Overall accuracy | Friedman test | 5 | 12.326086956521742 | 0.006345651451756521 |
+| Macro F1 | Friedman test | 5 | 10.679999999999993 | 0.0135882729582177 |
+| Coffee F1 | Friedman test | 5 | 13.560000000000002 | 0.0035695719978437583 |

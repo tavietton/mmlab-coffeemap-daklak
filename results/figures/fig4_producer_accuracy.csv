@@ -1,0 +1,11 @@
+﻿class_id,class_name,producer_accuracy_percent
+1,Sun coffee,80.0
+2,Intercrop coffee,92.22222222222223
+3,Newly planted coffee,96.66666666666667
+4,Rubber,91.11111111111111
+5,Partially vegetative,96.66666666666667
+6,Rice,91.11111111111111
+7,Other upland crops,95.55555555555556
+8,Forest,97.77777777777777
+9,Water,96.66666666666667
+10,Built,96.66666666666667

@@ -1,0 +1,103 @@
+block_id,class_id,n_samples,class_name
+10_94,7,14,Other upland crops
+10_94,9,5,Water
+10_95,7,3,Other upland crops
+10_95,9,11,Water
+10_96,9,1,Water
+10_97,8,5,Forest
+10_98,7,20,Other upland crops
+10_98,8,8,Forest
+11_90,8,15,Forest
+11_91,8,15,Forest
+11_92,9,14,Water
+11_92,10,7,Built
+11_93,10,107,Built
+11_94,6,128,Rice
+11_94,7,3,Other upland crops
+11_95,5,17,Partially vegetative
+11_95,6,26,Rice
+11_96,9,4,Water
+11_97,8,6,Forest
+12_90,8,9,Forest
+12_90,9,14,Water
+12_91,9,17,Water
+12_92,4,53,Rubber
+12_92,9,30,Water
+12_93,1,90,Sun coffee
+12_93,2,76,Intercrop coffee
+12_93,3,66,Newly planted coffee
+12_93,5,65,Partially vegetative
+12_93,10,12,Built
+12_94,2,41,Intercrop coffee
+12_94,4,98,Rubber
+12_94,6,20,Rice
+12_94,7,12,Other upland crops
+12_94,9,14,Water
+12_95,1,190,Sun coffee
+12_95,2,180,Intercrop coffee
+12_95,3,234,Newly planted coffee
+12_95,4,132,Rubber
+12_95,5,218,Partially vegetative
+12_95,6,58,Rice
+12_95,7,70,Other upland crops
+12_96,9,18,Water
+12_97,8,2,Forest
+12_98,8,11,Forest
+13_90,8,13,Forest
+13_91,8,2,Forest
+13_92,9,18,Water
+13_93,1,20,Sun coffee
+13_93,2,3,Intercrop coffee
+13_93,6,14,Rice
+13_93,8,16,Forest
+13_93,9,13,Water
+13_93,10,35,Built
+13_94,4,17,Rubber
+13_94,9,11,Water
+13_94,10,100,Built
+13_95,9,8,Water
+13_95,10,5,Built
+14_90,8,10,Forest
+14_91,8,3,Forest
+14_92,7,30,Other upland crops
+14_92,8,1,Forest
+14_93,6,52,Rice
+14_93,9,1,Water
+14_93,10,9,Built
+14_94,6,2,Rice
+14_94,9,5,Water
+14_94,10,25,Built
+14_95,9,3,Water
+14_96,8,3,Forest
+15_90,8,4,Forest
+15_91,8,10,Forest
+15_92,8,1,Forest
+15_92,9,4,Water
+15_94,9,7,Water
+15_95,8,19,Forest
+15_96,8,13,Forest
+16_90,8,10,Forest
+16_91,8,16,Forest
+16_92,8,14,Forest
+16_93,8,15,Forest
+16_93,9,4,Water
+16_94,8,4,Forest
+16_95,8,8,Forest
+16_95,9,24,Water
+17_93,8,5,Forest
+17_94,8,8,Forest
+18_93,8,10,Forest
+18_94,8,2,Forest
+8_95,8,10,Forest
+8_95,9,5,Water
+8_96,8,17,Forest
+8_96,9,3,Water
+8_97,7,20,Other upland crops
+8_97,9,46,Water
+9_94,8,8,Forest
+9_95,8,5,Forest
+9_95,9,13,Water
+9_96,8,2,Forest
+9_97,7,88,Other upland crops
+9_97,9,7,Water
+9_98,7,40,Other upland crops

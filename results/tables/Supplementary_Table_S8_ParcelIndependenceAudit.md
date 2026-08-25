@@ -1,0 +1,12 @@
+| Class | Nominal points | Independent parcels | Min. inter-parcel distance (m) | Clean training rows | Independent parcels in clean training | F1, original (Table 4) | F1, leakage-removed training |
+|---|---|---|---|---|---|---|---|
+| Sun coffee | 300 | 190 | 30.9 | 181 | 111 | 0.842 | 0.896 |
+| Intercrop coffee | 300 | 97 | 28.9 | 52 | 29 | 0.878 | 0.88 |
+| Newly planted coffee | 300 | 69 | 33.0 | 7 | 7 | 0.972 | 0.868 |
+| Rubber | 300 | 81 | 187.1 | 3 | 2 | 0.948 | 0.022 |
+| Partially vegetative | 300 | 171 | 38.0 | 176 | 95 |  | 0.804 |
+| Rice | 300 | 200 | 24.3 | 189 | 124 |  | 0.978 |
+| Other upland crops | 300 | 116 | 61.2 | 90 | 42 |  | 0.89 |
+| Forest | 300 | 200 | 276.4 | 186 | 123 |  | 0.695 |
+| Water | 300 | 201 | 70.9 | 195 | 121 |  | 0.989 |
+| Built | 300 | 199 | 51.2 | 185 | 126 |  | 0.978 |

@@ -1,0 +1,15 @@
+Supplementary Table S5. Naive and Olofsson-adjusted producer's accuracy (PA), user's accuracy (UA), and overall accuracy (OA) for the final selected-feature Random Forest model. Adjusted estimates weight each class by its mapped area proportion (Olofsson et al. 2014). 95% confidence intervals are computed from Equations 23–26 in Olofsson et al. (2014).
+
+| Class ID   | Class                | Naive UA (%)   | Naive PA (%)   | Naive F1   |   Adj. UA (%) | Adj. UA 95% CI   | Adj. PA (%)   | Adj. PA 95% CI   |   n_val_reference |   n_val_mapped |
+|:-----------|:---------------------|:---------------|:---------------|:-----------|--------------:|:-----------------|:--------------|:-----------------|------------------:|---------------:|
+| 1          | Sun coffee           | 88.9           | 80.0           | 0.842      |         88.9  | ±6.9             | 89.0          | ±10.8            |                90 |             81 |
+| 2          | Intercrop coffee     | 83.8           | 92.2           | 0.878      |         83.8  | ±7.3             | 72.4          | ±24.3            |                90 |             99 |
+| 3          | Newly planted coffee | 97.8           | 96.7           | 0.972      |         97.8  | ±3.1             | 67.2          | ±39.4            |                90 |             89 |
+| 4          | Rubber               | 98.8           | 91.1           | 0.948      |         98.8  | ±2.4             | 41.8          | ±43.4            |                90 |             83 |
+| 5          | Partially vegetative | 92.6           | 96.7           | 0.946      |         92.6  | ±5.3             | 98.7          | ±6.1             |                90 |             94 |
+| 6          | Rice                 | 100.0          | 91.1           | 0.953      |        100    | ±0.0             | 89.5          | ±7.9             |                90 |             82 |
+| 7          | Other upland crops   | 94.5           | 95.6           | 0.95       |         94.5  | ±4.7             | 91.5          | ±10.0            |                90 |             91 |
+| 8          | Forest               | 90.7           | 97.8           | 0.941      |         90.7  | ±5.8             | 99.2          | ±6.4             |                90 |             97 |
+| 9          | Water                | 95.6           | 96.7           | 0.961      |         95.6  | ±4.2             | 88.0          | ±14.5            |                90 |             91 |
+| 10         | Built                | 93.5           | 96.7           | 0.951      |         93.5  | ±5.0             | 98.4          | ±5.5             |                90 |             93 |
+| OA         | Overall              | —              | —              | —          |         92.01 | ±2.67            | —             | —                |               900 |            900 |

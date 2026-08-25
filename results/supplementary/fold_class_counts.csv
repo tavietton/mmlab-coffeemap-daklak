@@ -1,0 +1,151 @@
+block_size_km,fold,class_id,class_name,n_train,n_test
+10,1,1,Sun coffee,193,107
+10,1,2,Intercrop coffee,170,130
+10,1,3,Newly planted coffee,93,207
+10,1,4,Rubber,94,206
+10,1,5,Partially vegetative,133,167
+10,1,6,Rice,242,58
+10,1,7,Other upland crops,218,82
+10,1,8,Forest,240,60
+10,1,9,Water,242,58
+10,1,10,Built,228,72
+10,2,1,Sun coffee,210,90
+10,2,2,Intercrop coffee,224,76
+10,2,3,Newly planted coffee,234,66
+10,2,4,Rubber,285,15
+10,2,5,Partially vegetative,235,65
+10,2,6,Rice,243,57
+10,2,7,Other upland crops,250,50
+10,2,8,Forest,240,60
+10,2,9,Water,239,61
+10,2,10,Built,239,61
+10,3,1,Sun coffee,258,42
+10,3,2,Intercrop coffee,300,0
+10,3,3,Newly planted coffee,300,0
+10,3,4,Rubber,292,8
+10,3,5,Partially vegetative,300,0
+10,3,6,Rice,196,104
+10,3,7,Other upland crops,249,51
+10,3,8,Forest,240,60
+10,3,9,Water,241,59
+10,3,10,Built,258,42
+10,4,1,Sun coffee,259,41
+10,4,2,Intercrop coffee,250,50
+10,4,3,Newly planted coffee,273,27
+10,4,4,Rubber,259,41
+10,4,5,Partially vegetative,249,51
+10,4,6,Rice,265,35
+10,4,7,Other upland crops,243,57
+10,4,8,Forest,240,60
+10,4,9,Water,239,61
+10,4,10,Built,236,64
+10,5,1,Sun coffee,280,20
+10,5,2,Intercrop coffee,256,44
+10,5,3,Newly planted coffee,300,0
+10,5,4,Rubber,270,30
+10,5,5,Partially vegetative,283,17
+10,5,6,Rice,254,46
+10,5,7,Other upland crops,240,60
+10,5,8,Forest,240,60
+10,5,9,Water,239,61
+10,5,10,Built,239,61
+15,1,1,Sun coffee,280,20
+15,1,2,Intercrop coffee,297,3
+15,1,3,Newly planted coffee,300,0
+15,1,4,Rubber,247,53
+15,1,5,Partially vegetative,300,0
+15,1,6,Rice,158,142
+15,1,7,Other upland crops,243,57
+15,1,8,Forest,240,60
+15,1,9,Water,240,60
+15,1,10,Built,260,40
+15,2,1,Sun coffee,210,90
+15,2,2,Intercrop coffee,224,76
+15,2,3,Newly planted coffee,234,66
+15,2,4,Rubber,300,0
+15,2,5,Partially vegetative,235,65
+15,2,6,Rice,248,52
+15,2,7,Other upland crops,209,91
+15,2,8,Forest,240,60
+15,2,9,Water,240,60
+15,2,10,Built,279,21
+15,3,1,Sun coffee,300,0
+15,3,2,Intercrop coffee,259,41
+15,3,3,Newly planted coffee,300,0
+15,3,4,Rubber,202,98
+15,3,5,Partially vegetative,300,0
+15,3,6,Rice,280,20
+15,3,7,Other upland crops,258,42
+15,3,8,Forest,240,60
+15,3,9,Water,240,60
+15,3,10,Built,186,114
+15,4,1,Sun coffee,110,190
+15,4,2,Intercrop coffee,120,180
+15,4,3,Newly planted coffee,66,234
+15,4,4,Rubber,168,132
+15,4,5,Partially vegetative,82,218
+15,4,6,Rice,240,60
+15,4,7,Other upland crops,230,70
+15,4,8,Forest,240,60
+15,4,9,Water,240,60
+15,4,10,Built,275,25
+15,5,1,Sun coffee,300,0
+15,5,2,Intercrop coffee,300,0
+15,5,3,Newly planted coffee,300,0
+15,5,4,Rubber,283,17
+15,5,5,Partially vegetative,283,17
+15,5,6,Rice,274,26
+15,5,7,Other upland crops,260,40
+15,5,8,Forest,240,60
+15,5,9,Water,240,60
+15,5,10,Built,200,100
+20,1,1,Sun coffee,110,190
+20,1,2,Intercrop coffee,120,180
+20,1,3,Newly planted coffee,66,234
+20,1,4,Rubber,83,217
+20,1,5,Partially vegetative,82,218
+20,1,6,Rice,230,70
+20,1,7,Other upland crops,210,90
+20,1,8,Forest,241,59
+20,1,9,Water,245,55
+20,1,10,Built,229,71
+20,2,1,Sun coffee,280,20
+20,2,2,Intercrop coffee,297,3
+20,2,3,Newly planted coffee,300,0
+20,2,4,Rubber,247,53
+20,2,5,Partially vegetative,300,0
+20,2,6,Rice,165,135
+20,2,7,Other upland crops,269,31
+20,2,8,Forest,241,59
+20,2,9,Water,247,53
+20,2,10,Built,259,41
+20,3,1,Sun coffee,210,90
+20,3,2,Intercrop coffee,183,117
+20,3,3,Newly planted coffee,234,66
+20,3,4,Rubber,274,26
+20,3,5,Partially vegetative,235,65
+20,3,6,Rice,280,20
+20,3,7,Other upland crops,270,30
+20,3,8,Forest,240,60
+20,3,9,Water,211,89
+20,3,10,Built,288,12
+20,4,1,Sun coffee,300,0
+20,4,2,Intercrop coffee,300,0
+20,4,3,Newly planted coffee,300,0
+20,4,4,Rubber,296,4
+20,4,5,Partially vegetative,300,0
+20,4,6,Rice,251,49
+20,4,7,Other upland crops,238,62
+20,4,8,Forest,240,60
+20,4,9,Water,246,54
+20,4,10,Built,201,99
+20,5,1,Sun coffee,300,0
+20,5,2,Intercrop coffee,300,0
+20,5,3,Newly planted coffee,300,0
+20,5,4,Rubber,300,0
+20,5,5,Partially vegetative,283,17
+20,5,6,Rice,274,26
+20,5,7,Other upland crops,213,87
+20,5,8,Forest,238,62
+20,5,9,Water,251,49
+20,5,10,Built,223,77

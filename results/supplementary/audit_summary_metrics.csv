@@ -1,0 +1,22 @@
+﻿section,metric,value
+training sample table,n_rows,2100
+training sample table,n_features,97
+training sample table,n_features_S2,52
+training sample table,n_features_S1,15
+training sample table,n_features_L89,26
+training sample table,n_features_DEM,4
+training sample table,n_features_Other,0
+validation sample table,n_rows,900
+validation sample table,n_features,97
+validation sample table,n_features_S2,52
+validation sample table,n_features_S1,15
+validation sample table,n_features_L89,26
+validation sample table,n_features_DEM,4
+validation sample table,n_features_Other,0
+combined samples,n_rows,3000
+validation prediction file,n_rows,900
+validation prediction file,prediction_column,classification
+GEE district coffee area,max_abs_subclass_sum_difference_ha,0.0
+coffee area consistency,class_area_coffee_ha,227720.741
+coffee area consistency,district_sum_coffee_ha,227720.741
+coffee area consistency,relative_difference_percent,0.0

@@ -1,0 +1,28 @@
+name: Smoke test
+
+# Fast sanity check only: confirms src/coffeemap imports cleanly and
+# config/paper1_config.yaml still parses with the manuscript's 10 class
+# definitions. It does NOT re-run the notebooks (they need the GEE-exported
+# CSVs in data/raw/, which are not tracked here -- see README.md's Data
+# availability section and REPRODUCIBILITY.md).
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  smoke-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r notebooks/requirements-lock.txt
+
+      - name: Run smoke test
+        run: pytest tests/ -v
